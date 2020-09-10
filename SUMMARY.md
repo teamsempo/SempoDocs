@@ -16,6 +16,7 @@
 * [Dashboard overview](sempo-platform/dashboard-overview/README.md)
   * [Definitions](sempo-platform/dashboard-overview/definitions.md)
   * [Dashboard FAQs](sempo-platform/dashboard-overview/faqs.md)
+  * [Dashboard Settings](sempo-platform/dashboard-overview/dashboard-settings.md)
 * [Accessing the Dashboard](sempo-platform/accessing-the-dashboard/README.md)
   * [Inviting New Admins](sempo-platform/accessing-the-dashboard/accessing-the-dashboard.md)
   * [How to log in](sempo-platform/accessing-the-dashboard/how-to-log-in.md)
@@ -26,6 +27,7 @@
 * [Managing participants](sempo-platform/managing-beneficiaries/README.md)
   * [Disbursing Funds](sempo-platform/managing-beneficiaries/disbursing-funds.md)
   * [Filtering](sempo-platform/managing-beneficiaries/filtering.md)
+* [Managing Transfers](sempo-platform/managing-transfers.md)
 * [Analysing beneficiary and vendor data](sempo-platform/analysing-beneficiary-and-vendor-data.md)
 
 ## Sempo Mobile App <a id="mobile-app"></a>
@@ -35,6 +37,14 @@
 * [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
 * [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
 * [Mobile App FAQs & Troubleshooting](mobile-app/mobile-app-faqs.md)
+
+## Sempo Tap-to-Pay Cards
+
+* [Using Sempo's contactless cards](sempo-tap-to-pay-cards/using-sempos-contactless-cards.md)
+
+## Sempo USSD payments
+
+* [Using Sempo's USSD payments](sempo-ussd-payments/using-sempos-ussd-payments.md)
 
 ## Integrations
 

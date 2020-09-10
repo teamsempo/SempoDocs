@@ -1,5 +1,13 @@
 # Disbursing Funds
 
+{% hint style="info" %}
+**Note:** Transfers made by an admin will only be _automatically approved_ if the value equals the default amount set on the system. See [Dashboard Settings](../dashboard-overview/dashboard-settings.md). 
+{% endhint %}
+
+{% hint style="success" %}
+Superadmins can approve transfers by following the [Managing Transfers](../managing-transfers.md#approving-transfers) guide.
+{% endhint %}
+
 ## Disbursing funds to an individual
 
 **Step 1:** On an Individual Vendor/Beneficiary Account, click “New Transfer” button.

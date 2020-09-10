@@ -2,20 +2,18 @@
 
 ## Transfer Types
 
-What are the different types of transfers?
+The Sempo platform offers four core types of transactions Payments, Deposits, Withdrawals and Exchanges. These are described below:
 
-* **Payment -** a transfer between beneficiary and vendor, or vendor to vendor
-* **Disbursement -** a transfer between NGO and a beneficiary
-* **Reclamation -** this occurs when the NGO “reclaims” value from a beneficiary \(e.g. because too much money has been incorrectly disbursed to them. While this isn’t technically a reversal of a transfer, it delivers the same effect\)
-* **Withdrawal -** a transfer between third party to the vendor, to enable them to “cash out” their credits into Vatu. \(This detail will only be shown on designed administrator accounts\)
-* **Exchange -** exchange between two types of currencies.
-* **Fee -** a transfer that is a fee \(i.e. currency conversion fees\)
-* **Incentive** - a transfer that is a program incentive \(i.e. incentive for vendors\)
-
-What's the difference in purposes between reclamation and withdrawal? 
-
-* **Reclamation -** the ****purpose is to correct a mistake. Is what the NGO will do to “reclaim” value from a beneficiary or vendor \(e.g. because money has been incorrectly disbursed to them\). 
-* **Withdrawal -** the purpose is to enable vendors to withdraw or “cash out”, and receive cash in exchange for their credits
+* **Payment** refers to a recipient making a payment at a vendor, or a vendor making a payment at a vendor.
+* **Disbursement** is a payment that refers to the NGO transferring funds from their digital wallet to a recipient or vendor digital wallet
+* **Reclamation** is a payment that refers to an NGO reclaiming funds from a recipients or vendors digital wallet to their digital wallet
+* **Agent In** is a payment that refers to recipient exchanging physical cash for funds in their digital wallet at a registered agent
+* **Agent Out** is a payment that refers to recipient sending a registered agent money for physical cash exchange
+* **Incentive** is a payment that refers to Sempo or an organisation sending funds to a user as a marketing promotion, incentive for cashing out or other incentivized actions.
+* **Fee** is a payment that refers to Sempo \(or other\) charging a payment fee for services.
+* **Deposit** refers to a user or organisation “on-ramping” or adding funds to their digital wallet from their local Fiat currency \(e.g. Australia Dollars\)
+* **Withdrawal** refers to a user or organisation “off-ramping” or withdrawing their funds for their local Fiat currency \(e.g. Australia Dollars\)
+* **Exchange** refers to a user or organisation exchanging a currency for another \(i.e. United States Dollars for Australian Dollars\)
 
 ## Users
 
