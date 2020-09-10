@@ -30,10 +30,10 @@
 ## Sempo Mobile App <a id="mobile-app"></a>
 
 * [Installing the Sempo app](mobile-app/installing-android-devices-with-the-sempo-app.md)
+* [App Navigation](mobile-app/app-navigation.md)
 * [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
 * [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
-* [Online and offline functionality](mobile-app/online-and-offline-functionality.md)
-* [Mobile App FAQs](mobile-app/mobile-app-faqs.md)
+* [Mobile App FAQs & Troubleshooting](mobile-app/mobile-app-faqs.md)
 
 ## Integrations
 

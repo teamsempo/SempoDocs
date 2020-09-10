@@ -1,2 +1,0 @@
-# Online and offline functionality
-
