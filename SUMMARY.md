@@ -15,7 +15,7 @@
 
 * [Dashboard overview](sempo-platform/dashboard-overview/README.md)
   * [Definitions](sempo-platform/dashboard-overview/definitions.md)
-  * [FAQs](sempo-platform/dashboard-overview/faqs.md)
+  * [Dashboard FAQs](sempo-platform/dashboard-overview/faqs.md)
 * [Accessing the Dashboard](sempo-platform/accessing-the-dashboard/README.md)
   * [Inviting New Admins](sempo-platform/accessing-the-dashboard/accessing-the-dashboard.md)
   * [How to log in](sempo-platform/accessing-the-dashboard/how-to-log-in.md)
@@ -43,7 +43,7 @@
 
 ## Policies & Security
 
-* [FAQs](policies-and-security/faqs.md)
+* [Security FAQs](policies-and-security/faqs.md)
 * [Privacy Policy](https://withsempo.com/legal/privacy-policy/)
 * [Platform Terms](https://withsempo.com/legal/platform-terms/)
 * [AML/CTF Policy](https://withsempo.com/legal/aml-policy/)

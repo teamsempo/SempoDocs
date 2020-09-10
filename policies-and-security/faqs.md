@@ -4,7 +4,7 @@ description: >-
   send money
 ---
 
-# FAQs
+# Security FAQs
 
 ## What are Sempo Account Limits?
 
