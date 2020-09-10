@@ -55,7 +55,21 @@ Registration via an-in person interview
 
 ## 3. Via Spreadsheet Upload
 
-Disabled
+If you wish to enroll recipients from a spreadsheet, follow the below steps
+
+* **Step 1:** From the “Accounts’’ tab
+* **Step 2:** Select Add New Account, as described above.
+* **Step 3:** This time, click on “upload spreadsheet”
+
+Spreadsheets must contain columns with: 
+
+* recipient's first names, 
+* recipients last names and; 
+* either their phone number or transfer card id.
+
+Custom fields such as age and gender can also be added, and used to filter users.
+
+Follow the steps described on the screen.
 
 ## 4. Via Self Sign Up
 

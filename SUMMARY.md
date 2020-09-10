@@ -23,8 +23,9 @@
   * [How to reset your password](sempo-platform/accessing-the-dashboard/how-to-reset-your-password.md)
   * [Admin Access Tiers](sempo-platform/accessing-the-dashboard/access-tiers.md)
 * [How to register participants](sempo-platform/how-to-register-participants.md)
-* [Managing beneficiaries](sempo-platform/managing-beneficiaries.md)
-* [Managing vendors](sempo-platform/managing-vendors.md)
+* [Managing participants](sempo-platform/managing-beneficiaries/README.md)
+  * [Disbursing Funds](sempo-platform/managing-beneficiaries/disbursing-funds.md)
+  * [Filtering](sempo-platform/managing-beneficiaries/filtering.md)
 * [Analysing beneficiary and vendor data](sempo-platform/analysing-beneficiary-and-vendor-data.md)
 
 ## Sempo Mobile App <a id="mobile-app"></a>
@@ -43,6 +44,7 @@
 
 ## Policies & Security
 
+* [Compliance \(AML/CTF\)](policies-and-security/compliance-aml-ctf.md)
 * [Security FAQs](policies-and-security/faqs.md)
 * [Privacy Policy](https://withsempo.com/legal/privacy-policy/)
 * [Platform Terms](https://withsempo.com/legal/platform-terms/)

@@ -17,6 +17,8 @@
 
 ## How to accept payments?
 
+{% embed url="https://www.youtube.com/watch?v=8\_JGUpLww9c" %}
+
 1. Open the Sempo app
 2. Select **Transaction Mode** ![](../.gitbook/assets/1awqxppuohxec1qye0-c16alhcxvsdepdrnekeugjgq.png) 
 3. Use a slider on top of the screen. **Slide it to the left.** ![](../.gitbook/assets/screen-shot-2020-09-10-at-4.37.16-pm.png) 
