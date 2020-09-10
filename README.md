@@ -8,11 +8,11 @@
 
 ## Quick Start
 
-If you've already got a Sempo instance setup, here are 4 steps to start with Sempo.
+If Sempo has already set up your Platform for you, here are 4 steps to getting started.
 
 {% page-ref page="getting-started/quick-start/4-steps-to-start-with-sempo.md" %}
 
-## Documentation Breakdown
+## Contents
 
 ## General FAQs
 
