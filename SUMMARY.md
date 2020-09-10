@@ -28,15 +28,15 @@
 * [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
 * [Online and offline functionality](mobile-app/online-and-offline-functionality.md)
 
-## Integrations <a id="integrations-1"></a>
+## Integrations
 
-* [Sempo API \(Beta\)](integrations-1/sempo-api-beta.md)
-* [KoboToolbox](integrations-1/kobotoolbox.md)
+* [Sempo API \(Beta\)](integrations/sempo-api-beta.md)
+* [KoboToolbox](integrations/kobotoolbox.md)
 * [Don't see an integration? Contact Us!](mailto:team@withsempo.com)
 
-## Policies & Security <a id="policies-and-security-1"></a>
+## Policies & Security
 
-* [FAQs](policies-and-security-1/faqs.md)
+* [FAQs](policies-and-security/faqs.md)
 * [Privacy Policy](https://withsempo.com/legal/privacy-policy/)
 * [Platform Terms](https://withsempo.com/legal/platform-terms/)
 * [AML/CTF Policy](https://withsempo.com/legal/aml-policy/)
