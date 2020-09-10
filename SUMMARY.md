@@ -13,20 +13,27 @@
 
 ## Sempo Platform
 
-* [Dashboard overview](sempo-platform/dashboard-overview.md)
-* [Access Tiers](sempo-platform/access-tiers/README.md)
-  * [Accessing the Dashboard](sempo-platform/access-tiers/accessing-the-dashboard.md)
-  * [Common Login Errors](sempo-platform/access-tiers/common-login-errors.md)
+* [Dashboard overview](sempo-platform/dashboard-overview/README.md)
+  * [Definitions](sempo-platform/dashboard-overview/definitions.md)
+  * [FAQs](sempo-platform/dashboard-overview/faqs.md)
+* [Accessing the Dashboard](sempo-platform/accessing-the-dashboard/README.md)
+  * [Inviting New Admins](sempo-platform/accessing-the-dashboard/accessing-the-dashboard.md)
+  * [How to log in](sempo-platform/accessing-the-dashboard/how-to-log-in.md)
+  * [Common Login Errors](sempo-platform/accessing-the-dashboard/common-login-errors.md)
+  * [How to reset your password](sempo-platform/accessing-the-dashboard/how-to-reset-your-password.md)
+  * [Admin Access Tiers](sempo-platform/accessing-the-dashboard/access-tiers.md)
+* [How to register participants](sempo-platform/how-to-register-participants.md)
 * [Managing beneficiaries](sempo-platform/managing-beneficiaries.md)
 * [Managing vendors](sempo-platform/managing-vendors.md)
 * [Analysing beneficiary and vendor data](sempo-platform/analysing-beneficiary-and-vendor-data.md)
 
 ## Sempo Mobile App <a id="mobile-app"></a>
 
-* [Installing Android devices with the Sempo app](mobile-app/installing-android-devices-with-the-sempo-app.md)
+* [Installing the Sempo app](mobile-app/installing-android-devices-with-the-sempo-app.md)
 * [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
 * [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
 * [Online and offline functionality](mobile-app/online-and-offline-functionality.md)
+* [Mobile App FAQs](mobile-app/mobile-app-faqs.md)
 
 ## Integrations
 

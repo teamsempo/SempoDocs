@@ -2,7 +2,7 @@
 
 ## About Sempo
 
-[Sempo](https://withsempo.com/ngo-cash-transfers/) is an end-to-end cash transfer platform for NGOs to rapidly and efficiently deploy humanitarian programs. We're used by global NGOs such as Oxfam, Mercy Corps and the Red Cross.
+[Sempo](https://withsempo.com/ngo-cash-transfers/) is an end-to-end cash transfer platform for NGOs to rapidly and efficiently deploy humanitarian programs. We're used by global NGOs such as Oxfam, Mercy Corps and the Red Cross to run cash and voucher assistance programs.
 
 {% page-ref page="getting-started/quick-start/what-is-sempo.md" %}
 
