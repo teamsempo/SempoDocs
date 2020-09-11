@@ -7,7 +7,7 @@
 * [Quick Start](getting-started/quick-start/README.md)
   * [What is Sempo?](getting-started/quick-start/what-is-sempo.md)
   * [Sempo Products Explained](getting-started/quick-start/sempo-products-explained.md)
-  * [How to enrol a participant, transfer money and make a payment](getting-started/quick-start/4-steps-to-start-with-sempo.md)
+  * [Sempo Payments Overview](getting-started/quick-start/4-steps-to-start-with-sempo.md)
 * [General FAQs](getting-started/general-faqs.md)
 
 ## Sempo Platform
