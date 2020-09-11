@@ -9,7 +9,6 @@
   * [Sempo Products Explained](getting-started/quick-start/sempo-products-explained.md)
   * [4 Steps to Start with Sempo](getting-started/quick-start/4-steps-to-start-with-sempo.md)
 * [General FAQs](getting-started/general-faqs.md)
-* [Getting started with Sempo](getting-started/getting-started-with-sempo.md)
 
 ## Sempo Platform
 
