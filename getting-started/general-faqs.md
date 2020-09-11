@@ -8,7 +8,7 @@
 
 {% page-ref page="../sempo-platform/dashboard-overview/" %}
 
-### I need to learn how to enrol and manage participants \(beneficiaries and vendors\) in a cash transfer program. What do I need to do?
+### How do I enrol and manage participants \(beneficiaries and vendors\) in a cash transfer program?
 
 {% page-ref page="../sempo-platform/how-to-register-participants.md" %}
 
@@ -16,7 +16,7 @@
 
 {% page-ref page="../sempo-platform/managing-transfers.md" %}
 
-### I need to see what participants are spending their money on. How do I do this?
+### How do I analyse what transfers are happening, and what participants are spending their money on?
 
 {% page-ref page="../sempo-platform/analysing-beneficiary-and-vendor-data.md" %}
 
