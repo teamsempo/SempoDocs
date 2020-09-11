@@ -8,6 +8,8 @@
 Superadmins can approve transfers by following the [Managing Transfers](../managing-transfers.md#approving-transfers) guide.
 {% endhint %}
 
+{% page-ref page="../../getting-started/quick-start/sempo-payments-overview.md" %}
+
 ## Disbursing funds to an individual
 
 **Step 1:** On an Individual Vendor/Beneficiary Account, click “New Transfer” button.

@@ -10,7 +10,7 @@
 
 If Sempo has already set up your Platform for you, here are 4 steps to getting started.
 
-{% page-ref page="getting-started/quick-start/4-steps-to-start-with-sempo.md" %}
+{% page-ref page="getting-started/quick-start/sempo-payments-overview.md" %}
 
 ## Contents
 

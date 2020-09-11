@@ -31,7 +31,7 @@ This enables complex and powerful queries to gain new insights into how your pro
 
 ![How to access customer support](../../.gitbook/assets/nav.png)
 
-{% page-ref page="../../getting-started/quick-start/4-steps-to-start-with-sempo.md" %}
+{% page-ref page="../../getting-started/quick-start/sempo-payments-overview.md" %}
 
 ### Tiers: managing access
 
