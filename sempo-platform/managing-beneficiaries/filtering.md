@@ -4,3 +4,7 @@ From the accounts page, you are able to filter your searches, by selecting ![](h
 
 ![Filtering](../../.gitbook/assets/screen-shot-2020-09-11-at-6.47.12-am.png)
 
+{% page-ref page="../analysing-beneficiary-and-vendor-data.md" %}
+
+
+
