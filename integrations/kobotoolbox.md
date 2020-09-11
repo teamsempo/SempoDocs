@@ -42,9 +42,7 @@ For **Vendor KYC** the required fields are:
 * **“Phone”:** The same phone number provided in the sign up form
 * **“Selfie”:** A photo of the Vendor
 * **“Photo ID”:** A photo of the Vendor’s Identity Card \(Drivers License etc\)
-* **“Supporting ID”:** A photo of a supporting Identity Document such a bank statement
-
-### Optional Fields - Enrollment
+* **“Supporting ID”:** A photo of a supporting Identity Document such a bank statement **IF** the vendor is accepting more than **5,000 AUD a week** \([https://docs.withsempo.com/policies-and-security/faqs\#what-are-sempo-account-limits](https://docs.withsempo.com/policies-and-security/faqs#what-are-sempo-account-limits)\)
 
 There are many optional fields. The fields that might be useful are:
 
