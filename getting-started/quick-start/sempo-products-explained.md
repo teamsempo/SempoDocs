@@ -2,11 +2,12 @@
 
 ## The Hardware
 
-The Sempo platform uses three types of hardware technology, 
+The Sempo platform uses four types of hardware technology;
 
-1. A feature phone, for payments via USSD interface or SMS interface
-2. An NFC enabled Android Device to access the Sempo App, and make payments
-3. A Near Field Communication \(NFC\) card, to store users balance and make purchases
+1. A feature phone, for payments via USSD interface
+2. A feature phone, for payments via SMS interface
+3. An NFC enabled Android Device to access the Sempo App, and make payments
+4. A Near Field Communication \(NFC\) card, to store users balance and make purchases
 
 ![Supported Payment Modalities](../../.gitbook/assets/1ffehv7hn1vvw7ed8k2j_pdmfth2wjuhivisqgccgewcceyne.png)
 
