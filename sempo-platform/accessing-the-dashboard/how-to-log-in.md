@@ -8,7 +8,9 @@ This is the guide for **admin users** of the Sempo platform.
 2. Click on the invite link in your email inbox
 3. Sign up and set a secure password
 
-**Note: For superadmins, you need to set a two-factor authentication \(TFA\) code for increased security. We reccomend Google Authenticator.**
+**Note: For superadmins, you need to set a two-factor authentication \(2FA\) code for increased security. We reccomend Google Authenticator.**
+
+_**Two-factor authentication \(often shortened to 2FA\)** provides a way of 'double-checking' that you’re really the person you’re claiming to be when you log into your online accounts, such as banking, email or social media._
 
 > Google Authenticator is a software-based authenticator by Google that implements two-step verification services using the Time-based One-time Password Algorithm.
 
