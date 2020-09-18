@@ -78,7 +78,7 @@ There are many optional fields. The fields that might be useful are:
 
 1. Complete the following fields:
    1. Name: Sempo
-   2. Endpoint URL: [https://yourdomain.withsempo.com](https://yourdomain.withsempo.com/api/v1/kobo/user/)/api/v1/user/?preprocess=true
+   2. Endpoint URL: [https://yourdomain.withsempo.com/api/v1/user/?preprocess=true](https://yourdomain.withsempo.com/api/v1/user/?preprocess=true)
    3. Ensure ‘Enabled’ is CHECKED
    4. Type: JSON
    5. Security: Basic Authorization
@@ -89,15 +89,17 @@ There are many optional fields. The fields that might be useful are:
 
 ![](../.gitbook/assets/screen-shot-2020-09-10-at-5.25.35-pm.png)
 
-## New Kobo Integration Features
+## Advanced Kobo Integration Features
 
 ### Default Values
 
 We now support Default values on a per-form level. This means that unlike last time, enrollers don’t need to select “is vendor”: “true” every time they sign up a person:
 
-To add a default value, add a custom wrapper at the bottom of the “Add Rest Service” section:
+To add a default value, add a custom wrapper, for example `{"_data": %SUBMISSION%, "is_vendor": true}` at the bottom of the “Add Rest Service” section.
 
 ![](../.gitbook/assets/screen-shot-2020-09-10-at-5.28.37-pm.png)
+
+You can add anything you want as a default value. Don't forget that you always need to include `"_data": %SUBMISSION%`!
 
 ### Field name overrides
 
@@ -112,4 +114,28 @@ This can be manually updated on Sempo to be recognised as just “**Phone**”.
 {% hint style="info" %}
 For now, this needs to be done by a Sempo team member.
 {% endhint %}
+
+### Allow Modifications
+
+The Kobo integration can be configured to allow modifications to existing users.
+If you submit a form that has the same Phone or Card ID as an existing user, it’ll update the existing user’s settings. This is useful for providing more KYC information at a later date
+
+{% hint style="warning" %}
+WARNING: This setting should only be turned on when it’s needed, as it makes it easier to accidently use the same Touch-to-pay card twice on two different users.
+{% endhint %}
+
+To turn this setting on, add “&allow_as_update=true” to the webhook URL. For example:
+`https://yourdomain.withsempo.com/api/v1/user/?preprocess=true&allow_as_update=true`
+
+### Return raw data on error
+Sometimes it can be useful to know what Kobo is actually sending to the system. We now have a setting that will return a message containing exactly what Kobo sent, if there’s an error.
+To turn this setting on, add “&return_raw_on_error=true” to the webhook URL. For example:
+`https://yourdomain.withsempo.com/api/v1/user/?preprocess=true&return_raw_on_error=true`
+
+### Putting it all together
+You can combine any of the above advanced settings together in a single webhook URL. For example:
+`https://yourdomain.withsempo.com/api/v1/user/?preprocess=true&allow_as_update=true&return_raw_on_error=true`
+
+
+
 
