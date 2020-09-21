@@ -21,7 +21,7 @@ The Sempo platform is run on a server which performs core functions and connects
 The Administrator Dashboard can be accessed via Desktop or Mobile. 
 {% endhint %}
 
-![Sempo Admin Dashboard](../../.gitbook/assets/1edoqgoylyzpih2kbpcknkpdevuofyx3e182kdv57c77vqvhi.png)
+![Sempo Dashboard](../../.gitbook/assets/1edoqgoylyzpih2kbpcknkpdevuofyx3e182kdv57c77vqvhi.png)
 
 The Near Field Communication \(NFC\) card is used primarily because it is a portable, familiar way to pay for goods and accept payments. The card is encrypted with the users unique code, so that it securely holds the balance of the users digital wallet.
 

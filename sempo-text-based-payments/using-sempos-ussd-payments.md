@@ -1,4 +1,4 @@
-# Using Sempo's USSD payments
+# Using Sempo's text-based messaging option
 
 ![](../.gitbook/assets/screen-shot-2020-09-11-at-8.04.20-am.png)
 

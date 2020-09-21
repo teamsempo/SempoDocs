@@ -6,8 +6,8 @@
 
 * [Quick Start](getting-started/quick-start/README.md)
   * [What is Sempo?](getting-started/quick-start/what-is-sempo.md)
-  * [Our payment options and dashboard](getting-started/quick-start/sempo-products-explained.md)
   * [How Sempo's payments work \(5 min video\)](getting-started/quick-start/sempo-payments-overview.md)
+  * [Our payment options and dashboard](getting-started/quick-start/sempo-products-explained.md)
 * [General FAQs](getting-started/general-faqs.md)
 
 ## Sempo Platform
@@ -42,9 +42,9 @@
 
 * [Using Sempo's contactless cards](sempo-tap-to-pay-cards/using-sempos-contactless-cards.md)
 
-## Sempo USSD payments
+## Sempo text-based payments
 
-* [Using Sempo's USSD payments](sempo-ussd-payments/using-sempos-ussd-payments.md)
+* [Using Sempo's text-based messaging option](sempo-text-based-payments/using-sempos-ussd-payments.md)
 
 ## Integrations
 
