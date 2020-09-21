@@ -29,7 +29,7 @@ _**Custom fields**_ are any fields that are not **required** or **optional**. Se
 
 ### Required Fields
 
-For **Beneficiary and Vendor enrollment** the required fields are: 
+For **Beneficiary and Vendor enrollment** the required fields are:
 
 * **“First name”:** The participant’s first name
 * **“Last name”:** The participant’s last name
@@ -37,7 +37,7 @@ For **Beneficiary and Vendor enrollment** the required fields are:
   * **“Phone”:** The participant’s phone number \(must be a valid phone number\)
   * **“Public Serial Number”:** The ID of the Touch-to-pay card that is being given to the participant \(use the Barcode/QR Code type\)
 
-For **Vendor KYC** the required fields are: 
+For **Vendor KYC** the required fields are:
 
 * **“Phone”:** The same phone number provided in the sign up form
 * **“Selfie”:** A photo of the Vendor
@@ -50,7 +50,7 @@ There are many optional fields. The fields that might be useful are:
 * **“Location”:** The text address or town of the participant, for example “Pango”
 * **“GPS”:** The GPS coordinates of the participant, provided using Kobo’s “Point” field.
 
-## Linking a form to Sempo 
+## Linking a form to Sempo
 
 ### Step 1 - Get your Kobo Credentials:
 
@@ -109,7 +109,7 @@ For example if the group was “Identity Information” and the Field was “Pho
 
 “**Indentity\_Information\_Phone**”
 
-This can be manually updated on Sempo to be recognised as just “**Phone**”. 
+This can be manually updated on Sempo to be recognised as just “**Phone**”.
 
 {% hint style="info" %}
 For now, this needs to be done by a Sempo team member.
@@ -117,25 +117,19 @@ For now, this needs to be done by a Sempo team member.
 
 ### Allow Modifications
 
-The Kobo integration can be configured to allow modifications to existing users.
-If you submit a form that has the same Phone or Card ID as an existing user, it’ll update the existing user’s settings. This is useful for providing more KYC information at a later date
+The Kobo integration can be configured to allow modifications to existing users. If you submit a form that has the same Phone or Card ID as an existing user, it’ll update the existing user’s settings. This is useful for providing more KYC information at a later date
 
 {% hint style="warning" %}
 WARNING: This setting should only be turned on when it’s needed, as it makes it easier to accidently use the same Touch-to-pay card twice on two different users.
 {% endhint %}
 
-To turn this setting on, add “&allow_as_update=true” to the webhook URL. For example:
-`https://yourdomain.withsempo.com/api/v1/user/?preprocess=true&allow_as_update=true`
+To turn this setting on, add “&allow\_as\_update=true” to the webhook URL. For example: `https://yourdomain.withsempo.com/api/v1/user/?preprocess=true&allow_as_update=true`
 
 ### Return raw data on error
-Sometimes it can be useful to know what Kobo is actually sending to the system. We now have a setting that will return a message containing exactly what Kobo sent, if there’s an error.
-To turn this setting on, add “&return_raw_on_error=true” to the webhook URL. For example:
-`https://yourdomain.withsempo.com/api/v1/user/?preprocess=true&return_raw_on_error=true`
+
+Sometimes it can be useful to know what Kobo is actually sending to the system. We now have a setting that will return a message containing exactly what Kobo sent, if there’s an error. To turn this setting on, add “&return\_raw\_on\_error=true” to the webhook URL. For example: `https://yourdomain.withsempo.com/api/v1/user/?preprocess=true&return_raw_on_error=true`
 
 ### Putting it all together
-You can combine any of the above advanced settings together in a single webhook URL. For example:
-`https://yourdomain.withsempo.com/api/v1/user/?preprocess=true&allow_as_update=true&return_raw_on_error=true`
 
-
-
+You can combine any of the above advanced settings together in a single webhook URL. For example: `https://yourdomain.withsempo.com/api/v1/user/?preprocess=true&allow_as_update=true&return_raw_on_error=true`
 

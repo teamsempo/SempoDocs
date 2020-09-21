@@ -49,6 +49,12 @@ _Do you need cash sooner than the agreed pay cycle?_
 3. **Payout cash** in the amount you received in your digital wallet. ![](../.gitbook/assets/screen-shot-2020-09-10-at-5.00.21-pm.png) 
 4. **Register in your books.** Remember to register the pay out in your own books. ![](../.gitbook/assets/screen-shot-2020-09-10-at-5.01.13-pm.png) 
 
+{% hint style="success" %}
+**Tips to ensuring your phone can scan the QR Code!**  
+1. Clean your phone camera lens   
+2. Hold the phone still when scanning
+{% endhint %}
+
 ## Refunds
 
 If a vendor needs to refund a recipient \(eg. if they accidentally overcharged\), the vendor needs to:
