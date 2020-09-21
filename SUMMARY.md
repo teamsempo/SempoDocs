@@ -6,8 +6,8 @@
 
 * [Quick Start](getting-started/quick-start/README.md)
   * [What is Sempo?](getting-started/quick-start/what-is-sempo.md)
-  * [Sempo Products Explained](getting-started/quick-start/sempo-products-explained.md)
-  * [Sempo Payments Overview](getting-started/quick-start/sempo-payments-overview.md)
+  * [Our payment options and dashboard](getting-started/quick-start/sempo-products-explained.md)
+  * [How Sempo's payments work \(5 min video\)](getting-started/quick-start/sempo-payments-overview.md)
 * [General FAQs](getting-started/general-faqs.md)
 
 ## Sempo Platform
@@ -16,27 +16,27 @@
   * [Definitions](sempo-platform/dashboard-overview/definitions.md)
   * [Dashboard FAQs](sempo-platform/dashboard-overview/faqs.md)
   * [Dashboard Settings](sempo-platform/dashboard-overview/dashboard-settings.md)
-* [Accessing the Dashboard](sempo-platform/accessing-the-dashboard/README.md)
-  * [Inviting New Admins](sempo-platform/accessing-the-dashboard/accessing-the-dashboard.md)
+* [Accessing the dashboard](sempo-platform/accessing-the-dashboard/README.md)
+  * [Inviting new admins](sempo-platform/accessing-the-dashboard/accessing-the-dashboard.md)
   * [How to log in](sempo-platform/accessing-the-dashboard/how-to-log-in.md)
-  * [Common Login Errors](sempo-platform/accessing-the-dashboard/common-login-errors.md)
+  * [Common login errors](sempo-platform/accessing-the-dashboard/common-login-errors.md)
   * [How to reset your password](sempo-platform/accessing-the-dashboard/how-to-reset-your-password.md)
-  * [Admin Access Tiers](sempo-platform/accessing-the-dashboard/access-tiers.md)
+  * [Admin access tiers](sempo-platform/accessing-the-dashboard/access-tiers.md)
 * [How to register participants](sempo-platform/how-to-register-participants.md)
 * [Managing participants](sempo-platform/managing-beneficiaries/README.md)
-  * [Disbursing Funds](sempo-platform/managing-beneficiaries/disbursing-funds.md)
+  * [Disbursing funds](sempo-platform/managing-beneficiaries/disbursing-funds.md)
   * [Filtering](sempo-platform/managing-beneficiaries/filtering.md)
-  * [Exporting to Excel](sempo-platform/managing-beneficiaries/exporting-to-excel.md)
+  * [Exporting to excel](sempo-platform/managing-beneficiaries/exporting-to-excel.md)
 * [Managing transfers](sempo-platform/managing-transfers.md)
 * [Analysing beneficiary and vendor data](sempo-platform/analysing-beneficiary-and-vendor-data.md)
 
 ## Sempo Mobile App <a id="mobile-app"></a>
 
 * [Installing the Sempo app](mobile-app/installing-android-devices-with-the-sempo-app.md)
-* [App Navigation](mobile-app/app-navigation.md)
+* [Navigating the Sempo app](mobile-app/app-navigation.md)
 * [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
 * [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
-* [Mobile App FAQs & Troubleshooting](mobile-app/mobile-app-faqs.md)
+* [Sempo App FAQs & Troubleshooting](mobile-app/mobile-app-faqs.md)
 
 ## Sempo Tap-to-Pay Cards
 

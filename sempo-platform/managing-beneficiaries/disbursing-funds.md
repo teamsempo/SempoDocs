@@ -1,4 +1,4 @@
-# Disbursing Funds
+# Disbursing funds
 
 {% hint style="info" %}
 **Note:** Transfers made by an admin will only be _automatically approved_ if the value equals the default amount set on the system. See [Dashboard Settings](../dashboard-overview/dashboard-settings.md). 

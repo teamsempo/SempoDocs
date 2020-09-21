@@ -1,21 +1,21 @@
-# Sempo Products Explained
+# Our payment options and dashboard
 
-## The Hardware
+## Payment options 
 
-The Sempo platform uses four types of hardware technology;
+We support four types of payment options:
 
-1. A feature phone, for payments via USSD interface
-2. A feature phone, for payments via SMS interface
-3. An NFC enabled Android Device to access the Sempo App, and make payments
-4. A Near Field Communication \(NFC\) card, to store users balance and make purchases
+1. The Sempo Android app, which can run on any NFC-enabled Android Device 
+2. USSD text-based messaging, which can run on any feature phone
+3. SMS messaging, which can run on any feature phone
+4. A contactless "tap-to-pay" card, which can store users balance and make purchases without any internet connection
 
-![Supported Payment Modalities](../../.gitbook/assets/1ffehv7hn1vvw7ed8k2j_pdmfth2wjuhivisqgccgewcceyne.png)
+At this time, we only support Android devices \(iOS coming late 2020\). 
 
-At this time, we only support Android devices \(iOS coming late 2020\). In order to process card payments, Android phones must be NFC compatible.
+![Sempo&apos;s payment options](../../.gitbook/assets/image%20%281%29.png)
 
-## The Platform
+## The Sempo platform and dashboard
 
-The Sempo platform is run on a server which performs core functions and connects to the Ethereum blockchain, referred to as the Dashboard or the Platform. 
+The Sempo platform is run on a server which performs core functions and connects to a public blockchain. 
 
 {% hint style="info" %}
 The Administrator Dashboard can be accessed via Desktop or Mobile. 
@@ -23,7 +23,7 @@ The Administrator Dashboard can be accessed via Desktop or Mobile.
 
 ![Sempo Admin Dashboard](../../.gitbook/assets/1edoqgoylyzpih2kbpcknkpdevuofyx3e182kdv57c77vqvhi.png)
 
-The Near field Communication \(NFC\) card is used primarily because it is a portable, familiar way to pay for goods and accept payments. The card is encrypted with the users unique code, so that it securely holds the balance of the users digital wallet.
+The Near Field Communication \(NFC\) card is used primarily because it is a portable, familiar way to pay for goods and accept payments. The card is encrypted with the users unique code, so that it securely holds the balance of the users digital wallet.
 
 When you order a batch of NFC cards, they are synced to your dashboard for use immediately. They can work in low or no connectivity environments for extended periods of time, until such time as the vendor wishes to be repaid.
 

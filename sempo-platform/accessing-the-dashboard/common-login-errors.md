@@ -1,4 +1,4 @@
-# Common Login Errors
+# Common login errors
 
 ## I can't log in.
 

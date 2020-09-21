@@ -4,7 +4,7 @@ description: >-
   payment on the Sempo Platform
 ---
 
-# Sempo Payments Overview
+# How Sempo's payments work \(5 min video\)
 
 {% embed url="https://www.youtube.com/watch?v=qbzQmvcHtmo&feature=youtu.be" %}
 

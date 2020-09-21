@@ -1,4 +1,4 @@
-# App Navigation
+# Navigating the Sempo app
 
 * **E-wallet Balance:** displays the available balance in the wallet
 * **List of transactions:** displays all transactions made in the account

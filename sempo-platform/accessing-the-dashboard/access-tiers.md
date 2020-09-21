@@ -1,4 +1,4 @@
-# Admin Access Tiers
+# Admin access tiers
 
 The platform offers four levels of access:
 

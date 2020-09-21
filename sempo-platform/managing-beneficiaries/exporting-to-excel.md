@@ -1,4 +1,4 @@
-# Exporting to Excel
+# Exporting to excel
 
 1. Go to the accounts page
 

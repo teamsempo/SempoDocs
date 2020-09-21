@@ -1,4 +1,4 @@
-# Mobile App FAQs & Troubleshooting
+# Sempo App FAQs & Troubleshooting
 
 ## Online vs Offline Functionality?
 
