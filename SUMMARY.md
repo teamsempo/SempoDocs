@@ -65,3 +65,7 @@
 * [Support](help-and-feedback/support.md)
 * [Email Support](mailto:help@withsempo.com)
 
+---
+
+* [Pricing](pricing.md)
+
