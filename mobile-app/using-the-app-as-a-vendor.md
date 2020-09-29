@@ -67,5 +67,5 @@ If a vendor needs to refund a recipient \(eg. if they accidentally overcharged\)
 ![](../.gitbook/assets/export.png)
 
 1. Go to the settings page and click "Export Data"
-2. Enter an email address and click the button. You will receive an email with a spreadsheet link \(expires in 24 hours\).
+2. Enter an email address and click the button. You will receive an email with a spreadsheet link \(expires in 24 hours\). This contains all transfers on the account with data. Specifically: Transfer Amount, Created, Resolved Date, Transfer Type, Transfer Use, Transfer Status.
 
