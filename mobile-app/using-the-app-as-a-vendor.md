@@ -62,5 +62,10 @@ If a vendor needs to refund a recipient \(eg. if they accidentally overcharged\)
 1. Notify the organisation managing the cash transfer program who will perform a reclamation of the amount
 2. The organisation will then disburse that amount to the recipient.
 
+## Exporting Data
 
+![](../.gitbook/assets/export.png)
+
+1. Go to the settings page and click "Export Data"
+2. Enter an email address and click the button. You will receive an email with your transfers.
 
