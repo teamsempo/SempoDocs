@@ -1,4 +1,4 @@
-# How to log in
+# How to sign up to the Dashboard
 
 {% hint style="info" %}
 This is the guide for **admin users** of the Sempo platform.
@@ -24,7 +24,7 @@ DO NOT delete the Google Authenticator mobile app or codes without first changin
 
 If there’s an error, please contact [help@withsempo.com](mailto:help@withsempo.com)
 
-{% page-ref page="common-login-errors.md" %}
+{% page-ref page="../common-login-errors.md" %}
 
 
 

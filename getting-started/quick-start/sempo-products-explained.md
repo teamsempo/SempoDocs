@@ -1,28 +1,36 @@
-# What are our payment options?
+# What does Sempo provide?
 
-## Payment options 
+## Sempo's Payment Options 
 
-We support three key types of payment options:
+Sempo can provide three types of payment options:
 
-1. **The Sempo Android app, which can run on any NFC-enabled Android Device.** This can be used by vendors to receive payments by beneficiaries. It can also be used for peer-to-peer transfers.
-2. **USSD/SMS text-based messaging, which can run on any feature phone.** This means beneficiaries can send digital currency with something as simple as an SMS. 
-3. **A contactless "tap-to-pay" card.** This can be used by beneficiaries to make purchases from vendors without any internet connection.
+1. **The Sempo Android app.** This can be used by vendors to receive payments from beneficiaries, for peer-to-peer or government-to-person transfers. Our app can run on any Android phone with "Near Field Communication" \(NFC\) technology. 
+2. **USSD/SMS text-based messaging.** This option can run on any feature phone. This means beneficiaries can send digital currency with something as simple as an SMS text message.
+3. **A contactless "tap-to-pay" card.** These cards can be used to make a purchase from a vendor, simply by tapping the card against the vendor's phone - even if there is no internet connection at the time. \(Our cards are NFC-enabled, and securely store the balance of the beneficiary's wallet on the card.\)
 
 At this time, we only support Android devices \(iOS coming late 2020\). 
 
 ![Sempo&apos;s payment options](../../.gitbook/assets/image%20%281%29.png)
 
-The Near Field Communication \(NFC\) card is used primarily because it is a portable, familiar way to pay for goods and accept payments. The card is encrypted with the users unique code, so that it securely holds the balance of the users digital wallet.
+When you order a batch of contactless "tap to pay" cards, we can make sure they are synced to your particular dashboard for use immediately. \(During enrolment of your beneficiaries, you or your Field Partner will be able to sync a particular card to each particular beneficiary.\) 
 
-When you order a batch of NFC cards, they are synced to your dashboard for use immediately. They can work in low or no connectivity environments for extended periods of time, until such time as the vendor wishes to be repaid.
+## The Sempo Dashboard 
 
-## The Sempo Platform and Analytics Dashboard
+Sempo will set up a specific version \(or "instance"\) of the Sempo Platform for your organisation and cash transfer program.
 
-The Sempo platform is run on a server which performs core functions and connects to a public blockchain. 
+You will then be able to use the Sempo Administrative Dashboard to deploy
 
-{% hint style="info" %}
-The Administrator Dashboard can be accessed via Desktop or Mobile. 
-{% endhint %}
+The Sempo Administrative Dashboard can be accessed via Desktop computer or by Mobile.
+
+You can use this Dashboard to register your program participants \(vendors and beneficiaries\), disburse money to your participants, and monitor how they are spending their money. 
 
 ![Sempo Dashboard](../../.gitbook/assets/1edoqgoylyzpih2kbpcknkpdevuofyx3e182kdv57c77vqvhi.png)
+
+{% hint style="success" %}
+The Sempo Platform connects to a public blockchain. This makes financial reporting very easy for our partners.
+{% endhint %}
+
+## Operational, financial and technical support 
+
+Sempo has 
 

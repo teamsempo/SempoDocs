@@ -7,21 +7,23 @@
 * [Quick Start](getting-started/quick-start/README.md)
   * [What is Sempo?](getting-started/quick-start/what-is-sempo.md)
   * [How Sempo's payments work \(5 min video\)](getting-started/quick-start/sempo-payments-overview.md)
-  * [What are our payment options?](getting-started/quick-start/sempo-products-explained.md)
-* [General FAQs](getting-started/general-faqs.md)
+  * [What does Sempo provide?](getting-started/quick-start/sempo-products-explained.md)
+
+---
+
+* [Quick FAQs](general-faqs.md)
 
 ## Sempo Platform
 
 * [Dashboard overview](sempo-platform/dashboard-overview/README.md)
-  * [Definitions](sempo-platform/dashboard-overview/definitions.md)
   * [Dashboard FAQs](sempo-platform/dashboard-overview/faqs.md)
   * [Dashboard Settings](sempo-platform/dashboard-overview/dashboard-settings.md)
+* [Admin access tiers](sempo-platform/access-tiers.md)
 * [Accessing the dashboard](sempo-platform/accessing-the-dashboard/README.md)
   * [Inviting new admins](sempo-platform/accessing-the-dashboard/accessing-the-dashboard.md)
-  * [How to log in](sempo-platform/accessing-the-dashboard/how-to-log-in.md)
-  * [Common login errors](sempo-platform/accessing-the-dashboard/common-login-errors.md)
+  * [How to sign up to the Dashboard](sempo-platform/accessing-the-dashboard/how-to-log-in.md)
   * [How to reset your password](sempo-platform/accessing-the-dashboard/how-to-reset-your-password.md)
-  * [Admin access tiers](sempo-platform/accessing-the-dashboard/access-tiers.md)
+* [Common login errors](sempo-platform/common-login-errors.md)
 * [How to register participants](sempo-platform/how-to-register-participants.md)
 * [Managing participants](sempo-platform/managing-beneficiaries/README.md)
   * [Disbursing funds](sempo-platform/managing-beneficiaries/disbursing-funds.md)
@@ -40,7 +42,9 @@
 
 ## Sempo Tap-to-Pay Cards
 
-* [Using Sempo's contactless cards](sempo-tap-to-pay-cards/using-sempos-contactless-cards.md)
+* [Adding Sempo Cards to Your Platform](sempo-tap-to-pay-cards/adding-sempo-cards-to-your-platform.md)
+* [Adding a Sempo Card to a Beneficiary's Account](sempo-tap-to-pay-cards/adding-a-sempo-card-to-a-beneficiarys-account.md)
+* [Using Sempo's contactless cards, as a beneficiary](sempo-tap-to-pay-cards/using-sempos-contactless-cards.md)
 
 ## Sempo text-based payments
 
@@ -59,13 +63,11 @@
 * [Privacy Policy](https://withsempo.com/legal/privacy-policy/)
 * [Platform Terms](https://withsempo.com/legal/platform-terms/)
 * [AML/CTF Policy](https://withsempo.com/legal/aml-policy/)
+* [Pricing for Individuals](policies-and-security/pricing.md)
 
 ## Help & Feedback
 
 * [Support](help-and-feedback/support.md)
+* [Glossary of Terms](help-and-feedback/definitions.md)
 * [Email Support](mailto:help@withsempo.com)
-
----
-
-* [Pricing](pricing.md)
 
