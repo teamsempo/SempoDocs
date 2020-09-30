@@ -14,7 +14,7 @@ You will use the Sempo Dashboard for registering your program participants, disb
 
 ### Tiers: managing access
 
-{% page-ref page="../access-tiers.md" %}
+{% page-ref page="../accessing-the-dashboard/access-tiers.md" %}
 
 {% page-ref page="../accessing-the-dashboard/accessing-the-dashboard.md" %}
 

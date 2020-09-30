@@ -1,4 +1,4 @@
-# How to sign up to the Dashboard
+# Signing up as an admin to the Dashboard
 
 {% hint style="info" %}
 This is the guide for **admin users** of the Sempo platform.
