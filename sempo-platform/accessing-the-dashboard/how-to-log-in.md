@@ -14,7 +14,7 @@ This is the guide for **admin users** of the Sempo platform.
 _**Two-factor authentication \(often shortened to 2FA\)** provides a way of 'double-checking' that you’re really the person you’re claiming to be when you log into your online accounts, such as banking, email or social media._
 {% endhint %}
 
-If you are an admin or superadmin you need to set a two-factor authentication \(2FA\) code for increased security.
+If you are an admin or superadmin on Sempo, you need to set a two-factor authentication \(2FA\) code for increased security.
 
 After setting your password for the first time, you will be prompted to scan a QR code using an Authenticator Application. We recommend Google Authenticator.
 ![Sempo's Add TFA QR code](../../.gitbook/assets/TFAQR.png)
@@ -29,13 +29,13 @@ After setting your password for the first time, you will be prompted to scan a Q
 Click the 'add' button inside your Authenticate mobile app, and scan the QR code.
 ![The + button inside the Authenticator mobile app](../../.gitbook/assets/Add Code.png)
 
-Once you have added Sempo to Google Authenticator, you can enter the 2FA code after clicking 'NEXT'.
+Once you have added Sempo to Google Authenticator, you can enter the 2FA code after clicking 'NEXT'. Once you've entered your code, hit 'VERIFY' and you're done!
 
-![Entering a 2FA code on Sempo](../../.gitbook/assets/TFAQR.png)
+![Entering a 2FA code on Sempo](../../.gitbook/assets/TFA.png)
 
 2FA codes continuously update, so make sure the one you enter is still valid. 2FA codes will turn red in Google Authenticate when they are about to expire. Once a code has expired, it will be replaced with a new, valid code.
 
-![A TFA that is about to expire](../../.gitbook/assets/ExpireTFA.png)
+![A TFA that is about to expire](../../.gitbook/assets/ExpireTFA.jpg)
 
 
 2FA requires the time on your phone to be set correctly, so you're having trouble authenticating, make sure your phone has the correct time set. If you're still having trouble adding 2FA, please contact [help@withsempo.com](mailto:help@withsempo.com)
