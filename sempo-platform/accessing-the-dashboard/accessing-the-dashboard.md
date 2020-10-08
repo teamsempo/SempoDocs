@@ -1,15 +1,15 @@
-# Inviting new admins
+# Inviting someone to access the Sempo Platform
 
 {% hint style="warning" %}
-**To get access to the dashboard ask your platform administrator to invite you**. If you need help, please reach out to [help@withsempo.com](mailto:help@withsempo.com) or your Sempo account manager.
+**To get access to the dashboard ask your platform administrator to invite you and then** [**sign up**.](how-to-log-in.md) If you need help, please reach out to [help@withsempo.com](mailto:help@withsempo.com).
 {% endhint %}
 
-The Superadmin will assign access by following the below process:
+Superadmins and admins can invite others to join the Sempo Platform. To invite others, please:
 
-1. Go to Settings
+1. Navigate to the Settings Page within the Sempo Platform
 2. Select ‘+ New User’
-3. Enter the New Users email address and choose their tier
-4. If a user doesn't get an email, try resending it
+3. Enter the New User's email address, and choose their tier. \(See [Access Tiers](access-tiers.md) for guidance if you don't know which tier to invite them to.\)
+4. If a user doesn't get an email, try resending it and ask them to check their spam inbox.
 
 ![Step 1 &amp; 2 Settings Page/Invite User](../../.gitbook/assets/screen-shot-2020-09-10-at-1.46.33-pm.png)
 

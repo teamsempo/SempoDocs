@@ -1,11 +1,22 @@
 # Admin access tiers
 
+## Access Tiers
+
 The platform offers four levels of access:
 
-* **Superadmin:** Access to all functions, including setting transfer limits, and inviting others onto the Platform. This level is typically reserved for the Program Lead, and requires two-factor authentication for security purposes.
-* **Admin:** Access to all functions except for changing transfer limits or inviting superadmins. This means they can enrol program participants, edit their details, approve and transfer value \(up to transfer limits\), and invite other admins or below. This level works well for Program Managers.
-* **Subadmin \(also known as Enroller\):** Access to the functions of enrolling program participants \(e.g. beneficiaries or vendors\), editing their details, and inviting others to join as subadmins. Cannot make transfers. This works well for third-party enrollers.
-* **View Only:** Access only to viewing high-level data on the program performance, but no personal information on beneficiaries. \(This works well for donors, finance managers, monitoring and evaluation parties etc\).
+* **Superadmin:** Access to all functions, including setting transfer limits, and inviting others onto the Platform. Requires two-factor authentication for security purposes. 
+  * Who this tier is for: Program Lead\(s\). 
+  * Who superadmins can invite: anyone to become a superadmin or below.
+  * \(Note: Sempo advises that only 2 people are granted superadmin access, for security reasons.\)
+* **Admin:** Access to all functions, excluding changing transfer limits or inviting superadmins. This means admins can enrol program participants, edit their details, approve and transfer value \(up to transfer limits\), and invite other people to join as admins, subadmins or view only.
+  * Who this tier is for: Program Managers
+  * Who admins can invite: anyone to become an admin or below.
+* **Subadmin/Enroller:** Access to the functions of enrolling program participants \(e.g. beneficiaries or vendors\). Cannot make transfers, cannot edit details of participants, and cannot invite others.
+  * Who this is for: Third-party enrollers.
+  * Who subadmins can invite: No-one.
+* **View Only:** Access only to viewing high-level data on the program performance, but no personal information on beneficiaries. 
+  * Who this tier is for: Donors, finance managers, monitoring and evaluation parties etc.
+  * Who view only can invite: no-one.
 
 ### How to change a user's tier
 
