@@ -1,6 +1,10 @@
-# Common login errors
+# Common login issues
 
-## I can't log in.
+{% hint style="info" %}
+If you haven't received an invitation email to sign up for Sempo, please ask your organisation's admin to re-send an invitation to you. Check your junk mails. 
+{% endhint %}
+
+## What to do if you encounter issues logging in
 
 <table>
   <thead>
@@ -15,13 +19,6 @@
     <tr>
       <td style="text-align:left">&#x201C;Invalid username or password&#x201D;</td>
       <td style="text-align:left">Your email or password is incorrect. Please try to reset your password.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">I didn&#x2019;t receive an invitation email</td>
-      <td style="text-align:left">
-        <p>Ask your admin to re-send the invitation email.</p>
-        <p>Please check your junk emails.</p>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left">&#x201C;Account has not been activated. Please check your emails.&#x201D;</td>
@@ -49,8 +46,8 @@
     </tr>
     <tr>
       <td style="text-align:left">&#x201C;Validation failed. Please try again.&#x201D;</td>
-      <td style="text-align:left">Check that you are using the correct code from your two-factor authenticator
-        app. Contact Sempo if you need your TFA to be reset.</td>
+      <td style="text-align:left">Check that you are using the correct code from your <a href="how-to-log-in.md">two-factor authenticator app</a>.
+        Contact Sempo if you need your two-factor authentication to be reset.</td>
     </tr>
     <tr>
       <td style="text-align:left">I can&#x2019;t edit anything when I log in</td>

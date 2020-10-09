@@ -70,5 +70,5 @@ Two-factor authentication requires the time on your phone to be set correctly, s
 DO NOT delete the Google Authenticator mobile app or codes without first changing devices or disabling Two Factor Authentication.
 {% endhint %}
 
-{% page-ref page="../common-login-errors.md" %}
+{% page-ref page="common-login-errors.md" %}
 
