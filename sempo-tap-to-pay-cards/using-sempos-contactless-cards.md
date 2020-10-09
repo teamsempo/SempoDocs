@@ -1,4 +1,4 @@
-# Using Sempo's contactless cards, as a beneficiary
+# Using Sempo's contactless cards as a beneficiary
 
 {% hint style="info" %}
 **For NGOs**, get in contact with Sempo to print your **custom branded** cards [team@withsempo.com](mailto:team@withsempo.com)

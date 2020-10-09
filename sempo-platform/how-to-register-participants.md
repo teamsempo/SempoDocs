@@ -1,8 +1,7 @@
 ---
 description: >-
   Participants of a program are your beneficiaries (of cash transfers) and
-  participating vendors (who will be able to receive payments from your
-  beneficiaries).
+  vendors (who will be able to receive payments from your beneficiaries).
 ---
 
 # How to register participants

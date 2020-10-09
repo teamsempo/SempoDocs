@@ -43,8 +43,7 @@
 ## Sempo Tap-to-Pay Cards
 
 * [Adding Sempo Cards to Your Platform](sempo-tap-to-pay-cards/adding-sempo-cards-to-your-platform.md)
-* [Adding a Sempo Card to a Beneficiary's Account](sempo-tap-to-pay-cards/adding-a-sempo-card-to-a-beneficiarys-account.md)
-* [Using Sempo's contactless cards, as a beneficiary](sempo-tap-to-pay-cards/using-sempos-contactless-cards.md)
+* [Using Sempo's contactless cards as a beneficiary](sempo-tap-to-pay-cards/using-sempos-contactless-cards.md)
 
 ## Sempo text-based payments
 
