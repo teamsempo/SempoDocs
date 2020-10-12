@@ -24,7 +24,7 @@
 * [Managing participants](sempo-platform/managing-beneficiaries/README.md)
   * [Disbursing funds](sempo-platform/managing-beneficiaries/disbursing-funds.md)
   * [Filtering](sempo-platform/managing-beneficiaries/filtering.md)
-  * [Exporting to excel](sempo-platform/managing-beneficiaries/exporting-to-excel.md)
+  * [Exporting data to excel](sempo-platform/managing-beneficiaries/exporting-to-excel.md)
 * [Managing transfers](sempo-platform/managing-transfers/README.md)
   * [Transfer types](sempo-platform/managing-transfers/transfer-types.md)
 * [Analysing beneficiary and vendor data](sempo-platform/analysing-beneficiary-and-vendor-data.md)
