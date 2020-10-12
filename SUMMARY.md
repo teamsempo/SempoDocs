@@ -17,7 +17,7 @@
 * [Accessing the dashboard](sempo-platform/accessing-the-dashboard/README.md)
   * [Admin access tiers](sempo-platform/accessing-the-dashboard/access-tiers.md)
   * [Signing up for access to the Platform](sempo-platform/accessing-the-dashboard/how-to-log-in.md)
-  * [Inviting someone to access the Sempo Platform](sempo-platform/accessing-the-dashboard/accessing-the-dashboard.md)
+  * [Inviting someone to access the Sempo Dashboard](sempo-platform/accessing-the-dashboard/accessing-the-dashboard.md)
   * [Common login issues](sempo-platform/accessing-the-dashboard/common-login-errors.md)
   * [How to reset your password](sempo-platform/accessing-the-dashboard/how-to-reset-your-password.md)
 * [Registering participants of your cash transfer program](sempo-platform/how-to-register-participants.md)
