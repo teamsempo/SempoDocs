@@ -25,7 +25,7 @@ Sempo completes four types of KYC checks:
 
  We engage third-party identity and document verification providers such as Namescan. These providers offer reliable in-class document verification services using advanced scanning tools and extensive data sources.
 
-## What data points does Sempo require to complete KYC checks?
+## What data points does Sempo typically require to complete KYC checks?
 
 We collect up to ten data points, depending upon the desired level of verification and transaction limit for the participant.
 
@@ -84,11 +84,12 @@ We collect up to ten data points, depending upon the desired level of verificati
     </tr>
     <tr>
       <td style="text-align:left">10</td>
-      <td style="text-align:left">(For Level 3 verification) Additional ID (varies according to jurisdiction):
+      <td style="text-align:left">(For Level 3 verification) Additional ID, varies according to jurisdiction
         <br
-        />Original or certified copy of non-photographic identification document,
-        such as a birth certificate or citizenship certificate AND
-        <br />a secondary identification document, such as a notice from the Government,
+        />For example: Original or certified copy of non-photographic identification
+        document, such as a birth certificate or citizenship certificate AND
+        <br
+        />a secondary identification document, such as a notice from the Government,
         or from a utilities provider with the individual&#x2019;s residential address.</td>
     </tr>
   </tbody>
