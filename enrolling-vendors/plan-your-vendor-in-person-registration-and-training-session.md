@@ -1,6 +1,6 @@
-# Plan your vendor registration and training session
+# Prepare for your vendor registration and training session
 
-## Planning your vendor registration session 
+## Plan your vendor registration session 
 
 Sempo can help our partners organise in-person registration and training session for vendors. Steps for our partners to follow will include: 
 
@@ -14,7 +14,7 @@ Sempo can help our partners organise in-person registration and training session
 
 For the topics that will need to be covered with vendors, see next section.
 
-## Creating a small number of demonstration vendor phone accounts and beneficiary cards/accounts, for training purposes 
+## Create a small number of "demonstration" vendor and beneficiary accounts for training purposes 
 
 It is useful to have a small number of demonstration vendor accounts and beneficiary accounts for training and testing purposes. The easiest way to do this is to simply create the accounts using the same steps that are described in this guide. In particular see:
 
