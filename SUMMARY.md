@@ -13,7 +13,6 @@
 ## Sempo Platform
 
 * [Dashboard overview](sempo-platform/dashboard-overview/README.md)
-  * [Dashboard FAQs](sempo-platform/dashboard-overview/faqs.md)
   * [Dashboard Settings](sempo-platform/dashboard-overview/dashboard-settings.md)
 * [Accessing the dashboard](sempo-platform/accessing-the-dashboard/README.md)
   * [Admin access tiers](sempo-platform/accessing-the-dashboard/access-tiers.md)
@@ -21,12 +20,13 @@
   * [Inviting someone to access the Sempo Platform](sempo-platform/accessing-the-dashboard/accessing-the-dashboard.md)
   * [Common login issues](sempo-platform/accessing-the-dashboard/common-login-errors.md)
   * [How to reset your password](sempo-platform/accessing-the-dashboard/how-to-reset-your-password.md)
-* [How to register participants](sempo-platform/how-to-register-participants.md)
+* [Registering participants of your cash transfer program](sempo-platform/how-to-register-participants.md)
 * [Managing participants](sempo-platform/managing-beneficiaries/README.md)
   * [Disbursing funds](sempo-platform/managing-beneficiaries/disbursing-funds.md)
   * [Filtering](sempo-platform/managing-beneficiaries/filtering.md)
   * [Exporting to excel](sempo-platform/managing-beneficiaries/exporting-to-excel.md)
-* [Managing transfers](sempo-platform/managing-transfers.md)
+* [Managing transfers](sempo-platform/managing-transfers/README.md)
+  * [Transfer types](sempo-platform/managing-transfers/transfer-types.md)
 * [Analysing beneficiary and vendor data](sempo-platform/analysing-beneficiary-and-vendor-data.md)
 
 ## Sempo Mobile App <a id="mobile-app"></a>

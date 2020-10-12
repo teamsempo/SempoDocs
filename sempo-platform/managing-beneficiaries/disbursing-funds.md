@@ -5,7 +5,7 @@
 {% endhint %}
 
 {% hint style="success" %}
-Superadmins can approve transfers by following the [Managing Transfers](../managing-transfers.md#approving-transfers) guide.
+Superadmins can approve transfers by following the [Managing Transfers](../managing-transfers/#approving-transfers) guide.
 {% endhint %}
 
 {% page-ref page="../../getting-started/quick-start/sempo-payments-overview.md" %}

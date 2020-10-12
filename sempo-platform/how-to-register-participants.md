@@ -4,7 +4,7 @@ description: >-
   vendors (who will be able to receive payments from your beneficiaries).
 ---
 
-# How to register participants
+# Registering participants of your cash transfer program
 
 There are four ways to register participants:
 
