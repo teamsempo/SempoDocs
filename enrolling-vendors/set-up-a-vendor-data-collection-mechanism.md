@@ -1,4 +1,4 @@
-# Set up the vendor data collection mechanism
+# Decide on your vendor data collection mechanism
 
 ## **Review and understand what information you need to collect** 
 
@@ -35,4 +35,8 @@ Sempo can enable that registration of vendors in four ways \(see [Registering Pa
 Sempo recommends that our partners use KoboToolbox, Comcare or otherwise collect data in any CSV or Excel Spreadsheet. Sempo is then able to receive any spreadsheet and help you upload it to the Sempo Platform.
 
 If you are unsure about how best to collect data and share it with Sempo, please ask us at [team@withsempo.com](mailto:team@withsempo.com) for help. 
+
+Options are:
+
+1. You can collect data on beneficiaries 
 
