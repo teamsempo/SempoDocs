@@ -1,4 +1,4 @@
-# Signing up for access to the Platform
+# Signing up for access to the Dashboard
 
 ## Signing up as a subadmin or view only
 
@@ -36,7 +36,7 @@ To install an authenticator app:
 
 ![Screenshot of Google Authenticator in the Google Play Store](../../.gitbook/assets/image%20%285%29.png)
 
-### Signing up for Access to the Platform
+### Signing up for Access to the Dashboard
 
 After you have installed a 2FA such as Google Authenticator, please:
 
@@ -52,7 +52,7 @@ After you have installed a 2FA such as Google Authenticator, please:
 
 You will now have added Sempo to your Authenticator app!
 
-5.  Click "Next" on the Sempo Platform website until you see the message "Two-Step Authentication Required", and space for a 6 digit code. Enter the 6-digit code that appears on your phone's Authentication app into the Sempo website.   
+5.  Click "Next" on the Sempo Dashboard website until you see the message "Two-Step Authentication Required", and space for a 6 digit code. Enter the 6-digit code that appears on your phone's Authentication app into the Sempo website.   
   
 _\(Hint: If you are using a private computer, click "Remember Computer"\)._
 
@@ -64,7 +64,9 @@ Please note: Two-factor authentication codes continuously update, so make sure t
 
 ![A TFA that is about to expire](../../.gitbook/assets/ExpireTFA.jpg)
 
-Two-factor authentication requires the time on your phone to be set correctly, so you're having trouble authenticating, make sure your phone has the correct time set. If you're still having trouble adding two-factor authentication or getting access to the Sempo Platform, please contact [help@withsempo.com](mailto:help@withsempo.com)
+{% hint style="info" %}
+Two-factor authentication requires the time on your phone to be set correctly, so you're having trouble authenticating, make sure your phone has the correct time set. If you're still having trouble adding two-factor authentication or getting access to the Sempo Dashboard, please contact [help@withsempo.com](mailto:help@withsempo.com)
+{% endhint %}
 
 {% hint style="danger" %}
 DO NOT delete the Google Authenticator mobile app or codes without first changing devices or disabling Two Factor Authentication.
