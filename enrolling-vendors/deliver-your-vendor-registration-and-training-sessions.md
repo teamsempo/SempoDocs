@@ -12,24 +12,26 @@ Sempo advises the agenda for in-person enrolment and training can include:
 
 ### Welcome vendors 
 
-Below is an example script you can use and tailor when introducing vendors to the Sempo platform. 
+Below is an example script you can use and tailor when introducing vendors to the Sempo platform. \(Note that this may change depending upon features of your program.\)
 
-_“Welcome and thanks so much for coming today! As you know, we’d like to help more vulnerable people buy items from your store. We are going to give credits to people that they can spend at your store, and we will repay you for what people buy._ 
+> _Welcome! It's wonderful to have you all here today for registration. As you know, we are planning to give credits to vulnerable people so they can buy more items from your stores over the coming months. We will be reimbursing you for what people buy from you._
+>
+> _We are giving beneficiaries of our program contactless “tap to pay” cards, that are just like debit or credit cards._
+>
+> _We are giving you, the vendors, a mobile phone with the Sempo app, that you can use to take payments for the items they buy. When someone wants to buy something from you, you will open up the Sempo App, go to the “receiving card payment” page, type into the phone how much they have purchased \(and what they have purchased\). Then you will select “Touch to Pay Card”. Then your customer will tap their card against your phone and hold it against your phone for at least 5 seconds. If they have enough credits, the payment will be confirmed._ 
+>
+> _Every week, we will exchange your credits for your local currency or preferred currency \(depending upon your bank account and cash-out method\).  
+>   
+> Today we have two hours to properly enrol you and train you, so you are ready to start receiving money. We are going to:  
+> \(1\) First collect some information from you, which will help us make sure that we can send you the money to your bank account  
+> \(2\) Sign vendor contracts with you \(if we haven’t already\)  
+> \(3\) Give you the mobile phone that you will be using, and show you how to use it  
+> \(4\) Practice receiving payments with you  
+> \(5\) Give you some advice about what to do if you encounter any issues.  
+>   
+> Are there any questions?”_
 
-_We are giving vulnerable people contactless “tap to pay” cards, that are just like debit or credit cards._ 
 
-_We are giving you, the vendors, a mobile phone with the Sempo app, that you can use to take payments for the items they buy. When someone wants to buy something from you, you will open up your mobile phone, open up the Sempo App, go to the “receiving card payment” page, type into the phone how much they have purchased \(and what they have purchased\). Then you will select “Touch to Pay Card”. Then your customer will tap their card against your phone and hold it against your phone for at least 5 seconds. If they have enough credits, the payment will be confirmed._ 
-
-_Every week, we will exchange your credits for your local currency or preferred currency \(depending upon your bank account and cash-out method\).  
-  
-Today we have two hours to properly enrol you and train you, so you are ready to start receiving money. We are going to:  
-\(1\) First collect some information from you, which will help us make sure that we can send you the money to your bank account  
-\(2\) Sign vendor contracts with you \(if we haven’t already\)  
-\(3\) Give you the mobile phone that you will be using, and show you how to use it  
-\(4\) Practice receiving payments with you  
-\(5\) Give you some advice about what to do if you encounter any issues.  
-  
-Are there any questions?”_
 
 ### **Gather data from vendors for enrolment and legally required “Know Your Customer” \(KYC\) checks**
 
@@ -45,25 +47,54 @@ Distribute the Android phones to vendors, and help them log in to the Sempo App.
 
 ### **Practice receiving and making payments with the Vendor**
 
+The best way to make sure vendors are comfortable accepting payments is to make several test payments using very small amounts of money \(for example $0.02 dollars\). We recommend that the vendor accept these payments using their own Sempo vendor accounts, and that your team members train vendors using a[ demonstration beneficiary account. ](plan-your-vendor-in-person-registration-and-training-session.md#creating-a-small-number-of-demonstration-vendor-phone-accounts-and-beneficiary-cards-accounts-for-training-purposes)  
+  
+An example of how you can explain how to make payments to vendors is below:
 
+> 1. First, with the Sempo App open on your mobile phone, tap the button down the bottom with a dollar sign with the arrows around it to start a transaction. 
+> 2. Then up the top of the Sempo app, check that you are set to receiving card payments. \(There are three icons at the topic. The icon on the right with the cards should be black.\) 
+> 3. Enter the exact amount you want to charge the customer. 
+> 4. Then select charge.
+> 5. Then select the purchase categories. \(You can select multiple categories if multiple apply.\)
+> 6. Then tap “Touch to Pay Card” \(to receive a payment from the customer by their card\)
+> 7. Get the customer to hold their card against the back of the phone for up to 5 seconds, until you see a tick and a “Continue” button. \(Make sure your customer holds their card against the phone until the payment goes through.\)
+>
+> If you do not have an internet connection, the payment will be listed as “pending” until you are able to connect to the internet. This is OK - the payment will be saved on your phone. Once you’re online, pull down the screen to refresh the screen.
 
 ### **Explain the vendor reimbursement process and schedule to the Vendors**
 
 We recommend explaining the vendor reimbursement process several times to vendors, until they are very comfortable and understand what is involved. An example of what you could say is:
 
-_“As you receive payments from customers, you will see your balance increase in your Sempo wallet. Twice weekly, Sempo or our organisation will withdraw credits from your account and depositing local currency into your bank account._
+> _“As you receive payments from customers, you will see your balance increase in your Sempo wallet. Twice weekly, Sempo or our organisation will withdraw credits from your account and depositing local currency into your bank account._
+>
+> _You will see that twice a week, a “withdrawal” transaction will appear in your account as “pending”. \(While it is pending, you won’t be able to spend or use those pending funds.\)  
+>   
+> When the transaction has been processed, the withdrawal will appear as “complete”._ 
+>
+> _Please make sure that you connect to the internet every 1-2 days, so that we can make sure that we provide you with the full amount that you are owed.”_
 
-_You will see that twice a week, a “withdrawal” transaction will appear in your account as “pending”. \(While it is pending, you won’t be able to spend or use those pending funds.\)  
-  
-When the transaction has been processed, the withdrawal will appear as “complete”._ 
+###  Q&A for vendors 
 
-_Please make sure that you connect to the internet every 1-2 days, so that we can make sure that we provide you with the full amount that you are owed.”_
+Here are some example answers you can give to potential vendor questions:
 
-### 
-
-\_\_
-
-  
-  
-
+* **Q: What should I do if the Sempo App has stopped working or there are issues?**
+  * Answer: Close and restart the Sempo App, and try again. \(Like most pieces of technology giving it a chance to “refresh” can help!\)
+* **Q: I've forgotten my PIN. What should I do?** 
+  * Answer: Contact our organisation, who can work with Sempo to resolve your issue. It may take up to 5 business days to resolve your issue.
+* **Q: What is my PIN for logging into the Sempo App?** 
+  * Answer: Our organisation has set your PIN to the last four digits of your phone number. Upon logging in, you will be given the option to change your PIN number to a secure number that you remember
+* **Q: I’ve lost my phone / my phone has been stolen. What should I do?** 
+  * Answer: Contact our organisation immediately. We will be able to disable your vendor account from within the Sempo Dashboard. 
+* **Q: How often do I need to connect my phone to the internet?** 
+  * Answer: We suggest every 1-2 days, so we can make sure that we pay you promptly for the full amount that we owe you.
+* **Q: I need to REFUND money to a customer. How do I do this?**
+  * Answer: Contact our organisation with your phone number, the beneficiary's name and card number \(on their card\), and the exact amount that needs to be refunded. Our organisation  can work with Sempo to resolve your issue.  \(_Note for organisation: when asking Sempo to refund a customer, please provide the vendor ID, phone number, beneficiary card number, and the exact amount that needs to be refunded.\)_
+* **Q: I entered the wrong amount of money when taking payment from a customer; I actually need MORE money from them for the goods I sold them. What should I do?**
+  * Answer: Contact our organisation with your phone number, the beneficiary's name \(it will be in your Sempo wallet\), and the exact amount that you need from the customer. Our organisation  can work with Sempo to resolve your issue. 
+* **Q: A customer wants to buy taboo items \(alcohol, cigarettes etc\). Can I sell them these items?**
+  * Answer: Yes. You don’t need to worry; it is perfectly fine for customers to make these transfers. We will be tracking and monitoring and learning from how much customers spend. 
+* **Q: If a customer wants to buy multiple items, what purchase category should I select?** 
+  * Answer: You can select multiple purchase categories, to cover the multiple types of items that they purchase
+* **Q: What are the two other options that I see on the page?**
+  * Answer: The QR code is a code that you can use to accept payment from another vendor \(or person with the Sempo app\). The paper plane /arrow icon is to send a payment as a vendor. You won’t need either of these. 
 
