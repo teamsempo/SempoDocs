@@ -20,7 +20,7 @@
   * [Inviting someone to access the Sempo Dashboard](sempo-platform/accessing-the-dashboard/accessing-the-dashboard.md)
   * [Common login issues](sempo-platform/accessing-the-dashboard/common-login-errors.md)
   * [How to reset your password](sempo-platform/accessing-the-dashboard/how-to-reset-your-password.md)
-* [Registering participants of your cash transfer program](sempo-platform/how-to-register-participants.md)
+* [Registering participants of your program](sempo-platform/how-to-register-participants.md)
 * [Managing participants](sempo-platform/managing-beneficiaries/README.md)
   * [Disbursing funds](sempo-platform/managing-beneficiaries/disbursing-funds.md)
   * [Filtering](sempo-platform/managing-beneficiaries/filtering.md)

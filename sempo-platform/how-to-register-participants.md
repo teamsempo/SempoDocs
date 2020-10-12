@@ -4,7 +4,7 @@ description: >-
   vendors (who will be able to receive payments from your beneficiaries).
 ---
 
-# Registering participants of your cash transfer program
+# Registering participants of your program
 
 There are four ways to register participants:
 
@@ -17,19 +17,13 @@ There are four ways to register participants:
 
 **Step 1:** From the Sempo Dashboard, click on Accounts in the side-bar, and then “+ Add New” in the top right hand corner.
 
-Alternatively, navigate to [https://app.withsempo.com/create](https://app.withsempo.com/create)
-
-{% hint style="info" %}
-Note, your sub-domain might be different for your organisation
-{% endhint %}
-
 ![](../.gitbook/assets/screen-shot-2020-09-08-at-10.38.42-am.png)
 
-**Step 2:** Ensure that account type is set to “BENEFICIARY”  \(or other word set in settings\)
+**Step 2:** Ensure that account type is set to “BENEFICIARY”  \(or what you would like your new participant to be\)
 
 ![](../.gitbook/assets/screen-shot-2020-09-10-at-2.05.50-pm.png)
 
-**Step 3:** Enter the user’s first name and last name. 
+**Step 3:** Enter the user’s first name,  last name, and whatever other custom attributes your organisation may be tracking. 
 
 If recipients will be logging into the Android app, add their phone number.  Alternatively, if they will be using a transfer card, you can enter the serial number manually, or click on the QR icon to scan a card using your browser’s camera.
 
