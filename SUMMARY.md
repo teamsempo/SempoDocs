@@ -10,24 +10,29 @@
   * [What does Sempo provide?](getting-started/quick-start/sempo-products-explained.md)
   * [Quick FAQs](getting-started/quick-start/general-faqs.md)
 
-## Sempo Platform
+## Sempo Dashboard
 
-* [Dashboard overview](sempo-platform/dashboard-overview/README.md)
-  * [Dashboard Settings](sempo-platform/dashboard-overview/dashboard-settings.md)
-* [Accessing the dashboard](sempo-platform/accessing-the-dashboard/README.md)
-  * [Admin access tiers](sempo-platform/accessing-the-dashboard/access-tiers.md)
-  * [Signing up for access to the Dashboard](sempo-platform/accessing-the-dashboard/how-to-log-in.md)
-  * [Inviting someone to access the Sempo Dashboard](sempo-platform/accessing-the-dashboard/accessing-the-dashboard.md)
-  * [Common login issues](sempo-platform/accessing-the-dashboard/common-login-errors.md)
-  * [How to reset your password](sempo-platform/accessing-the-dashboard/how-to-reset-your-password.md)
-* [Registering participants of your program](sempo-platform/how-to-register-participants.md)
-* [Managing participants](sempo-platform/managing-beneficiaries/README.md)
-  * [Disbursing funds](sempo-platform/managing-beneficiaries/disbursing-funds.md)
-  * [Filtering](sempo-platform/managing-beneficiaries/filtering.md)
-  * [Exporting data to excel](sempo-platform/managing-beneficiaries/exporting-to-excel.md)
-* [Managing transfers](sempo-platform/managing-transfers/README.md)
-  * [Transfer types](sempo-platform/managing-transfers/transfer-types.md)
-* [Analysing beneficiary and vendor data](sempo-platform/analysing-beneficiary-and-vendor-data.md)
+* [Dashboard overview](sempo-dashboard/dashboard-overview.md)
+* [Accessing the dashboard](sempo-dashboard/accessing-the-dashboard/README.md)
+  * [Admin access tiers](sempo-dashboard/accessing-the-dashboard/access-tiers.md)
+  * [Signing up for access to the Dashboard](sempo-dashboard/accessing-the-dashboard/how-to-log-in.md)
+  * [Inviting someone to access the Sempo Dashboard](sempo-dashboard/accessing-the-dashboard/accessing-the-dashboard.md)
+  * [Common login issues](sempo-dashboard/accessing-the-dashboard/common-login-errors.md)
+  * [Resetting your password](sempo-dashboard/accessing-the-dashboard/how-to-reset-your-password.md)
+  * [Changing Dashboard settings](sempo-dashboard/accessing-the-dashboard/dashboard-settings.md)
+* [Registering participants of your program](sempo-dashboard/how-to-register-participants.md)
+* [Managing participants](sempo-dashboard/managing-beneficiaries/README.md)
+  * [Disbursing funds](sempo-dashboard/managing-beneficiaries/disbursing-funds.md)
+  * [Filtering](sempo-dashboard/managing-beneficiaries/filtering.md)
+  * [Exporting data to excel](sempo-dashboard/managing-beneficiaries/exporting-to-excel.md)
+* [Managing transfers](sempo-dashboard/managing-transfers/README.md)
+  * [Transfer types](sempo-dashboard/managing-transfers/transfer-types.md)
+* [Analysing beneficiary and vendor data](sempo-dashboard/analysing-beneficiary-and-vendor-data.md)
+
+## Enrolling vendors
+
+* [Quick overview of enrolling vendors](enrolling-vendors/quick-overview-of-enrolling-vendors.md)
+* [Set up a vendor data collection mechanism](enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
 
 ## Sempo Mobile App <a id="mobile-app"></a>
 
