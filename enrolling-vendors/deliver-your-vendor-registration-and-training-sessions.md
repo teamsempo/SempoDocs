@@ -1,4 +1,4 @@
-# Deliver your vendor registration and training sessions
+# Deliver your vendor registration and training session
 
 Sempo advises the agenda for in-person enrolment and training can include:
 

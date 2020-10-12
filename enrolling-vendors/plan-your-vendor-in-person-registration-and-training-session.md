@@ -1,4 +1,4 @@
-# Prepare for your vendor registration and training session
+# Prepare your vendor registration and training session
 
 ## Plan your vendor registration session 
 

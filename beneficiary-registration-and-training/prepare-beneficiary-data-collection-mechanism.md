@@ -1,2 +1,2 @@
-# Prepare beneficiary data collection mechanism
+# Prepare beneficiary data collection
 

@@ -1,4 +1,4 @@
-# After registration, share vendor information with Sempo
+# After registration, share vendor information with Sempo for KYC
 
 ## **Share collected vendor information for Sempo to conduct “KYC” checks**
 

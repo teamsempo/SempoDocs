@@ -8,7 +8,7 @@ description: >-
 
 There are four ways to register participants:
 
-1. Via Sempo Dashboard
+1. Via Sempo Dashboard 
 2. Via Kobo Toolbox
 3. Via Spreadsheet Upload
 4. Via Self Sign Up \(if enabled\)

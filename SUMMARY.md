@@ -32,16 +32,18 @@
 ## Vendor registration and training <a id="enrolling-vendors"></a>
 
 * [Overview of registering vendors](enrolling-vendors/quick-overview-of-enrolling-vendors.md)
-* [Decide on your vendor data collection mechanism](enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
-* [Prepare for your vendor registration and training session](enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
-* [Deliver your vendor registration and training sessions](enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
-* [After registration, share vendor information with Sempo](enrolling-vendors/after-vendor-registration-share-the-required-information-to-sempo.md)
+* [Decide your vendor data collection mechanism](enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
+* [Prepare your vendor registration and training session](enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
+* [Deliver your vendor registration and training session](enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
+* [After registration, share vendor information with Sempo for KYC](enrolling-vendors/after-vendor-registration-share-the-required-information-to-sempo.md)
+* [Sync vendor details with the Sempo Dashboard](enrolling-vendors/sync-vendor-details-with-the-sempo-dashboard.md)
 
 ## Beneficiary registration and training
 
 * [Overview of registering beneficiaries](beneficiary-registration-and-training/overview-of-registering-beneficiaries.md)
 * [Decide your beneficiary data collection mechanism](beneficiary-registration-and-training/decide-your-beneficiary-data-collection-mechanism.md)
-* [Prepare beneficiary data collection mechanism](beneficiary-registration-and-training/prepare-beneficiary-data-collection-mechanism.md)
+* [Prepare beneficiary data collection](beneficiary-registration-and-training/prepare-beneficiary-data-collection-mechanism.md)
+* [Untitled](beneficiary-registration-and-training/untitled.md)
 
 ## Sempo Mobile App <a id="mobile-app"></a>
 

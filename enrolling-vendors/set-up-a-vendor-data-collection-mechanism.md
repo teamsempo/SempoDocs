@@ -1,4 +1,4 @@
-# Decide on your vendor data collection mechanism
+# Decide your vendor data collection mechanism
 
 ## **Review and understand what information you need to collect** 
 
