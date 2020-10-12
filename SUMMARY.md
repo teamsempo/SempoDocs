@@ -33,7 +33,7 @@
 
 * [Quick overview of enrolling vendors](enrolling-vendors/quick-overview-of-enrolling-vendors.md)
 * [Set up a vendor data collection mechanism](enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
-* [Plan your vendor in-person registration and training session](enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
+* [Plan your vendor registration and training session](enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
 
 ## Sempo Mobile App <a id="mobile-app"></a>
 
