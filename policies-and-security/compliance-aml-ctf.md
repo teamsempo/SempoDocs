@@ -1,4 +1,4 @@
-# Compliance \(AML/CTF\)
+# Compliance Processes
 
 Sempo is registered with the Australian Transaction Reports and Analysis Centre \(AUSTRAC\) as a Digital Currency Exchange \(DCE\) 100617044-001.
 

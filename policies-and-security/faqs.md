@@ -4,25 +4,17 @@ description: >-
   send money
 ---
 
-# Security FAQs
-
-## What are Sempo's Transaction Limits?
-
-We implement strict velocity exchange limits, ensuring that the rapid exchange of a large amount of currency is impossible for a single individual or small group of individuals. In addition, there are transaction limits in place to ensure that only fully verified users have access to the full service. Please note, Level 0 and Level 1 do not apply to vendors.
-
-![](../.gitbook/assets/image%20%286%29.png)
-
-_Amounts quoted in Australian Dollars \($AUD\)._
+# KYC and Security FAQs
 
 ## What is a KYC check and who needs to do it?
 
 AML/CTF laws impose obligations on Financial Service Providers to perform Know Your Customer \(KYC\) checks, sometimes called customer due diligence. The exact types of information that must be collected and checks that must be performed are set out in  national laws, and so they vary across jurisdictions. 
 
-Whenever a organisation wishes to partner with a Financial Service Provider to provide cash assistance \(e.g. via bank transfers, mobile money transfers, prepaid cards, cryptocurrency etc\), the provider will be bound by AML, CTF and KYC regulations.  
+Whenever a organisation wishes to partner with a Financial Service Provider, the provider will be bound by AML, CTF and KYC regulations.  
   
-By working with Sempo to satisfy AML/CTF and KYC regulations, our Partners can be assured cash is being distributed in compliance with global standards.
+By working with Sempo to satisfy AML/CTF and KYC regulations, our partners can be assured cash is being distributed in compliance with global standards.
 
-## How does Sempo complete KYC checks?
+## What KYC checks does Sempo perform?
 
 Sempo completes four types of KYC checks:
 
@@ -35,7 +27,7 @@ Sempo completes four types of KYC checks:
 
 ## What data points does Sempo require to complete KYC checks?
 
-A Know Your Customer \(KYC\) check is required to be passed by all Vendors using the Sempo platform. We collected up to ten data points, depending upon the desired level of verification and transaction limit for the participant.
+We collect up to ten data points, depending upon the desired level of verification and transaction limit for the participant.
 
 <table>
   <thead>
@@ -120,6 +112,14 @@ This will depend on the client and the particular reason for the high-risk ratin
 * customer’s occupation nor business activities;
 * income or assets of the customer; or
 * beneficial ownership of funds.
+
+## What are Sempo's Transaction Limits?
+
+We implement strict velocity exchange limits, ensuring that the rapid exchange of a large amount of currency is impossible for a single individual or small group of individuals. In addition, there are transaction limits in place to ensure that only fully verified users have access to the full service. Please note, Level 0 and Level 1 do not apply to vendors.
+
+![](../.gitbook/assets/image%20%286%29.png)
+
+_Amounts quoted in Australian Dollars \($AUD\)._
 
 ## How is Sempo regulated?
 

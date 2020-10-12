@@ -57,11 +57,11 @@
 
 ## Policies & Security
 
-* [Compliance \(AML/CTF\)](policies-and-security/compliance-aml-ctf.md)
-* [Security FAQs](policies-and-security/faqs.md)
+* [Sempo's AML/CTF Policy](https://withsempo.com/legal/aml-policy/)
+* [Compliance Processes](policies-and-security/compliance-aml-ctf.md)
+* [KYC and Security FAQs](policies-and-security/faqs.md)
 * [Privacy Policy](https://withsempo.com/legal/privacy-policy/)
 * [Platform Terms](https://withsempo.com/legal/platform-terms/)
-* [AML/CTF Policy](https://withsempo.com/legal/aml-policy/)
 * [Pricing for Individuals](policies-and-security/pricing.md)
 
 ## Help & Feedback
