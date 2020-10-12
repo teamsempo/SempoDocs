@@ -31,7 +31,7 @@
 
 ## Enrolling vendors
 
-* [Quick overview of enrolling vendors](enrolling-vendors/quick-overview-of-enrolling-vendors.md)
+* [Quick overview of registering vendors](enrolling-vendors/quick-overview-of-enrolling-vendors.md)
 * [Set up a vendor data collection mechanism](enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
 * [Plan your vendor registration and training session](enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
 * [Deliver your vendor registration and training sessions](enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
