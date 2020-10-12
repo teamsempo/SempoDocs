@@ -10,7 +10,7 @@ Sempo's partners can always upload and sync data about vendors and program parti
 
 Sempo can also assist you if you have any questions or concerns about the syncing process.
 
-{% page-ref page="../sempo-dashboard/how-to-register-participants.md" %}
+{% page-ref page="../../sempo-dashboard/how-to-register-participants.md" %}
 
 
 

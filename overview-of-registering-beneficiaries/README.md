@@ -1,6 +1,6 @@
-# Overview of registering beneficiaries
+# Beneficiaries registration and training
 
-## Registering beneficiaries
+## Overview of registering and training beneficiaries
 
 After our partners have identified beneficiaries for the program, the next step is to register and train them. 
 
@@ -12,4 +12,10 @@ To deliver a successful beneficiary registration and training experience, Sempo 
 4. After registration, sync beneficiary data to the Sempo Dashboard
 
 \(As of 2020, Sempo can only provide remote support due to COVID-19.\)
+
+{% page-ref page="prepare-beneficiary-data-collection-mechanism.md" %}
+
+{% page-ref page="decide-your-beneficiary-data-collection-mechanism.md" %}
+
+
 

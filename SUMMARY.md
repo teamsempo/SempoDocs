@@ -29,21 +29,20 @@
   * [Transfer types](sempo-dashboard/managing-transfers/transfer-types.md)
 * [Analysing beneficiary and vendor data](sempo-dashboard/analysing-beneficiary-and-vendor-data.md)
 
-## Vendor registration and training <a id="enrolling-vendors"></a>
+## Vendor and Beneficiary registration and training <a id="enrolling-vendors"></a>
 
-* [Overview of registering vendors](enrolling-vendors/quick-overview-of-enrolling-vendors.md)
-* [Decide your vendor data collection mechanism](enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
-* [Prepare your vendor registration and training session](enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
-* [Deliver your vendor registration and training session](enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
-* [After registration, share vendor information with Sempo for KYC](enrolling-vendors/after-vendor-registration-share-the-required-information-to-sempo.md)
-* [Sync vendor details with the Sempo Dashboard](enrolling-vendors/sync-vendor-details-with-the-sempo-dashboard.md)
+* [Vendor registration and training](enrolling-vendors/quick-overview-of-enrolling-vendors/README.md)
+  * [Sync vendor details with the Sempo Dashboard](enrolling-vendors/quick-overview-of-enrolling-vendors/sync-vendor-details-with-the-sempo-dashboard.md)
+  * [After registration, share vendor information with Sempo for KYC](enrolling-vendors/quick-overview-of-enrolling-vendors/after-vendor-registration-share-the-required-information-to-sempo.md)
+  * [Deliver your vendor registration and training session](enrolling-vendors/quick-overview-of-enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
+  * [Prepare your vendor registration and training session](enrolling-vendors/quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
+  * [Decide your vendor data collection mechanism](enrolling-vendors/quick-overview-of-enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
 
-## Beneficiary registration and training
+---
 
-* [Overview of registering beneficiaries](beneficiary-registration-and-training/overview-of-registering-beneficiaries.md)
-* [Decide your beneficiary data collection mechanism](beneficiary-registration-and-training/decide-your-beneficiary-data-collection-mechanism.md)
-* [Prepare beneficiary data collection](beneficiary-registration-and-training/prepare-beneficiary-data-collection-mechanism.md)
-* [Untitled](beneficiary-registration-and-training/untitled.md)
+* [Beneficiaries registration and training](overview-of-registering-beneficiaries/README.md)
+  * [Prepare beneficiary data collection](overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism.md)
+  * [Decide your beneficiary data collection mechanism](overview-of-registering-beneficiaries/decide-your-beneficiary-data-collection-mechanism.md)
 
 ## Sempo Mobile App <a id="mobile-app"></a>
 

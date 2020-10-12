@@ -1,6 +1,6 @@
-# Overview of registering vendors
+# Vendor registration and training
 
-## Registering vendors
+## Overview of registering vendors
 
 After our partners have identified vendors, the next step is to register and train them. 
 
