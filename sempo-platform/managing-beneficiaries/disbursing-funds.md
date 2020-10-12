@@ -46,3 +46,7 @@ You can combine [Filtering](filtering.md) and the "Select all" function \(highli
 
 ![Step 4](../../.gitbook/assets/screen-shot-2020-09-08-at-12.04.13-pm.png)
 
+{% hint style="success" %}
+If you prefer, Sempo can also assist with making transfers to your beneficiaries.
+{% endhint %}
+
