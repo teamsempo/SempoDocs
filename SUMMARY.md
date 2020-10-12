@@ -8,10 +8,7 @@
   * [What is Sempo?](getting-started/quick-start/what-is-sempo.md)
   * [How Sempo's payments work \(5 min video\)](getting-started/quick-start/sempo-payments-overview.md)
   * [What does Sempo provide?](getting-started/quick-start/sempo-products-explained.md)
-
----
-
-* [Quick FAQs](general-faqs.md)
+  * [Quick FAQs](getting-started/quick-start/general-faqs.md)
 
 ## Sempo Platform
 

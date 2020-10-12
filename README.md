@@ -16,7 +16,7 @@ If Sempo has already set up your Platform for you, here are 4 steps to getting s
 
 ## General FAQs
 
-{% page-ref page="general-faqs.md" %}
+{% page-ref page="getting-started/quick-start/general-faqs.md" %}
 
 
 
