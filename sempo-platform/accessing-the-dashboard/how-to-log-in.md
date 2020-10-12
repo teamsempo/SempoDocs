@@ -22,11 +22,11 @@ If you will be joining the Sempo platform as a superadmin or admin \(see[ Access
 
 ### Installing the Two Factor Authentication App
 
+If you are an admin or superadmin on Sempo, you will need to install a two-factor authentication \(2FA\) app and use a code generated from this app for increased security.
+
 {% hint style="info" %}
 _**Two-factor authentication \(often shortened to 2FA\)** provides a way of 'double-checking' that you’re really the person you’re claiming to be when you log into your online accounts, such as banking, email or social media._
 {% endhint %}
-
-If you are an admin or superadmin on Sempo, you will need to install a two-factor authentication \(2FA\) app and use a code generated from this app for increased security.
 
 To install an authenticator app:
 
@@ -40,7 +40,7 @@ To install an authenticator app:
 
 After you have installed a 2FA such as Google Authenticator, please:
 
-1. Check that your existing organisation or Sempo \(help@withsempo.com\) has [invited](accessing-the-dashboard.md) you to join as a superadmin or admin. You will receive an invitation link in an email. 
+1. Check that your existing organisation or Sempo \(help@withsempo.com\) has [invited](accessing-the-dashboard.md) you to join as a superadmin or admin. You will have received an invitation link in your email inbox.
 2. Click on the invitation link to sign up with your email address. You will need to enter a password with a mix of characters and numbers. 
 3. A QR code will then appear on your computer screen with the sign "Two-Step Authentication Required".
 
