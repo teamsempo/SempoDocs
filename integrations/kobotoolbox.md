@@ -9,9 +9,9 @@
 
 ![](../.gitbook/assets/1uosbsmsduxnpszmb70rlzhln__ykshujdf4wnrgjta.png)
 
-## How will we use Kobo Toolbox?
+## How can Sempo integrate with Kobo Toolbox?
 
-We will use three different forms:
+Sempo can integrate to use Kobo Toolbox for three forms:
 
 1. **Beneficiary Enrollment** This form will be used to add each beneficiary to Sempo. 
 2. **Vendor Enrollment** This form will be used to add each vendor to Sempo. 
@@ -40,8 +40,8 @@ For **Beneficiary and Vendor enrollment** the required fields are:
 For **Vendor KYC** the required fields are:
 
 * **“Phone”:** The same phone number provided in the sign up form
-* **“Selfie”:** A photo of the Vendor
 * **“Photo ID”:** A photo of the Vendor’s Identity Card \(Drivers License etc\)
+* **“Selfie”:** A photo of the Vendor, holding up their Photo ID
 * **“Supporting ID”:** A photo of a supporting Identity Document such a bank statement **IF** the vendor is accepting more than **5,000 AUD a week** \([https://docs.withsempo.com/policies-and-security/faqs\#what-are-sempo-account-limits](https://docs.withsempo.com/policies-and-security/faqs#what-are-sempo-account-limits)\)
 
 There are many optional fields. The fields that might be useful are:
@@ -74,18 +74,19 @@ There are many optional fields. The fields that might be useful are:
 
 ![](../.gitbook/assets/screen-shot-2020-09-10-at-5.25.29-pm.png)
 
-### Step 2 - Connect your Form continued
+5. Complete the following fields:
 
-1. Complete the following fields:
-   1. Name: Sempo
-   2. Endpoint URL: [https://yourdomain.withsempo.com/api/v1/user/?preprocess=true](https://yourdomain.withsempo.com/api/v1/user/?preprocess=true)
-   3. Ensure ‘Enabled’ is CHECKED
-   4. Type: JSON
-   5. Security: Basic Authorization
-   6. Username: your username from Step 2.
-   7. Password: your password from Step 2.
-2. Scroll down and click ‘Create’
-3. You have now connected your KoboToolbox form to Sempo!
+1. Name: Sempo
+2. Endpoint URL: [https://yourdomain.withsempo.com/api/v1/user/?preprocess=true](https://yourdomain.withsempo.com/api/v1/user/?preprocess=true)
+3. Ensure ‘Enabled’ is CHECKED
+4. Type: JSON
+5. Security: Basic Authorization
+6. Username: your username from Step 2.
+7. Password: your password from Step 2.
+
+6. Scroll down and click ‘Create’
+
+7. You have now connected your KoboToolbox form to Sempo!
 
 ![](../.gitbook/assets/screen-shot-2020-09-10-at-5.25.35-pm.png)
 
