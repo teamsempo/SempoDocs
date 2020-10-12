@@ -35,7 +35,7 @@
 * [Set up a vendor data collection mechanism](enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
 * [Plan your vendor registration and training session](enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
 * [Deliver your vendor registration and training sessions](enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
-* [After vendor registration, share the required information to Sempo](enrolling-vendors/after-vendor-registration-share-the-required-information-to-sempo.md)
+* [After registration, share vendor information with Sempo](enrolling-vendors/after-vendor-registration-share-the-required-information-to-sempo.md)
 
 ## Sempo Mobile App <a id="mobile-app"></a>
 
