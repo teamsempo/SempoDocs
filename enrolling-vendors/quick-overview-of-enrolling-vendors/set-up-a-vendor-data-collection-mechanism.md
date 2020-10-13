@@ -1,4 +1,4 @@
-# Decide your vendor data collection mechanism
+# Decide your vendor data collection mechanism with Sempo
 
 ## **Review and understand what information you need to collect** 
 

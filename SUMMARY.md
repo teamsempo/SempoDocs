@@ -32,7 +32,7 @@
 ## Vendor and Beneficiary registration and training <a id="enrolling-vendors"></a>
 
 * [Vendor registration and training](enrolling-vendors/quick-overview-of-enrolling-vendors/README.md)
-  * [Decide your vendor data collection mechanism](enrolling-vendors/quick-overview-of-enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
+  * [Decide your vendor data collection mechanism with Sempo](enrolling-vendors/quick-overview-of-enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
   * [Prepare your vendor registration and training session](enrolling-vendors/quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
   * [Deliver your vendor registration and training session](enrolling-vendors/quick-overview-of-enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
   * [After registration, share vendor information with Sempo for KYC](enrolling-vendors/quick-overview-of-enrolling-vendors/after-vendor-registration-share-the-required-information-to-sempo.md)
@@ -41,7 +41,7 @@
 ---
 
 * [Beneficiaries registration and training](overview-of-registering-beneficiaries/README.md)
-  * [Decide your beneficiary data collection mechanism](overview-of-registering-beneficiaries/decide-your-beneficiary-data-collection-mechanism.md)
+  * [Decide on your beneficiary data collection mechanism with Sempo](overview-of-registering-beneficiaries/decide-your-beneficiary-data-collection-mechanism.md)
   * [Prepare beneficiary data collection](overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism.md)
   * [Deliver your beneficiary registration and training session](overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
   * [After registration, sync beneficiary data to the Sempo Dashboard](overview-of-registering-beneficiaries/after-registration-sync-beneficiary-data-to-the-sempo-dashboard.md)

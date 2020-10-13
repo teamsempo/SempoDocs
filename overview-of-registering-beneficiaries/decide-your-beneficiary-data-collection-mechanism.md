@@ -1,4 +1,4 @@
-# Decide your beneficiary data collection mechanism
+# Decide on your beneficiary data collection mechanism with Sempo
 
  
 
