@@ -30,5 +30,35 @@ We adhere to the Australian Privacy Principles contained in the Privacy Act 1988
 
 The Sempo system enables funds to be transferred digitally into a customers digital wallet. We use a suite of digital currencies \(or just blockchain tracking when regulations don't allow digital currency\) that enable people to transact safely and securely.
 
+## Are there countries where Sempo cannot operate due to cryptocurrency or DLT regulations?
+
+Sempo conducts a legal and financial feasibility assessment of each country before we operate. Some countries where we may have restrictions on operating due to legal constraints are:
+
+* Central African Republic
+* Crimea and Sevastopol
+* Democratic People's Republic of Korea \(North Korea\)
+* Democratic Republic of the Congo
+* Eritrea
+* Former Yugoslavia
+* Guinea-Bissau
+* Iran
+* Iraq
+* Lebanon
+* Libya
+* Mali
+* Myanmar
+* Russia
+* Somalia
+* South Sudan
+* Sudan
+* Syria
+* Ukraine
+* Yemen
+* Zimbabwe
+
+For more information please contact [compliance@withsempo.com](mailto:compliance@teamsempo.com)
+
+
+
 
 
