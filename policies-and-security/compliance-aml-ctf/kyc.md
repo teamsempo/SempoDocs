@@ -31,7 +31,7 @@ Sempo completes four types of KYC checks:
 
 ## What data points does Sempo typically require to complete KYC checks?
 
-We collect up to ten data points, depending upon the desired level of verification and transaction limit for the participant.
+We require that our Partners and Field Partners collect the following data points on program participants \(at a minimum\). The exact data points required may vary across jurisdictions.
 
 <table>
   <thead>
@@ -115,7 +115,7 @@ If we use an electronic-based verification process, we need to verify the follow
 * customer’s name from at least two separate data sources; and
 * customer’s residential address and/or date of birth from at least two separate data sources. 
 
-For high-risk customers, we conduct further KYC and due diligence. This will depend on the client and the particular reason for the high-risk rating. For example, we may take the following additional KYC checks for high risk individuals:
+For high-risk customers, we will need to conduct further KYC and due diligence. This will depend on the client and the particular reason for the high-risk rating. For example, we may take the following additional KYC checks for high risk individuals:
 
 * checking any other names that customer is known by;
 * customer’s countries of citizenship or residence;
