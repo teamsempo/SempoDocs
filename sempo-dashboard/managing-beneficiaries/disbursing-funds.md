@@ -5,10 +5,12 @@
 {% endhint %}
 
 {% hint style="success" %}
-Superadmins can approve transfers by following the [Managing Transfers](../managing-transfers/#approving-transfers) guide.
+If you prefer, Sempo can also assist with making transfers to your beneficiaries according to your preferred schedule.
 {% endhint %}
 
-{% page-ref page="../../getting-started/quick-start/sempo-payments-overview.md" %}
+{% hint style="success" %}
+Superadmins can approve transfers by following the [Managing Transfers](../managing-transfers/#approving-transfers) guide.
+{% endhint %}
 
 ## Disbursing funds to an individual
 
@@ -46,7 +48,5 @@ You can combine [Filtering](filtering.md) and the "Select all" function \(highli
 
 ![Step 4](../../.gitbook/assets/screen-shot-2020-09-08-at-12.04.13-pm.png)
 
-{% hint style="success" %}
-If you prefer, Sempo can also assist with making transfers to your beneficiaries.
-{% endhint %}
+{% page-ref page="../../getting-started/quick-start/sempo-payments-overview.md" %}
 

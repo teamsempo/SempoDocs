@@ -6,7 +6,7 @@
 
 ### What is the Sempo Dashboard?
 
-{% page-ref page="../../sempo-dashboard/dashboard-overview.md" %}
+{% page-ref page="../dashboard-overview.md" %}
 
 ### How do I invite my colleagues to access the Sempo Dashboard?
 
