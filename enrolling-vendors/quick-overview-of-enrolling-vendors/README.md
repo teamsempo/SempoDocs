@@ -2,17 +2,17 @@
 
 ## Overview of registering vendors
 
-After our partners have identified vendors, the next step is to register and train them. 
+After you or your Field Partners have identified vendors for your program, the next step is to register and train them. 
 
-To deliver a successful vendor registration and training experience, Sempo works with our partners to:
+To deliver a successful vendor registration and training experience, Sempo advises that we work with you to:
 
-1. Set up your vendor data collection mechanism
+1. Decide on the best vendor data collection mechanism 
 2. Plan your vendor registration and training session
 3. Deliver the vendor registration and training session 
 4. After registration, provide information for Sempo to complete KYC checks on vendors
-5. After registration, sync vendor details to the Sempo Dashboard
+5. After registration, sync vendor details to the Sempo Dashboard and make any changes \(if required\)
 
-\(Note that currently Sempo can only provide remote support due to COVID-19 travel restrictions.\)
+Sempo can only provide remote support due to COVID-19 travel restrictions.
 
 {% page-ref page="set-up-a-vendor-data-collection-mechanism.md" %}
 
