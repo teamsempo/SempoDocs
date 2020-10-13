@@ -30,7 +30,7 @@ Sempo also enables our partners to collect additional information about vendors 
 
 ## Choose and set up your vendor data collection mechanism \(e.g. a form, or KoboToolbox Survey\) 
 
-Sempo can enable that registration of vendors in four ways \(see [Registering Participants of your Program](../../sempo-dashboard/how-to-register-participants.md)\). 
+Sempo can enable that registration of vendors in four ways \(see [Registering Participants of your Program](../how-to-register-participants.md)\). 
 
 Sempo recommends that our partners use KoboToolbox, Comcare or otherwise collect data in any CSV or Excel Spreadsheet. Sempo is then able to receive any spreadsheet and help you upload it to the Sempo Platform.
 

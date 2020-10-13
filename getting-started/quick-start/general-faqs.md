@@ -14,7 +14,7 @@
 
 ### How do I enrol and manage participants \(beneficiaries and vendors\) in a cash transfer program?
 
-{% page-ref page="../../sempo-dashboard/how-to-register-participants.md" %}
+{% page-ref page="../../enrolling-vendors/how-to-register-participants.md" %}
 
 {% page-ref page="../../sempo-dashboard/managing-beneficiaries/" %}
 

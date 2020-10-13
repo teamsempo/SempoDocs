@@ -20,7 +20,6 @@
   * [Common login issues](sempo-dashboard/accessing-the-dashboard/common-login-errors.md)
   * [Resetting your password](sempo-dashboard/accessing-the-dashboard/how-to-reset-your-password.md)
   * [Changing Dashboard settings](sempo-dashboard/accessing-the-dashboard/dashboard-settings.md)
-* [Registering participants of your program](sempo-dashboard/how-to-register-participants.md)
 * [Managing participants](sempo-dashboard/managing-beneficiaries/README.md)
   * [Disbursing funds](sempo-dashboard/managing-beneficiaries/disbursing-funds.md)
   * [Filtering](sempo-dashboard/managing-beneficiaries/filtering.md)
@@ -31,6 +30,7 @@
 
 ## Vendor and Beneficiary registration and training <a id="enrolling-vendors"></a>
 
+* [Registering participants of your program](enrolling-vendors/how-to-register-participants.md)
 * [Vendor registration and training](enrolling-vendors/quick-overview-of-enrolling-vendors/README.md)
   * [Decide your vendor data collection mechanism with Sempo](enrolling-vendors/quick-overview-of-enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
   * [Prepare your vendor registration and training session](enrolling-vendors/quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
