@@ -1,2 +1,2 @@
-# Prepare beneficiary data collection
+# Prepare beneficiary registration and training session
 

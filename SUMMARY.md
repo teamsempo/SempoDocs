@@ -42,7 +42,7 @@
 
 * [Beneficiaries registration and training](overview-of-registering-beneficiaries/README.md)
   * [Decide on your beneficiary data collection mechanism with Sempo](overview-of-registering-beneficiaries/decide-your-beneficiary-data-collection-mechanism.md)
-  * [Prepare beneficiary data collection](overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism.md)
+  * [Prepare beneficiary registration and training session](overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism.md)
   * [Deliver your beneficiary registration and training session](overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
   * [After registration, sync beneficiary data to the Sempo Dashboard](overview-of-registering-beneficiaries/after-registration-sync-beneficiary-data-to-the-sempo-dashboard.md)
 

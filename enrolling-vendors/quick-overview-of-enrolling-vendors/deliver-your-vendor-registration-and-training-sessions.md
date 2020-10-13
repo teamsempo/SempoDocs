@@ -1,11 +1,11 @@
 # Deliver your vendor registration and training session
 
-Sempo advises the agenda for in-person enrolment and training can include:
+After you have [prepared for your vendor registration and training session](plan-your-vendor-in-person-registration-and-training-session.md), you will deliver your session. We advise the agenda for the session could address: 
 
 1. Welcome and introductions \(approx. 30 mins, as a group\)
-2. Vendors are given mobile phones and instructions for how to use it and receive payments \(20 minutes, small-groups\)
-3. In-person interviews with each vendor to collect data \(5 minutes per vendor, 1 on 1\)
-4. Vendors all sign Vendor Agreements \(on the use and care for phone and card provided\) \(5 minutes, 1 on 1\)
+2. In-person interviews with each vendor to collect data \(5 minutes per vendor, 1 on 1\)
+3. Vendors all sign Vendor Agreements \(on the use and care for phone and card provided\) \(5 minutes, 1 on 1\)
+4. Vendors are given mobile phones and instructions for how to use it to receive payments \(20 minutes, small-groups\)
 5. Vendors practice making payments \(20 minutes, recommended for 1 on 1\)
 6. Explanation of Vendor Reimbursement Process and Q&As \(15 minutes, in a group\)
 7. Q&A and explanation of how Vendors should manage any issues as they arise \(15 minutes, as a group\) 
@@ -51,15 +51,15 @@ The best way to make sure vendors are comfortable accepting payments is to make 
   
 An example of how you can explain how to make payments to vendors is below:
 
-> 1. First, with the Sempo App open on your mobile phone, tap the button down the bottom with a dollar sign with the arrows around it to start a transaction. 
-> 2. Then up the top of the Sempo app, check that you are set to receiving card payments. \(There are three icons at the topic. The icon on the right with the cards should be black.\) 
-> 3. Enter the exact amount you want to charge the customer. 
-> 4. Then select charge.
-> 5. Then select the purchase categories. \(You can select multiple categories if multiple apply.\)
-> 6. Then tap “Touch to Pay Card” \(to receive a payment from the customer by their card\)
-> 7. Get the customer to hold their card against the back of the phone for up to 5 seconds, until you see a tick and a “Continue” button. \(Make sure your customer holds their card against the phone until the payment goes through.\)
+> 1. _First, with the Sempo App open on your mobile phone, tap the button down the bottom with a dollar sign with the arrows around it to start a transaction._ 
+> 2. _Then up the top of the Sempo app, check that you are set to receiving card payments. \(There are three icons at the topic. The icon on the right with the cards should be black.\)_ 
+> 3. _Enter the exact amount you want to charge the customer._ 
+> 4. _Then select charge._
+> 5. _Then select the purchase categories. \(You can select multiple categories if multiple apply.\)_
+> 6. _Then tap “Touch to Pay Card” \(to receive a payment from the customer by their card\)_
+> 7. _Get the customer to hold their card against the back of the phone for up to 5 seconds, until you see a tick and a “Continue” button. \(Make sure your customer holds their card against the phone until the payment goes through.\)_
 >
-> If you do not have an internet connection, the payment will be listed as “pending” until you are able to connect to the internet. This is OK - the payment will be saved on your phone. Once you’re online, pull down the screen to refresh the screen.
+> _If you do not have an internet connection, the payment will be listed as “pending” until you are able to connect to the internet. This is OK - the payment will be saved on your phone. Once you’re online, pull down the screen to refresh the screen._
 
 ### **Explain the vendor reimbursement process and schedule to the Vendors**
 
@@ -79,22 +79,22 @@ Here are some example answers you can give to potential vendor questions:
 
 * **Q: What should I do if the Sempo App has stopped working or there are issues?**
   * Answer: Close and restart the Sempo App, and try again. \(Like most pieces of technology giving it a chance to “refresh” can help!\)
+* **Q: What is my PIN for logging into the Sempo App on the first occasion?** 
+  * Answer: We have set your PIN to the last four digits of your phone number. Upon logging in, you will be given the option to change your PIN number to a secure number. Please keep your new PIN number in a secure location. 
 * **Q: I've forgotten my PIN. What should I do?** 
-  * Answer: Contact our organisation, who can work with Sempo to resolve your issue. It may take up to 5 business days to resolve your issue.
-* **Q: What is my PIN for logging into the Sempo App?** 
-  * Answer: Our organisation has set your PIN to the last four digits of your phone number. Upon logging in, you will be given the option to change your PIN number to a secure number that you remember
+  * Answer: Contact our organisation \(ie Sempo's Partner or Field Partners\), who can work with Sempo to resolve your issue. It may take up to 5 business days to resolve your issue.
 * **Q: I’ve lost my phone / my phone has been stolen. What should I do?** 
-  * Answer: Contact our organisation immediately. We will be able to disable your vendor account from within the Sempo Dashboard. 
+  * Answer: Contact our organisation \(Sempo's Partner or Field Partner\) immediately. We will be able to disable your vendor account from within the Sempo Dashboard, or ask Sempo for assistance. 
 * **Q: How often do I need to connect my phone to the internet?** 
   * Answer: We suggest every 1-2 days, so we can make sure that we pay you promptly for the full amount that we owe you.
 * **Q: I need to REFUND money to a customer. How do I do this?**
-  * Answer: Contact our organisation with your phone number, the beneficiary's name and card number \(on their card\), and the exact amount that needs to be refunded. Our organisation  can work with Sempo to resolve your issue.  \(_Note for organisation: when asking Sempo to refund a customer, please provide the vendor ID, phone number, beneficiary card number, and the exact amount that needs to be refunded.\)_
+  * Answer: Contact our organisation \(or our Field Partners\) with your phone number, the beneficiary's name and/or Sempo card number, and the exact amount that needs to be refunded. Our organisation can work with Sempo to resolve your issue.  \(_Note for organisation: when asking Sempo to refund a customer, please provide the vendor ID, phone number, beneficiary card number, and the exact amount that needs to be refunded.\)_
 * **Q: I entered the wrong amount of money when taking payment from a customer; I actually need MORE money from them for the goods I sold them. What should I do?**
-  * Answer: Contact our organisation with your phone number, the beneficiary's name \(it will be in your Sempo wallet\), and the exact amount that you need from the customer. Our organisation  can work with Sempo to resolve your issue. 
+  * Answer: Contact our organisation with your phone number, the beneficiary's name \(it will be in your Sempo wallet\), and the exact amount that you need from the customer. Our organisation can work with Sempo to resolve your issue. 
 * **Q: A customer wants to buy taboo items \(alcohol, cigarettes etc\). Can I sell them these items?**
   * Answer: Yes. You don’t need to worry; it is perfectly fine for customers to make these transfers. We will be tracking and monitoring and learning from how much customers spend. 
 * **Q: If a customer wants to buy multiple items, what purchase category should I select?** 
   * Answer: You can select multiple purchase categories, to cover the multiple types of items that they purchase
-* **Q: What are the two other options that I see on the page?**
-  * Answer: The QR code is a code that you can use to accept payment from another vendor \(or person with the Sempo app\). The paper plane /arrow icon is to send a payment as a vendor. You won’t need either of these. 
+* **Q: What are the two other options that I see when I open my Sempo Wallet to the transactions page? When would I use the QR Code or send money to someone else?**
+  * Answer: The QR code is a code that you could use to accept payment from another vendor or person with the Sempo app on an Android phone. The paper plane /arrow icon indicates the way that you could send a payment as a vendor to another person with the Sempo App.
 
