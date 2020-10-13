@@ -5,7 +5,7 @@
 {% embed url="https://docs.withsempo.com/" %}
 
 {% hint style="warning" %}
-**There are two ways to get support from Sempo:**
+**There are two ways to get further customer support from Sempo:**
 
 1. Message us on the live chat on the app
 2. Email us at [help@withsempo.com](mailto:help@withsempo.com)
