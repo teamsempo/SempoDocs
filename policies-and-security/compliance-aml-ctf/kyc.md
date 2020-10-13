@@ -2,6 +2,8 @@
 
 ## What is a KYC check and who needs to do it?
 
+There are internationally endorsed global standards for anti-money laundering \(AML\) and counter-terrorism financing \(CTF\). These standards have been implemented at the national level in most countries around the world. These standards help countries take action against illicit use of their financial systems.
+
 AML/CTF laws impose obligations on Financial Service Providers to perform Know Your Customer \(KYC\) checks, sometimes called customer due diligence. The exact types of information that must be collected and checks that must be performed are set out in  national laws, and so they vary across jurisdictions. 
 
 Whenever a organisation wishes to partner with a Financial Service Provider, the provider will be bound by AML, CTF and KYC regulations.  
@@ -68,7 +70,10 @@ We collect up to ten data points, depending upon the desired level of verificati
     <tr>
       <td style="text-align:left">7</td>
       <td style="text-align:left">Photograph or PDF of a bank-issued document proving bank account ownership
-        and the given bank account details (e.g. bank statement)</td>
+        and the given bank account details: (a) Bank name, (b) Bank Number (C)
+        Account Number (d) Name of Bank Account Holder.
+        <br /><em>Example: bank account statement, statement of account would be acceptable. <br />Note: The image must be complete, with all corners of the document showing. Text must be legible (ie not blurry or obscured). We cannot accept photographs of computer screens.</em>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">8</td>
@@ -77,12 +82,18 @@ We collect up to ten data points, depending upon the desired level of verificati
           national ID, driver&#x2019;s licence, passport).</p>
         <p><em>Note: A certified copy can also be accepted, if government-certified.</em>
         </p>
+        <p><em>Note: The Photo ID cannot be expired, images of both the back and front must be included, and all text must be legible (ie not blurry or obscured). </em>
+        </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">9</td>
-      <td style="text-align:left">Photograph of person&#x2019;s face where they are holding up an original
-        photo ID (also displayed in the photograph)</td>
+      <td style="text-align:left">
+        <p>Photograph of person&#x2019;s face where they are holding up an original
+          photo ID (also displayed in the photograph).</p>
+        <p><em>Note: The person&apos;s face must be clearly shown, in well-lit conditions, and the photograph cannot be blurry.  </em>
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">10</td>
@@ -111,6 +122,8 @@ For high-risk customers, we conduct further KYC and due diligence. This will dep
 * customer’s occupation nor business activities;
 * income or assets of the customer; or
 * beneficial ownership of funds.
+
+### 
 
 ## 
 
