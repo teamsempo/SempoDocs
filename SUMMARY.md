@@ -72,7 +72,7 @@
 ## Policies & Security
 
 * [Compliance Processes](policies-and-security/compliance-aml-ctf/README.md)
-  * [KYC](policies-and-security/compliance-aml-ctf/kyc.md)
+  * [Know Your Customer \(KYC\) checks](policies-and-security/compliance-aml-ctf/kyc.md)
   * [Security FAQs](policies-and-security/compliance-aml-ctf/faqs.md)
 * [Sempo's AML/CTF Policy](https://withsempo.com/legal/aml-policy/)
 * [Privacy Policy](https://withsempo.com/legal/privacy-policy/)

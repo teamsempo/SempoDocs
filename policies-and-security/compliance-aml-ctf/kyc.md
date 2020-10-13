@@ -1,4 +1,4 @@
-# KYC
+# Know Your Customer \(KYC\) checks
 
 ## What is a KYC check and who needs to do it?
 
@@ -7,6 +7,14 @@ AML/CTF laws impose obligations on Financial Service Providers to perform Know Y
 Whenever a organisation wishes to partner with a Financial Service Provider, the provider will be bound by AML, CTF and KYC regulations.  
   
 By working with Sempo to satisfy AML/CTF and KYC regulations, our partners can be assured cash is being distributed in compliance with global standards.
+
+## What are Sempo's Transaction Limits?
+
+We implement strict velocity exchange limits, ensuring that the rapid exchange of a large amount of currency is impossible for a single individual or small group of individuals. In addition, there are transaction limits in place to ensure that only fully verified users have access to the full service. 
+
+![Amounts quoted in Australian Dollars \($AUD\)](../../.gitbook/assets/image%20%286%29.png)
+
+Please note: Level 0 and 1 are suitable for beneficiaries, who will not be "cashing out" their credits into fiat currency. Level 2 and 3 are suitable for vendors or any persons who will be "cashing out" into fiat currency.
 
 ## What KYC checks does Sempo perform?
 
@@ -60,7 +68,7 @@ We collect up to ten data points, depending upon the desired level of verificati
     <tr>
       <td style="text-align:left">7</td>
       <td style="text-align:left">Photograph or PDF of a bank-issued document proving bank account ownership
-        (e.g. bank statement)</td>
+        and the given bank account details (e.g. bank statement)</td>
     </tr>
     <tr>
       <td style="text-align:left">8</td>
@@ -89,30 +97,20 @@ We collect up to ten data points, depending upon the desired level of verificati
   </tbody>
 </table>
 
-For high-risk customers, we conduct further KYC and due diligence.
+We only accept an identification document that has not expired \(the exception to this is an Australian passport that has expired within the preceding two years\).
 
-We only accept an identification document that has not expired \(the exception to this is an Australian passport that has expired within the preceding two years\) 
-
-If we use an electronic-based verification process, we verify the following using reliable and independent electronic data:
+If we use an electronic-based verification process, we need to verify the following using reliable and independent electronic data:
 
 * customer’s name from at least two separate data sources; and
 * customer’s residential address and/or date of birth from at least two separate data sources. 
 
-For high-risk customers, we conduct further KYC and due diligence.
+For high-risk customers, we conduct further KYC and due diligence. This will depend on the client and the particular reason for the high-risk rating. For example, we may take the following additional KYC checks for high risk individuals:
 
-This will depend on the client and the particular reason for the high-risk rating. For example, we may take the following additional KYC steps for high risk individuals:
-
-* any other names that customer is known by;
+* checking any other names that customer is known by;
 * customer’s countries of citizenship or residence;
 * customer’s occupation nor business activities;
 * income or assets of the customer; or
 * beneficial ownership of funds.
 
-## What are Sempo's Transaction Limits?
-
-We implement strict velocity exchange limits, ensuring that the rapid exchange of a large amount of currency is impossible for a single individual or small group of individuals. In addition, there are transaction limits in place to ensure that only fully verified users have access to the full service. Please note, Level 0 and Level 1 do not apply to vendors.
-
-![](../../.gitbook/assets/image%20%286%29.png)
-
-_Amounts quoted in Australian Dollars \($AUD\)._
+## 
 
