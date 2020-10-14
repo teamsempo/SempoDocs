@@ -14,7 +14,7 @@ By working with Sempo to satisfy AML/CTF and KYC regulations, our partners can b
 
 We implement strict velocity exchange limits, ensuring that the rapid exchange of a large amount of currency is impossible for a single individual or small group of individuals. In addition, there are transaction limits in place to ensure that only fully verified users have access to the full service.
 
-![Numbers are in Australian Dollars \(AUD\)](../../.gitbook/assets/image%20%288%29.png)
+![Numbers are in Australian Dollars \(AUD\)](../../.gitbook/assets/image%20%289%29.png)
 
 Please note: Level 0 and 1 are suitable for beneficiaries, who will not be "cashing out" their credits into fiat currency. Level 2 and 3 are suitable for vendors or any persons who will be "cashing out" into fiat currency.
 
@@ -122,5 +122,35 @@ For high-risk customers, we will need to conduct further KYC and due diligence. 
 * income or assets of the customer; or
 * beneficial ownership of funds.
 
-## 
+## What is our advice for Partners when collecting data for KYC?
+
+When collecting information for KYC purposes, we encourage our Partners to ensure they:
+
+1. **Only submit photographs of ID or documents which are clear, and undamaged.** We cannot accept blurry or distorted images where we cannot read the text or clearly see the photo.
+2. **Submit complete images of the ID or document.** Please make sure that the full image of the document is included and you can see the “edges’ of the document.
+3. **Provide photographs of original Photo ID.** We can only accept photographs of originals.
+4. **Check that ID provided is current.** We cannot accept expired IDs.
+5. **Check that the “Selfie” Photograph of a person holding up their ID has the ID displayed in it.** This helps us perform a check that is similar to the check that a bank teller would perform when a person visits a bank branch in person before opening an account.
+
+Sempo will check these points again when completing our KYC checks. 
+
+## What does Sempo share with our Partners when KYC reports are completed?
+
+When KYC reports are complete, Sempo will share a KYC report spreadsheet with you. 
+
+![Checks that Sempo will perform \(2/2\)](https://lh4.googleusercontent.com/7Xh54vVTAkJkeqfD6rAQF0Vrt9J0CJhM7J81xO4NBytE4S_u4fmXewtPBN4G2i-9DXQnIBGzCLQObCnea05pfgTkK7YeKkRTp7tEcATB5c-Sv1QcBwq1OibpCV4p_8ZX0S4SOiivcow)
+
+![Checks that Sempo will perform \(2/2\)](https://lh4.googleusercontent.com/IEn8cFm58HwXMRjjAAqg_-XUXMWyNmaxK0qxJBd2C_yPVfOODVp1qlZit37X42R-tbJ983PdSnRfuoQA4rpikRb1D-OPyave2oJqcxFtozhgmqLE8CskqkmKZRuR7ee_N-EDM8wz-Hk)
+
+## What happens if Sempo identifies that a person is on a prohibited list during a KYC check?
+
+If a KYC check reveals that a person is on a prohibited list, Sempo is legally compelled to investigate and report to AUSTRAC. 
+
+Sempo is prohibited under AML/CTF and KYC regulations from notifying our partners if a participant in a cash program is revealed to be on a prohibited list.
+
+## How does Sempo manage the process of collecting and managing KYC data? 
+
+Sempo tracks the status of Know Your Customer \(KYC\) checks, and discusses progress and any issues in our weekly check-ins with partners during the set-up phase.  
+
+![Indicative template of status tracker](../../.gitbook/assets/image%20%288%29.png)
 
