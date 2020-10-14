@@ -4,10 +4,17 @@
 
 The following information must be collected on vendors for Sempo to complete legally-required "Know Your Customer" \(KYC\) checks. By working together with Sempo to collect and share this information, we can make sure that cash is being distributed in accordance with global standards.
 
-* First Name
-* Last Name
-* Gender
-* Date of Birth \(or residential address\)
+Please see 
+
+{% page-ref page="../../policies-and-security/compliance-aml-ctf/kyc.md" %}
+
+
+
+1. First Name
+2. Last Name
+3. Gender
+4. Date of Birth \(or residential address\)
+
 * Phone number \(or email\)
 * Bank Account Details, being
   * Bank Name

@@ -12,9 +12,10 @@ By working with Sempo to satisfy AML/CTF and KYC regulations, our partners can b
 
 ## What are Sempo's Transaction Limits?
 
-We implement strict velocity exchange limits, ensuring that the rapid exchange of a large amount of currency is impossible for a single individual or small group of individuals. In addition, there are transaction limits in place to ensure that only fully verified users have access to the full service. 
+We implement strict velocity exchange limits, ensuring that the rapid exchange of a large amount of currency is impossible for a single individual or small group of individuals. In addition, there are transaction limits in place to ensure that only fully verified users have access to the full service.  
+\`
 
-![Amounts quoted in Australian Dollars \($AUD\)](../../.gitbook/assets/image%20%286%29.png)
+![Amounts quoted in Australian Dollars \(AUD$\)](../../.gitbook/assets/image%20%287%29.png)
 
 Please note: Level 0 and 1 are suitable for beneficiaries, who will not be "cashing out" their credits into fiat currency. Level 2 and 3 are suitable for vendors or any persons who will be "cashing out" into fiat currency.
 
@@ -56,19 +57,23 @@ We require that our Partners and Field Partners collect the following data point
     </tr>
     <tr>
       <td style="text-align:left">4</td>
-      <td style="text-align:left">Date of Birth OR residential address.</td>
+      <td style="text-align:left">Date of Birth</td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
-      <td style="text-align:left">Phone Number OR Email.</td>
+      <td style="text-align:left">Address - either residential address, or village location etc</td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
+      <td style="text-align:left">Phone Number OR Email.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">7</td>
       <td style="text-align:left">Bank Account Details: (a) Bank Name (b) Bank Number (c) Account Number
         (d) Name of Bank Account Holder</td>
     </tr>
     <tr>
-      <td style="text-align:left">7</td>
+      <td style="text-align:left">8</td>
       <td style="text-align:left">Photograph or PDF of a bank-issued document proving bank account ownership
         and the given bank account details: (a) Bank name, (b) Bank Number (C)
         Account Number (d) Name of Bank Account Holder.
@@ -76,18 +81,18 @@ We require that our Partners and Field Partners collect the following data point
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">8</td>
+      <td style="text-align:left">9</td>
       <td style="text-align:left">
         <p>Photograph of original, government-issued Photo ID of the person (e.g.
           national ID, driver&#x2019;s licence, passport).</p>
         <p><em>Note: A certified copy can also be accepted, if government-certified.</em>
         </p>
-        <p><em>Note: The Photo ID cannot be expired, images of both the back and front must be included, and all text must be legible (ie not blurry or obscured). </em>
+        <p><em>Note: The Photo ID cannot be expired. Images of both the back and front must be included, and all text must be legible (ie not blurry or obscured). </em>
         </p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">9</td>
+      <td style="text-align:left">10</td>
       <td style="text-align:left">
         <p>Photograph of person&#x2019;s face where they are holding up an original
           photo ID (also displayed in the photograph).</p>
@@ -96,7 +101,7 @@ We require that our Partners and Field Partners collect the following data point
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">10</td>
+      <td style="text-align:left">11</td>
       <td style="text-align:left">(For Level 3 verification) Additional ID, varies according to jurisdiction
         <br
         />For example: Original or certified copy of non-photographic identification
@@ -108,12 +113,7 @@ We require that our Partners and Field Partners collect the following data point
   </tbody>
 </table>
 
-We only accept an identification document that has not expired \(the exception to this is an Australian passport that has expired within the preceding two years\).
-
-If we use an electronic-based verification process, we need to verify the following using reliable and independent electronic data:
-
-* customer’s name from at least two separate data sources; and
-* customer’s residential address and/or date of birth from at least two separate data sources. 
+We can only accept an identification document that has not expired \(the exception to this is an Australian passport that has expired within the preceding two years\).
 
 For high-risk customers, we will need to conduct further KYC and due diligence. This will depend on the client and the particular reason for the high-risk rating. For example, we may take the following additional KYC checks for high risk individuals:
 
@@ -122,8 +122,6 @@ For high-risk customers, we will need to conduct further KYC and due diligence. 
 * customer’s occupation nor business activities;
 * income or assets of the customer; or
 * beneficial ownership of funds.
-
-### 
 
 ## 
 
