@@ -1,7 +1,7 @@
 # Disbursing to beneficiaries
 
 {% hint style="info" %}
-**Note:** Transfers made by an admin will only be _automatically approved_ if the value equals the default amount set on the system. See [Dashboard Settings](sempo-dashboard/accessing-the-dashboard/dashboard-settings.md). 
+**Note:** Transfers made by an admin will only be _automatically approved_ if the value equals the default amount set on the system. See [Dashboard Settings](sempo-dashboard/dashboard-overview/dashboard-settings.md). 
 {% endhint %}
 
 {% hint style="success" %}

@@ -11,16 +11,15 @@
     * [Using Sempo's text-based messaging option](introduction-to-sempo/quick-start/sempo-products-explained/using-sempos-ussd-payments.md)
   * [Quick FAQs](introduction-to-sempo/quick-start/general-faqs.md)
 
-## Accessing the Sempo Dashboard <a id="sempo-dashboard"></a>
+## Accessing the Dashboard <a id="sempo-dashboard"></a>
 
-* [Dashboard overview](sempo-dashboard/dashboard-overview.md)
-* [Accessing the dashboard](sempo-dashboard/accessing-the-dashboard/README.md)
-  * [Admin access tiers](sempo-dashboard/accessing-the-dashboard/access-tiers.md)
-  * [Signing up for access to the Dashboard](sempo-dashboard/accessing-the-dashboard/how-to-log-in.md)
-  * [Inviting someone to access the Sempo Dashboard](sempo-dashboard/accessing-the-dashboard/accessing-the-dashboard.md)
-  * [Common login issues](sempo-dashboard/accessing-the-dashboard/common-login-errors.md)
-  * [Resetting your password](sempo-dashboard/accessing-the-dashboard/how-to-reset-your-password.md)
-  * [Changing Dashboard settings](sempo-dashboard/accessing-the-dashboard/dashboard-settings.md)
+* [Dashboard overview](sempo-dashboard/dashboard-overview/README.md)
+  * [Admin access tiers](sempo-dashboard/dashboard-overview/access-tiers.md)
+  * [Changing Dashboard settings](sempo-dashboard/dashboard-overview/dashboard-settings.md)
+* [Signing up for access to the Dashboard](sempo-dashboard/how-to-log-in/README.md)
+  * [Resetting your password](sempo-dashboard/how-to-log-in/how-to-reset-your-password.md)
+* [Inviting someone to access the Sempo Dashboard](sempo-dashboard/accessing-the-dashboard-1.md)
+* [Resolving Login Issues](sempo-dashboard/common-login-errors.md)
 
 ## Vendor and Beneficiary registration and training <a id="enrolling-vendors"></a>
 
@@ -51,8 +50,6 @@
   * [Transfer types](managing-transfers/transfer-types.md)
 * [Disbursing to beneficiaries](disbursing-funds.md)
 * [Vendor reimbursement](vendor-reimbursement-1.md)
-
-## Vendor Reimbursement
 
 ## Analytics and MEAL
 

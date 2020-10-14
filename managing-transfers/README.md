@@ -14,6 +14,6 @@ By selecting the transfers tab on the left, you are able to see the full history
 4. Click “NEXT” to resolve the transfer
 
 {% hint style="success" %}
-**Note:** Superadmins can set the default transfer amount in their [organisation settings](../sempo-dashboard/accessing-the-dashboard/dashboard-settings.md)
+**Note:** Superadmins can set the default transfer amount in their [organisation settings](../sempo-dashboard/dashboard-overview/dashboard-settings.md)
 {% endhint %}
 

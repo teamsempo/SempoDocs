@@ -1,4 +1,4 @@
-# Common login issues
+# Resolving Login Issues
 
 {% hint style="info" %}
 If you haven't received an invitation email to sign up for Sempo, please ask your organisation's admin to re-send an invitation to you. Check your junk mails. 
@@ -46,7 +46,7 @@ If you haven't received an invitation email to sign up for Sempo, please ask you
     </tr>
     <tr>
       <td style="text-align:left">&#x201C;Validation failed. Please try again.&#x201D;</td>
-      <td style="text-align:left">Check that you are using the correct code from your <a href="how-to-log-in.md">two-factor authenticator app</a>.
+      <td style="text-align:left">Check that you are using the correct code from your <a href="how-to-log-in/">two-factor authenticator app</a>.
         Contact Sempo if you need your two-factor authentication to be reset.</td>
     </tr>
     <tr>
@@ -57,7 +57,9 @@ If you haven't received an invitation email to sign up for Sempo, please ask you
   </tbody>
 </table>
 
-## I still can't log in 
 
-Please use our chat function to message a team member directly. Otherwise, please contact Sempo support at [help@withsempo.com](mailto:help@withsempo.com). 
+
+{% hint style="warning" %}
+If you still need help, please reach out to [help@withsempo.com](mailto:help@withsempo.com) or your Sempo account manager.
+{% endhint %}
 

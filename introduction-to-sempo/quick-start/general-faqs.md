@@ -6,11 +6,11 @@
 
 ### What is the Sempo Dashboard?
 
-{% page-ref page="../../sempo-dashboard/dashboard-overview.md" %}
+{% page-ref page="../../sempo-dashboard/dashboard-overview/" %}
 
 ### How do I invite my colleagues to access the Sempo Dashboard?
 
-{% page-ref page="../../sempo-dashboard/accessing-the-dashboard/accessing-the-dashboard.md" %}
+{% page-ref page="../../sempo-dashboard/accessing-the-dashboard-1.md" %}
 
 ### How do I enrol and manage participants \(beneficiaries and vendors\) in a cash transfer program?
 
