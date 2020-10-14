@@ -64,7 +64,7 @@ We require that our Partners and Field Partners collect the following data point
     </tr>
     <tr>
       <td style="text-align:left">6</td>
-      <td style="text-align:left">Phone Number OR Email.</td>
+      <td style="text-align:left">Phone Number (or email)</td>
     </tr>
     <tr>
       <td style="text-align:left">7</td>
@@ -114,25 +114,24 @@ We require that our Partners and Field Partners collect the following data point
 
 We can only accept an identification document that has not expired \(the exception to this is an Australian passport that has expired within the preceding two years\).
 
-For high-risk customers, we will need to conduct further KYC and due diligence. This will depend on the client and the particular reason for the high-risk rating. For example, we may take the following additional KYC checks for high risk individuals:
+If Sempo identifies that a customer is high-risk, we will let you know as soon as possible that we need to conduct further KYC. For example, we may take the following additional KYC checks for high risk individuals:
 
 * checking any other names that customer is known by;
 * customer’s countries of citizenship or residence;
 * customer’s occupation nor business activities;
 * income or assets of the customer; or
-* beneficial ownership of funds.
+* beneficial ownership of funds
 
-## What is our advice for Partners when collecting data for KYC?
+## What is our advice for Partners when collecting data for KYC from program participants?
 
 When collecting information for KYC purposes, we encourage our Partners to ensure they:
 
-1. **Only submit photographs of ID or documents which are clear, and undamaged.** We cannot accept blurry or distorted images where we cannot read the text or clearly see the photo.
-2. **Submit complete images of the ID or document.** Please make sure that the full image of the document is included and you can see the “edges’ of the document.
-3. **Provide photographs of original Photo ID.** We can only accept photographs of originals.
-4. **Check that ID provided is current.** We cannot accept expired IDs.
-5. **Check that the “Selfie” Photograph of a person holding up their ID has the ID displayed in it.** This helps us perform a check that is similar to the check that a bank teller would perform when a person visits a bank branch in person before opening an account.
-
-Sempo will check these points again when completing our KYC checks. 
+1. **Use our template KoboToolbox survey forms.** 
+2. **Only submit photographs of ID or documents which are clear, and undamaged.** We cannot accept blurry or distorted images where we cannot read the text or clearly see the photo.
+3. **Submit complete images of the ID or document.** Please make sure that the full image of the document is included and you can see the “edges’ of the document.
+4. **Provide photographs of original Photo ID.** We can only accept photographs of originals.
+5. **Check that ID provided is current.** We cannot accept expired IDs.
+6. **Remind Field Partners and vendors that the “Selfie” Photograph of a person holding up their Photo ID has to have their Photo ID displayed in it.** This helps us perform a check that is similar to the check that a bank teller would perform when a person visits a bank branch in person before opening an account.
 
 ## What does Sempo share with our Partners when KYC reports are completed?
 
