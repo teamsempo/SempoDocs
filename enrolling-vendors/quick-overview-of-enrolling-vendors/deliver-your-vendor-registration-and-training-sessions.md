@@ -10,7 +10,7 @@ After you have [prepared for your vendor registration and training session](plan
 6. Explanation of Vendor Reimbursement Process and Q&As \(15 minutes, in a group\)
 7. Q&A and explanation of how Vendors should manage any issues as they arise \(15 minutes, as a group\) 
 
-### Welcome vendors 
+## Welcome vendors 
 
 Below is an example script you can use and tailor when introducing vendors to the Sempo platform. \(Note that this may change depending upon features of your program.\)
 
@@ -33,19 +33,19 @@ Below is an example script you can use and tailor when introducing vendors to th
 
 
 
-### **Gather data from vendors for enrolment and legally required “Know Your Customer” \(KYC\) checks**
+## **Gather data from vendors for registration and KYC checks**
 
 Please use the vendor data collection mechanism that your organisation's lead \(or superadmin\) has designed and implemented with Sempo.
 
-### **Give the vendors Vendor Agreements to sign and gather them**
+## **Give the vendors Vendor Agreements to sign and gather them**
 
 Please provide a copy of the Vendor agreement for them to sign.
 
-### **Give the Vendors their Mobile Phone, and help them log into the Sempo App for the first time**
+## **Give the Vendors their Mobile Phone, and help them log into the Sempo App for the first time**
 
 Distribute the Android phones to vendors, and help them log in to the Sempo App. 
 
-### **Practice receiving and making payments with the Vendor**
+## **Practice receiving and making payments with the Vendor**
 
 The best way to make sure vendors are comfortable accepting payments is to make several test payments using very small amounts of money \(for example $0.02 dollars\). We recommend that the vendor accept these payments using their own Sempo vendor accounts, and that your team members train vendors using a[ demonstration beneficiary account. ](plan-your-vendor-in-person-registration-and-training-session.md#creating-a-small-number-of-demonstration-vendor-phone-accounts-and-beneficiary-cards-accounts-for-training-purposes)  
   
@@ -61,7 +61,7 @@ An example of how you can explain how to make payments to vendors is below:
 >
 > _If you do not have an internet connection, the payment will be listed as “pending” until you are able to connect to the internet. This is OK - the payment will be saved on your phone. Once you’re online, pull down the screen to refresh the screen._
 
-### **Explain the vendor reimbursement process and schedule to the Vendors**
+## **Explain the vendor reimbursement process and schedule to the Vendors**
 
 We recommend explaining the vendor reimbursement process several times to vendors, until they are very comfortable and understand what is involved. An example of what you could say is:
 
@@ -73,7 +73,7 @@ We recommend explaining the vendor reimbursement process several times to vendor
 >
 > _Please make sure that you connect to the internet every 1-2 days, so that we can make sure that we provide you with the full amount that you are owed.”_
 
-###  Q&A for vendors 
+##  Q&A for vendors 
 
 Here are some example answers you can give to potential vendor questions:
 
