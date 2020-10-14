@@ -16,7 +16,7 @@ For the topics that will need to be covered, see next section.
 
 ## Create a small number of "demonstration" vendor and beneficiary accounts for training purposes 
 
-Similarly to [preparing for your vendor registration and training session](../../enrolling-vendors/quick-overview-of-enrolling-vendors/), we recommend making sure that you will be able to demonstrate some low-value payments from beneficiaries to vendors. For full instructions, please see above under "preparing for vendor registration and training".
+Similarly to [preparing for your vendor registration and training session](../../quick-overview-of-enrolling-vendors/), we recommend making sure that you will be able to demonstrate some low-value payments from beneficiaries to vendors. For full instructions, please see above under "preparing for vendor registration and training".
 
-{% page-ref page="../../enrolling-vendors/quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md" %}
+{% page-ref page="../../quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md" %}
 

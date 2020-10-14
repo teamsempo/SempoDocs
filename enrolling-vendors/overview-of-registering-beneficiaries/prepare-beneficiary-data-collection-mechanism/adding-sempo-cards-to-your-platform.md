@@ -16,21 +16,21 @@ Sempo's Card Sync App is an easy way to add a card to the platform. It's actuall
 
 First, log into the Sempo Dashboard, and navigate to the Settings page. Then, click on the QR Code icon in the "Plugin/Integration Credentials" section. A QR code that can be used to login will appear:
 
-![A photo of the Sempo Authentication QR Code on the dashboard](../../.gitbook/assets/SyncLogin.png)
+![A photo of the Sempo Authentication QR Code on the dashboard](../../../.gitbook/assets/SyncLogin.png)
 
 Now, login to Sempo's Mobile App using any account. Then, navigate to settings, and press the "Sync" option near the bottom of the screen. A QR code scanner will appear. Point this at the QR code showing on the dashboard. After a few seconds, the words "Logged In" should appear in the top left corner of the screen. You're now ready to start adding cards!
 
-![A photo of the Sempo Authentication QR Code being scanned by a phone](../../.gitbook/assets/PhoneLogIn.jpg)
+![A photo of the Sempo Authentication QR Code being scanned by a phone](../../../.gitbook/assets/PhoneLogIn.jpg)
 
 ### Adding a touch-to-pay card
 
 First, point the QR Code Scanner of the Sync App at the QR Code on the back of a Sempo Touch-to-Pay card. The Card's Public Serial Number will appear on the screen.
 
-![A photo of the Sempo Touch-to-Pay Card QR Code being scanned by a phone](../../.gitbook/assets/AddWithQR.jpg)
+![A photo of the Sempo Touch-to-Pay Card QR Code being scanned by a phone](../../../.gitbook/assets/AddWithQR.jpg)
 
 Next, touch the card to the NFC scanner on your phone \(normally at the back\). Now the NFC ID will appear on the screen as well.
 
-![A photo of the Sempo Touch-to-Pay Card NFC-chip being scanned by a phone](../../.gitbook/assets/Touch.png)
+![A photo of the Sempo Touch-to-Pay Card NFC-chip being scanned by a phone](../../../.gitbook/assets/Touch.png)
 
 Once this is done, simply click "Send" to add the card, and your card will be added!
 

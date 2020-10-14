@@ -33,7 +33,7 @@ Superadmins can approve transfers by following the [Managing Transfers](managing
 ![Step 1](.gitbook/assets/screen-shot-2020-09-11-at-6.36.01-am.png)
 
 {% hint style="warning" %}
-You can combine [Filtering](managing-beneficiaries/filtering.md) and the "Select all" function \(highlighted above\) to disburse to specific groups of people. For example, all beneficiaries who are between the ages of 25-40, female and living in Port Villa.
+You can combine [Filtering](enrolling-vendors/managing-beneficiaries/filtering.md) and the "Select all" function \(highlighted above\) to disburse to specific groups of people. For example, all beneficiaries who are between the ages of 25-40, female and living in Port Villa.
 {% endhint %}
 
 * **Step 2:** Click "New Transfer"

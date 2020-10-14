@@ -10,6 +10,7 @@
   * [What does Sempo provide?](introduction-to-sempo/quick-start/sempo-products-explained/README.md)
     * [Using Sempo's text-based messaging option](introduction-to-sempo/quick-start/sempo-products-explained/using-sempos-ussd-payments.md)
   * [Quick FAQs](introduction-to-sempo/quick-start/general-faqs.md)
+* [Using Sempo's contactless cards as a beneficiary](introduction-to-sempo/using-sempos-contactless-cards.md)
 
 ## Accessing the Dashboard <a id="sempo-dashboard"></a>
 
@@ -29,18 +30,14 @@
   * [Prepare your vendor registration and training session](enrolling-vendors/quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
   * [Deliver your vendor registration and training session \(template materials\)](enrolling-vendors/quick-overview-of-enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
   * [After registration, share vendor data with Sempo and sync to Dashboard](enrolling-vendors/quick-overview-of-enrolling-vendors/after-vendor-registration-share-the-required-information-to-sempo.md)
-
----
-
-* [Beneficiaries registration and training](overview-of-registering-beneficiaries/README.md)
-  * [Set up your beneficiary data collection process with Sempo](overview-of-registering-beneficiaries/decide-your-beneficiary-data-collection-mechanism.md)
-  * [Prepare beneficiary registration and training session](overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/README.md)
-    * [Adding Sempo Cards to Your Platform](overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/adding-sempo-cards-to-your-platform.md)
-  * [Deliver your beneficiary registration and training session](overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
-  * [After registration, sync beneficiary data to the Sempo and Dashboard](overview-of-registering-beneficiaries/after-registration-sync-beneficiary-data-to-the-sempo-dashboard.md)
-* [Managing participants](managing-beneficiaries/README.md)
-  * [Filtering](managing-beneficiaries/filtering.md)
-* [Using Sempo's contactless cards as a beneficiary](using-sempos-contactless-cards.md)
+* [Beneficiaries registration and training](enrolling-vendors/overview-of-registering-beneficiaries/README.md)
+  * [Set up your beneficiary data collection process with Sempo](enrolling-vendors/overview-of-registering-beneficiaries/decide-your-beneficiary-data-collection-mechanism.md)
+  * [Prepare beneficiary registration and training session](enrolling-vendors/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/README.md)
+    * [Adding Sempo Cards to Your Platform](enrolling-vendors/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/adding-sempo-cards-to-your-platform.md)
+  * [Deliver your beneficiary registration and training session](enrolling-vendors/overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
+  * [After registration, sync beneficiary data to the Sempo and Dashboard](enrolling-vendors/overview-of-registering-beneficiaries/after-registration-sync-beneficiary-data-to-the-sempo-dashboard.md)
+* [Managing participants](enrolling-vendors/managing-beneficiaries/README.md)
+  * [Filtering](enrolling-vendors/managing-beneficiaries/filtering.md)
 
 ## Disbursing and Reimbursing
 

@@ -38,7 +38,7 @@ Distribute the beneficiary their cards and/or mobile phones. When handing out ca
 
 ## **Practice receiving and making payments**
 
-The best way to make sure beneficiaries are comfortable making payments is to make  test payments using very small amounts of money \(for example $0.02 dollars\). We recommend  your team members train beneficiaries using a[ demonstration vendor account. ](../enrolling-vendors/quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md#creating-a-small-number-of-demonstration-vendor-phone-accounts-and-beneficiary-cards-accounts-for-training-purposes)  
+The best way to make sure beneficiaries are comfortable making payments is to make  test payments using very small amounts of money \(for example $0.02 dollars\). We recommend  your team members train beneficiaries using a[ demonstration vendor account. ](../quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md#creating-a-small-number-of-demonstration-vendor-phone-accounts-and-beneficiary-cards-accounts-for-training-purposes)  
   
 An example of how you can explain making payments to beneficiaries is below:
 

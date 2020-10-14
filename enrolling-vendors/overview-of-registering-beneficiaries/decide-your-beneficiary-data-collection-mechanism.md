@@ -2,13 +2,13 @@
 
 ## First, r**eview and understand what information you need to collect on your beneficiaries**
 
-Please review Sempo's guide on [KYC checks](../policies-and-security/compliance-aml-ctf/kyc.md). If you are going to be providing beneficiaries with the ability to "cash out" into local fiat currency, then Sempo will need to undertake "Know Your Customer" KYC checks.
+Please review Sempo's guide on [KYC checks](../../policies-and-security/compliance-aml-ctf/kyc.md). If you are going to be providing beneficiaries with the ability to "cash out" into local fiat currency, then Sempo will need to undertake "Know Your Customer" KYC checks.
 
 If your organisation has decided not to provide beneficiaries with the option to "cash out", then Sempo only needs to collect  
 
 ## Then choose and set up your data collection mechanism \(e.g. a form, or KoboToolbox Survey\) 
 
-Sempo can enable registration of participants in four ways \(see [Registering Participants of your Program](../enrolling-vendors/how-to-register-participants.md)\).
+Sempo can enable registration of participants in four ways \(see [Registering Participants of your Program](../how-to-register-participants.md)\).
 
 Importantly, Sempo can receive any CSV or Excel Spreadsheet you provide \(e.g. from KoboToolbox, Commcare etc\), and help you upload it to the Sempo Platform.
 
