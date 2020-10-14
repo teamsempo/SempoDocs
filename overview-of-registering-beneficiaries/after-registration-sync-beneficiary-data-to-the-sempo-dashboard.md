@@ -1,4 +1,4 @@
-# After registration, sync beneficiary data to the Sempo Dashboard
+# After registration, sync beneficiary data to the Sempo and Dashboard
 
 
 

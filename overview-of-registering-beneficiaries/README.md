@@ -13,7 +13,7 @@ To deliver a successful beneficiary registration and training experience, Sempo 
 
 \(As of 2020, Sempo can only provide remote support due to COVID-19.\)
 
-{% page-ref page="prepare-beneficiary-data-collection-mechanism.md" %}
+{% page-ref page="prepare-beneficiary-data-collection-mechanism/" %}
 
 {% page-ref page="decide-your-beneficiary-data-collection-mechanism.md" %}
 

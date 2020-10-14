@@ -2,17 +2,18 @@
 
 * [Welcome to Sempo!](README.md)
 
-## Getting Started
+## Introduction to Sempo
 
-* [Quick Start](getting-started/quick-start/README.md)
-  * [What is Sempo?](getting-started/quick-start/what-is-sempo.md)
-  * [How Sempo's payments work \(5 min video\)](getting-started/quick-start/sempo-payments-overview.md)
-  * [What does Sempo provide?](getting-started/quick-start/sempo-products-explained.md)
-  * [Quick FAQs](getting-started/quick-start/general-faqs.md)
-* [Dashboard overview](getting-started/dashboard-overview.md)
+* [Quick Start](introduction-to-sempo/quick-start/README.md)
+  * [What is Sempo?](introduction-to-sempo/quick-start/what-is-sempo.md)
+  * [How Sempo's payments work \(5 min video\)](introduction-to-sempo/quick-start/sempo-payments-overview.md)
+  * [What does Sempo provide?](introduction-to-sempo/quick-start/sempo-products-explained/README.md)
+    * [Using Sempo's text-based messaging option](introduction-to-sempo/quick-start/sempo-products-explained/using-sempos-ussd-payments.md)
+  * [Quick FAQs](introduction-to-sempo/quick-start/general-faqs.md)
 
-## Sempo Dashboard
+## Accessing the Sempo Dashboard <a id="sempo-dashboard"></a>
 
+* [Dashboard overview](sempo-dashboard/dashboard-overview.md)
 * [Accessing the dashboard](sempo-dashboard/accessing-the-dashboard/README.md)
   * [Admin access tiers](sempo-dashboard/accessing-the-dashboard/access-tiers.md)
   * [Signing up for access to the Dashboard](sempo-dashboard/accessing-the-dashboard/how-to-log-in.md)
@@ -20,31 +21,43 @@
   * [Common login issues](sempo-dashboard/accessing-the-dashboard/common-login-errors.md)
   * [Resetting your password](sempo-dashboard/accessing-the-dashboard/how-to-reset-your-password.md)
   * [Changing Dashboard settings](sempo-dashboard/accessing-the-dashboard/dashboard-settings.md)
-* [Managing participants](sempo-dashboard/managing-beneficiaries/README.md)
-  * [Disbursing funds](sempo-dashboard/managing-beneficiaries/disbursing-funds.md)
-  * [Filtering](sempo-dashboard/managing-beneficiaries/filtering.md)
-  * [Exporting data to excel](sempo-dashboard/managing-beneficiaries/exporting-to-excel.md)
-* [Managing transfers](sempo-dashboard/managing-transfers/README.md)
-  * [Transfer types](sempo-dashboard/managing-transfers/transfer-types.md)
-* [Analysing beneficiary and vendor data](sempo-dashboard/analysing-beneficiary-and-vendor-data.md)
 
 ## Vendor and Beneficiary registration and training <a id="enrolling-vendors"></a>
 
-* [Registering participants of your program](enrolling-vendors/how-to-register-participants.md)
+* [Overview of registering participants](enrolling-vendors/how-to-register-participants.md)
 * [Vendor registration and training](enrolling-vendors/quick-overview-of-enrolling-vendors/README.md)
-  * [Decide your vendor data collection mechanism with Sempo](enrolling-vendors/quick-overview-of-enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
+  * [Set up your vendor data collection process with Sempo](enrolling-vendors/quick-overview-of-enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
   * [Prepare your vendor registration and training session](enrolling-vendors/quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
-  * [Deliver your vendor registration and training session](enrolling-vendors/quick-overview-of-enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
-  * [After registration, share vendor information with Sempo for KYC](enrolling-vendors/quick-overview-of-enrolling-vendors/after-vendor-registration-share-the-required-information-to-sempo.md)
-  * [Sync vendor details with the Sempo Dashboard](enrolling-vendors/quick-overview-of-enrolling-vendors/sync-vendor-details-with-the-sempo-dashboard.md)
+  * [Deliver your vendor registration and training session \(template materials\)](enrolling-vendors/quick-overview-of-enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
+  * [After registration, share vendor data with Sempo and sync to Dashboard](enrolling-vendors/quick-overview-of-enrolling-vendors/after-vendor-registration-share-the-required-information-to-sempo.md)
 
 ---
 
 * [Beneficiaries registration and training](overview-of-registering-beneficiaries/README.md)
-  * [Decide on your beneficiary data collection mechanism with Sempo](overview-of-registering-beneficiaries/decide-your-beneficiary-data-collection-mechanism.md)
-  * [Prepare beneficiary registration and training session](overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism.md)
+  * [Set up your beneficiary data collection process with Sempo](overview-of-registering-beneficiaries/decide-your-beneficiary-data-collection-mechanism.md)
+  * [Prepare beneficiary registration and training session](overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/README.md)
+    * [Adding Sempo Cards to Your Platform](overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/adding-sempo-cards-to-your-platform.md)
   * [Deliver your beneficiary registration and training session](overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
-  * [After registration, sync beneficiary data to the Sempo Dashboard](overview-of-registering-beneficiaries/after-registration-sync-beneficiary-data-to-the-sempo-dashboard.md)
+  * [After registration, sync beneficiary data to the Sempo and Dashboard](overview-of-registering-beneficiaries/after-registration-sync-beneficiary-data-to-the-sempo-dashboard.md)
+* [Managing participants](managing-beneficiaries/README.md)
+  * [Filtering](managing-beneficiaries/filtering.md)
+* [Using Sempo's contactless cards as a beneficiary](using-sempos-contactless-cards.md)
+
+## Disbursing and Reimbursing
+
+---
+
+* [Managing transfers](managing-transfers/README.md)
+  * [Transfer types](managing-transfers/transfer-types.md)
+* [Disbursing to beneficiaries](disbursing-funds.md)
+* [Vendor reimbursement](vendor-reimbursement-1.md)
+
+## Vendor Reimbursement
+
+## Analytics and MEAL
+
+* [Analysing participant and transfer data](analytics-and-meal/analysing-beneficiary-and-vendor-data.md)
+* [Exporting data to excel](analytics-and-meal/exporting-to-excel.md)
 
 ## Sempo Mobile App <a id="mobile-app"></a>
 
@@ -53,15 +66,6 @@
 * [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
 * [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
 * [Sempo App FAQs & Troubleshooting](mobile-app/mobile-app-faqs.md)
-
-## Sempo Tap-to-Pay Cards
-
-* [Adding Sempo Cards to Your Platform](sempo-tap-to-pay-cards/adding-sempo-cards-to-your-platform.md)
-* [Using Sempo's contactless cards as a beneficiary](sempo-tap-to-pay-cards/using-sempos-contactless-cards.md)
-
-## Sempo text-based payments
-
-* [Using Sempo's text-based messaging option](sempo-text-based-payments/using-sempos-ussd-payments.md)
 
 ## Integrations
 

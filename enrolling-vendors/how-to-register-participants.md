@@ -4,7 +4,9 @@ description: >-
   vendors (who will be able to receive payments from your beneficiaries).
 ---
 
-# Registering participants of your program
+# Overview of registering participants
+
+At the start of your engagement with Sempo, you should discuss with Sempo what your preference is for registering participants of your program. 
 
 There are four ways to register participants:
 

@@ -10,7 +10,7 @@ You will use the Sempo Dashboard for registering your program participants, disb
 
 ![How to access customer support](../.gitbook/assets/nav.png)
 
-{% page-ref page="../getting-started/quick-start/sempo-payments-overview.md" %}
+{% page-ref page="../introduction-to-sempo/quick-start/sempo-payments-overview.md" %}
 
 ### Tiers: managing access
 
@@ -20,5 +20,5 @@ You will use the Sempo Dashboard for registering your program participants, disb
 
 ## Analysing data
 
-{% page-ref page="analysing-beneficiary-and-vendor-data.md" %}
+{% page-ref page="../analytics-and-meal/analysing-beneficiary-and-vendor-data.md" %}
 
