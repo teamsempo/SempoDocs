@@ -12,10 +12,9 @@ By working with Sempo to satisfy AML/CTF and KYC regulations, our partners can b
 
 ## What are Sempo's Transaction Limits?
 
-We implement strict velocity exchange limits, ensuring that the rapid exchange of a large amount of currency is impossible for a single individual or small group of individuals. In addition, there are transaction limits in place to ensure that only fully verified users have access to the full service.  
-\`
+We implement strict velocity exchange limits, ensuring that the rapid exchange of a large amount of currency is impossible for a single individual or small group of individuals. In addition, there are transaction limits in place to ensure that only fully verified users have access to the full service.
 
-![Amounts quoted in Australian Dollars \(AUD$\)](../../.gitbook/assets/image%20%287%29.png)
+![Numbers are in Australian Dollars \(AUD\)](../../.gitbook/assets/image%20%288%29.png)
 
 Please note: Level 0 and 1 are suitable for beneficiaries, who will not be "cashing out" their credits into fiat currency. Level 2 and 3 are suitable for vendors or any persons who will be "cashing out" into fiat currency.
 
