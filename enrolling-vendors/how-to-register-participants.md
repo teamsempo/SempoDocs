@@ -8,12 +8,12 @@ description: >-
 
 There are four ways to register participants:
 
-1. Via Sempo Dashboard 
-2. Via Kobo Toolbox
-3. Via Spreadsheet Upload
-4. Via Self Sign Up \(if enabled\)
+1. Sempo Dashboard 
+2. Kobo Toolbox
+3. Spreadsheet Upload
+4. Self Sign Up \(if enabled\)
 
-## 1. Via Sempo Dashboard
+## 1.  Sempo Dashboard
 
 **Step 1:** From the Sempo Dashboard, click on Accounts in the side-bar, and then “+ Add New” in the top right hand corner.
 
@@ -41,7 +41,7 @@ Note: The initial disbursement amount will be set to the default disbursement am
 
 The new recipients can now be viewed from the Accounts page!
 
-## 2. Via Kobo Toolbox
+## 2. Kobo Toolbox
 
 Registration via an-in person interview
 
@@ -53,7 +53,7 @@ Registration via an-in person interview
 
 {% page-ref page="../integrations/kobotoolbox.md" %}
 
-## 3. Via Spreadsheet Upload
+## 3. Spreadsheet Upload
 
 If you wish to enroll recipients from a spreadsheet, follow the below steps
 
@@ -71,7 +71,7 @@ Custom fields such as age and gender can also be added, and used to filter users
 
 Follow the steps described on the screen.
 
-## 4. Via Self Sign Up
+## 4. Self Sign Up
 
 If self sign up is enabled, the account will automatically be created. See the following guides:
 
