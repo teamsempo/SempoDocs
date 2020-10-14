@@ -1,6 +1,6 @@
 # Prepare your vendor registration and training session
 
-## Plan your vendor registration session 
+##  Plan your vendor registration session 
 
 Sempo can help our partners organise in-person registration and training session for vendors. Steps for our partners to follow will include: 
 

@@ -9,7 +9,7 @@ After you have[ prepared](prepare-beneficiary-data-collection-mechanism/) for yo
 5. Review list of participating vendors in location  
 6. Q&A and explanation of how beneficiaries should manage any issues as they arise \(15 minutes, as a group\) 
 
-### Welcome vendors 
+## Welcome  
 
 Below is an example script you can use and tailor when introducing beneficiaries to the Sempo platform. \(Note that this may change depending upon features of your program.\)
 
@@ -26,51 +26,38 @@ Below is an example script you can use and tailor when introducing beneficiaries
 >   
 > Are there any questions?”_
 
-### **Gather data for registration \(and legally required “Know Your Customer” \(KYC\) checks, if relevant\)**
+## **Gather data for registration \(and legally required “Know Your Customer” \(KYC\) checks, if relevant\)**
 
-Please use the vendor data collection mechanism that your organisation's lead \(or superadmin\) has designed and implemented with Sempo. 
+Please use the data collection mechanism that your organisation's lead \(or superadmin\) has designed and implemented with Sempo. 
 
 {% page-ref page="decide-your-beneficiary-data-collection-mechanism.md" %}
 
+## **Give beneficiaries their cards \(and/or mobile phones\)**
 
+Distribute the beneficiary their cards and/or mobile phones. When handing out cards to beneficiaries, we advise syncing cards to beneficiaries. 
 
-### **Give the vendors Vendor Agreements to sign and gather them**
+## **Practice receiving and making payments**
 
-Please provide a copy of the Vendor agreement for them to sign.
-
-### **Give the Vendors their Mobile Phone, and help them log into the Sempo App for the first time**
-
-Distribute the Android phones to vendors, and help them log in to the Sempo App. 
-
-### **Practice receiving and making payments with the Vendor**
-
-The best way to make sure vendors are comfortable accepting payments is to make several test payments using very small amounts of money \(for example $0.02 dollars\). We recommend that the vendor accept these payments using their own Sempo vendor accounts, and that your team members train vendors using a[ demonstration beneficiary account. ](../enrolling-vendors/quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md#creating-a-small-number-of-demonstration-vendor-phone-accounts-and-beneficiary-cards-accounts-for-training-purposes)  
+The best way to make sure beneficiaries are comfortable making payments is to make  test payments using very small amounts of money \(for example $0.02 dollars\). We recommend  your team members train beneficiaries using a[ demonstration vendor account. ](../enrolling-vendors/quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md#creating-a-small-number-of-demonstration-vendor-phone-accounts-and-beneficiary-cards-accounts-for-training-purposes)  
   
-An example of how you can explain how to make payments to vendors is below:
+An example of how you can explain making payments to beneficiaries is below:
 
-> 1. _First, with the Sempo App open on your mobile phone, tap the button down the bottom with a dollar sign with the arrows around it to start a transaction._ 
-> 2. _Then up the top of the Sempo app, check that you are set to receiving card payments. \(There are three icons at the topic. The icon on the right with the cards should be black.\)_ 
-> 3. _Enter the exact amount you want to charge the customer._ 
-> 4. _Then select charge._
-> 5. _Then select the purchase categories. \(You can select multiple categories if multiple apply.\)_
-> 6. _Then tap “Touch to Pay Card” \(to receive a payment from the customer by their card\)_
-> 7. _Get the customer to hold their card against the back of the phone for up to 5 seconds, until you see a tick and a “Continue” button. \(Make sure your customer holds their card against the phone until the payment goes through.\)_
+> _You will need to be shopping at a store where the vendor is accepting Sempo payments. When you have selected your items, take them to the vendor and ask to pay with your Sempo card._
 >
-> _If you do not have an internet connection, the payment will be listed as “pending” until you are able to connect to the internet. This is OK - the payment will be saved on your phone. Once you’re online, pull down the screen to refresh the screen._
-
-### **Explain the vendor reimbursement process and schedule to the Vendors**
-
-We recommend explaining the vendor reimbursement process several times to vendors, until they are very comfortable and understand what is involved. An example of what you could say is:
-
-> _“As you receive payments from customers, you will see your balance increase in your Sempo wallet. Twice weekly, Sempo or our organisation will withdraw credits from your account and depositing local currency into your bank account._
+> _Then the steps will be:_
 >
-> _You will see that twice a week, a “withdrawal” transaction will appear in your account as “pending”. \(While it is pending, you won’t be able to spend or use those pending funds.\)  
->   
-> When the transaction has been processed, the withdrawal will appear as “complete”._ 
+> 1. _The vendor will enter the amount owed into their phone_
+> 2. _To make the payment, hold your card still against the back of the phone for 5 seconds until the payment proceeds and you see a tick and "Continue" sign on the vendor phone._
 >
-> _Please make sure that you connect to the internet every 1-2 days, so that we can make sure that we provide you with the full amount that you are owed.”_
+> _You will also be able to see your remaining balance on the vendor screen at that time_
 
-###  Q&A 
+## **Explain the disbursement process and schedule**
+
+We recommend explaining the disbursement process until it is clear to beneficiaries when they will be receiving their funds. An example of what you could say is:
+
+> _We will automatically disburse funds to your card on the first Monday of every month._
+
+##  Q&A 
 
 Here are some example answers you can give to potential beneficiary questions:
 
