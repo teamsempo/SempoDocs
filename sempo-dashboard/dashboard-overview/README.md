@@ -1,6 +1,6 @@
 # Dashboard overview
 
-You will use the Sempo Dashboard for registering your program participants, disbursing value to them, and monitoring their transfers.
+You will use the Sempo Dashboard to register your program participants, disburse value to them, and monitor their transfers.
 
 ![Dashboard Page - Analytics](../../.gitbook/assets/screen-shot-2020-09-10-at-10.54.44-am.png)
 

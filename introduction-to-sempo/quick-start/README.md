@@ -1,4 +1,4 @@
-# Quick Start
+# Quick Start to Sempo
 
 Welcome to the Sempo platform! This training guide will take you step-by-step through the process of using Sempo's Platform for setting up and delivering a cash transfer program.
 

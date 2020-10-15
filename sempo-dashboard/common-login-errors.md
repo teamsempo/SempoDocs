@@ -1,4 +1,4 @@
-# Resolving Login Issues
+# Resolving login issues
 
 {% hint style="info" %}
 If you haven't received an invitation email to sign up for Sempo, please ask your organisation's admin to re-send an invitation to you. Check your junk mails. 

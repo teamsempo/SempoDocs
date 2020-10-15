@@ -4,13 +4,13 @@
 
 ## Introduction to Sempo
 
-* [Quick Start](introduction-to-sempo/quick-start/README.md)
+* [Quick Start to Sempo](introduction-to-sempo/quick-start/README.md)
   * [What is Sempo?](introduction-to-sempo/quick-start/what-is-sempo.md)
-  * [How Sempo's payments work \(5 min video\)](introduction-to-sempo/quick-start/sempo-payments-overview.md)
   * [What does Sempo provide?](introduction-to-sempo/quick-start/sempo-products-explained/README.md)
     * [Using Sempo's text-based messaging option](introduction-to-sempo/quick-start/sempo-products-explained/using-sempos-ussd-payments.md)
+  * [How Sempo's payments work \(5 min video\)](introduction-to-sempo/quick-start/sempo-payments-overview.md)
+  * [Using Sempo's contactless cards as a beneficiary](introduction-to-sempo/quick-start/using-sempos-contactless-cards.md)
   * [Quick FAQs](introduction-to-sempo/quick-start/general-faqs.md)
-* [Using Sempo's contactless cards as a beneficiary](introduction-to-sempo/using-sempos-contactless-cards.md)
 
 ## Accessing the Dashboard <a id="sempo-dashboard"></a>
 
@@ -20,7 +20,15 @@
 * [Signing up for access to the Dashboard](sempo-dashboard/how-to-log-in/README.md)
   * [Resetting your password](sempo-dashboard/how-to-log-in/how-to-reset-your-password.md)
 * [Inviting someone to access the Sempo Dashboard](sempo-dashboard/accessing-the-dashboard-1.md)
-* [Resolving Login Issues](sempo-dashboard/common-login-errors.md)
+* [Resolving login issues](sempo-dashboard/common-login-errors.md)
+
+## Sempo Mobile App <a id="mobile-app"></a>
+
+* [Installing the Sempo app](mobile-app/installing-android-devices-with-the-sempo-app.md)
+* [Navigating the Sempo app](mobile-app/app-navigation.md)
+* [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
+* [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
+* [Sempo App FAQs](mobile-app/mobile-app-faqs.md)
 
 ## Vendor and Beneficiary registration and training <a id="enrolling-vendors"></a>
 
@@ -53,14 +61,6 @@
 * [Analysing participant and transfer data](analytics-and-meal/analysing-beneficiary-and-vendor-data.md)
 * [Exporting data to excel](analytics-and-meal/exporting-to-excel.md)
 
-## Sempo Mobile App <a id="mobile-app"></a>
-
-* [Installing the Sempo app](mobile-app/installing-android-devices-with-the-sempo-app.md)
-* [Navigating the Sempo app](mobile-app/app-navigation.md)
-* [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
-* [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
-* [Sempo App FAQs & Troubleshooting](mobile-app/mobile-app-faqs.md)
-
 ## Integrations
 
 * [Sempo API \(Beta\)](integrations/sempo-api-beta.md)
@@ -75,11 +75,11 @@
 * [Sempo's AML/CTF Policy](https://withsempo.com/legal/aml-policy/)
 * [Privacy Policy](https://withsempo.com/legal/privacy-policy/)
 * [Platform Terms](https://withsempo.com/legal/platform-terms/)
-* [Pricing for Individuals](policies-and-security/pricing.md)
 
 ## Help & Feedback
 
 * [Support](help-and-feedback/support.md)
+* [Reading on Cash Transfer Programming](help-and-feedback/reading-on-cash-transfer-programming.md)
 * [Glossary of Terms](help-and-feedback/definitions.md)
 * [Email Support](mailto:help@withsempo.com)
 
