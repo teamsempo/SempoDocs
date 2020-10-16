@@ -29,7 +29,7 @@ Key Features of this page:
 
 ![](../../.gitbook/assets/screen-shot-2020-09-11-at-6.20.22-am.png)
 
-{% page-ref page="../../disbursing-funds.md" %}
+{% page-ref page="../../disbursing-and-reimbursing/disbursing-funds.md" %}
 
 {% page-ref page="filtering.md" %}
 

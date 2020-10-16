@@ -49,12 +49,10 @@
 
 ## Disbursing and Reimbursing
 
----
-
-* [Managing transfers](managing-transfers/README.md)
-  * [Transfer types](managing-transfers/transfer-types.md)
-* [Disbursing to beneficiaries](disbursing-funds.md)
-* [Vendor reimbursement](vendor-reimbursement-1.md)
+* [Managing transfers](disbursing-and-reimbursing/managing-transfers/README.md)
+  * [Transfer types](disbursing-and-reimbursing/managing-transfers/transfer-types.md)
+* [Disbursing to beneficiaries](disbursing-and-reimbursing/disbursing-funds.md)
+* [Vendor reimbursement](disbursing-and-reimbursing/vendor-reimbursement-1.md)
 
 ## Analytics and MEAL
 

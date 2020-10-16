@@ -28,6 +28,9 @@ It is important to remember when setting up vendor and beneficiary accounts:
 1. You should make the accounts easily identifiable for testing and training.We recommend using the names of the accounts for this purpose. For example “DEMO Beneficiary1” and  “DEMO Vendor1”. 
 2. Make the cards you assign to demo beneficiary accounts clearly marked as “DEMO” cards. It is also extremely important that the cards that you assign to the demo beneficiary accounts do not get mixed in with the real cards - as they will not be able to be re-assigned to a beneficiary after training. We recommend marking the cards with a permanent marker immediately.
 
-You do not need to log into the Sempo Mobile App using the phone number that belongs to the phone. It is easiest to create vendor accounts using a team-member's phone number.  
+You do not need to log into the Sempo Mobile App using the phone number that belongs to the phone. It is easiest to create vendor accounts using a team-member's phone number.
 
+{% hint style="info" %}
+When creating demo beneficiary and vendor accounts, always put DEMO in the name so that it's clear that the account is not a real account.
+{% endhint %}
 

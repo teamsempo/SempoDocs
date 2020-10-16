@@ -31,12 +31,12 @@ _**Custom fields**_ are any fields that are not **required** or **optional**. Se
 
 For **Beneficiary and Vendor enrollment** the required fields are:
 
-* **“first_name”:** The participant’s first name
-* **“last_name”:** The participant’s last name
+* **“first\_name”:** The participant’s first name
+* **“last\_name”:** The participant’s last name
 * _One of:_
   * **“Phone”:** The participant’s phone number \(must be a valid phone number\)
-  * **“public_serial_number”:** The ID of the Touch-to-pay card that is being given to the participant \(use the Barcode/QR Code type\)
-  
+  * **“public\_serial\_number”:** The ID of the Touch-to-pay card that is being given to the participant \(use the Barcode/QR Code type\)
+
 {% hint style="warning" %}
 Make sure to include the underscores in the field names!
 {% endhint %}
@@ -78,19 +78,16 @@ There are many optional fields. The fields that might be useful are:
 
 ![](../.gitbook/assets/screen-shot-2020-09-10-at-5.25.29-pm.png)
 
-5. Complete the following fields:
-
-1. Name: Sempo
-2. Endpoint URL: [https://yourdomain.withsempo.com/api/v1/user/?preprocess=true](https://yourdomain.withsempo.com/api/v1/user/?preprocess=true)
-3. Ensure ‘Enabled’ is CHECKED
-4. Type: JSON
-5. Security: Basic Authorization
-6. Username: your username from Step 2.
-7. Password: your password from Step 2.
-
-6. Scroll down and click ‘Create’
-
-7. You have now connected your KoboToolbox form to Sempo!
+1. Complete the following fields:
+2. Name: Sempo
+3. Endpoint URL: [https://yourdomain.withsempo.com/api/v1/user/?preprocess=true](https://yourdomain.withsempo.com/api/v1/user/?preprocess=true)
+4. Ensure ‘Enabled’ is CHECKED
+5. Type: JSON
+6. Security: Basic Authorization
+7. Username: your username from Step 2.
+8. Password: your password from Step 2.
+9. Scroll down and click ‘Create’
+10. You have now connected your KoboToolbox form to Sempo!
 
 ![](../.gitbook/assets/screen-shot-2020-09-10-at-5.25.35-pm.png)
 

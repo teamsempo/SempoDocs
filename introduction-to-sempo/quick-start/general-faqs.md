@@ -18,7 +18,7 @@
 
 {% page-ref page="../../enrolling-vendors/managing-beneficiaries/" %}
 
-{% page-ref page="../../managing-transfers/" %}
+{% page-ref page="../../disbursing-and-reimbursing/managing-transfers/" %}
 
 ### How do I analyse what transfers are happening, and what participants are spending their money on?
 
