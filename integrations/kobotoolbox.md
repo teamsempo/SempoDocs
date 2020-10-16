@@ -31,11 +31,15 @@ _**Custom fields**_ are any fields that are not **required** or **optional**. Se
 
 For **Beneficiary and Vendor enrollment** the required fields are:
 
-* **“First name”:** The participant’s first name
-* **“Last name”:** The participant’s last name
+* **“first_name”:** The participant’s first name
+* **“last_name”:** The participant’s last name
 * _One of:_
   * **“Phone”:** The participant’s phone number \(must be a valid phone number\)
-  * **“Public Serial Number”:** The ID of the Touch-to-pay card that is being given to the participant \(use the Barcode/QR Code type\)
+  * **“public_serial_number”:** The ID of the Touch-to-pay card that is being given to the participant \(use the Barcode/QR Code type\)
+  
+{% hint style="warning" %}
+Make sure to include the underscores in the field names!
+{% endhint %}
 
 For **Vendor KYC** the required fields are:
 
