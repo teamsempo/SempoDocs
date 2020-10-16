@@ -75,6 +75,7 @@
 * [Sempo's AML/CTF Policy](https://withsempo.com/legal/aml-policy/)
 * [Privacy Policy](https://withsempo.com/legal/privacy-policy/)
 * [Platform Terms](https://withsempo.com/legal/platform-terms/)
+* [Pricing](policies-and-security/pricing-1.md)
 
 ## Help & Feedback
 
