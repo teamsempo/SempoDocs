@@ -14,7 +14,7 @@ Sempo also enables our partners to collect additional information about vendors 
 * Reason for Vulnerability
 * Location
 
-## Choose and set up your vendor data collection mechanism \(e.g. a form, or KoboToolbox Survey\) 
+## Agree with Sempo on your vendor data collection mechanism \(e.g. a form, or KoboToolbox Survey\) 
 
 Sempo can enable registration of participants in four ways \(see [Registering Participants of your Program](../how-to-register-participants.md)\).
 

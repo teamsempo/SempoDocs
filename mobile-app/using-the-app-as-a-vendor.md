@@ -27,11 +27,7 @@ In the case of **no internet connection**, the balance will update once the conn
 For the Kogan Agora XI phone, you need to hold the card against the middle of the back of the phone. 
 {% endhint %}
 
-
-
 {% page-ref page="mobile-app-faqs.md" %}
-
-
 
 ## How to check a customer's balance?
 
@@ -46,7 +42,7 @@ For the Kogan Agora XI phone, you need to hold the card against the middle of th
 2. Hold the phone still when scanning
 {% endhint %}
 
-## How to cash out?
+## How to cash out from another vendor?
 
 _Do you need cash sooner than the agreed pay cycle?_
 
@@ -63,14 +59,14 @@ _Do you need cash sooner than the agreed pay cycle?_
 3. **Payout cash** in the amount you received in your digital wallet. ![](../.gitbook/assets/screen-shot-2020-09-10-at-5.00.21-pm.png) 
 4. **Register in your books.** Remember to register the pay out in your own books. ![](../.gitbook/assets/screen-shot-2020-09-10-at-5.01.13-pm.png) 
 
-## Refunds
+## How to give a refund
 
-If a vendor needs to refund a recipient \(eg. if they accidentally overcharged\), the vendor needs to:
+If a vendor needs to refund a customer \(eg. if they accidentally overcharged\), the vendor needs to:
 
-1. Notify the organisation managing the cash transfer program who will perform a reclamation of the amount
-2. The organisation will then disburse that amount to the recipient.
+1. Notify the organisation managing the cash transfer program of the name of the customer, and the exact amount owed. 
+2. The organisation and/or Sempo can perform a reclamation of the amount from the vendor, and then disburse the owed amount to the customer
 
-## Exporting Data
+## Exporting vendor data
 
 ![](../.gitbook/assets/export.png)
 
