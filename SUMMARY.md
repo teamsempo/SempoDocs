@@ -80,7 +80,7 @@
 ## Help & Feedback
 
 * [Support](help-and-feedback/support.md)
-* [Reading on Cash Transfer Programming](help-and-feedback/reading-on-cash-transfer-programming.md)
 * [Glossary of Terms](help-and-feedback/definitions.md)
 * [Email Support](mailto:help@withsempo.com)
+* [Reading on Cash Transfer Programming](help-and-feedback/reading-on-cash-transfer-programming.md)
 
