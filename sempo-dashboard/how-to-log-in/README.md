@@ -1,4 +1,4 @@
-# Signing up for access to the Dashboard
+# Signing up for Dashboard access
 
 ## Signing up as a subadmin or view only
 

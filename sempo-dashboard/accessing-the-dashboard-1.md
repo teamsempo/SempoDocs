@@ -5,7 +5,7 @@ description: >-
   dashboard.
 ---
 
-# Inviting someone to access the Sempo Dashboard
+# Inviting someone to access the Dashboard
 
 {% hint style="warning" %}
 **To get access to the dashboard ask your platform administrator to invite you and then** [**sign up**.](how-to-log-in/) If you need help, please reach out to [help@withsempo.com](mailto:help@withsempo.com).

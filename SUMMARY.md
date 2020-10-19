@@ -16,9 +16,9 @@
 * [Dashboard overview](sempo-dashboard/dashboard-overview/README.md)
   * [Admin access tiers](sempo-dashboard/dashboard-overview/access-tiers.md)
   * [Changing Dashboard settings](sempo-dashboard/dashboard-overview/dashboard-settings.md)
-* [Signing up for access to the Dashboard](sempo-dashboard/how-to-log-in/README.md)
+* [Signing up for Dashboard access](sempo-dashboard/how-to-log-in/README.md)
   * [Resetting your password](sempo-dashboard/how-to-log-in/how-to-reset-your-password.md)
-* [Inviting someone to access the Sempo Dashboard](sempo-dashboard/accessing-the-dashboard-1.md)
+* [Inviting someone to access the Dashboard](sempo-dashboard/accessing-the-dashboard-1.md)
 * [Resolving login issues](sempo-dashboard/common-login-errors.md)
 
 ## Using the Sempo App and Cards <a id="mobile-app"></a>
