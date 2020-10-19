@@ -17,6 +17,8 @@ There are four ways to register participants:
 3. Spreadsheet Upload
 4. Self Sign Up \(if enabled\)
 
+Please discuss with us which method you would prefer, so we can help you deliver this process during participant registration and training.
+
 ## 1.  Sempo Dashboard
 
 **Step 1:** From the Sempo Dashboard, click on Accounts in the side-bar, and then “+ Add New” in the top right hand corner.
