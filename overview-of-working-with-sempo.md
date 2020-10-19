@@ -52,9 +52,9 @@ Sempo will train our Partners in:
   * Understanding the [access tiers](sempo-dashboard/dashboard-overview/access-tiers.md) of the Dashboard
   * [Signing up for accessing](sempo-dashboard/how-to-log-in/) the Dashboard
   * [Inviting someone to access the Dashboard](sempo-dashboard/accessing-the-dashboard-1.md)
-  * [Viewing, filtering and editing participant account](analytics-and-meal/managing-beneficiaries.md)
-  * [Analysing participant and transfer data](analytics-and-meal/analysing-beneficiary-and-vendor-data.md)
-  * [Exporting data to excel](analytics-and-meal/exporting-to-excel.md)
+  * [Viewing, filtering and editing participant account](monitoring-and-analysing-data/managing-beneficiaries.md)
+  * [Analysing participant and transfer data](monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md)
+  * [Exporting data to excel](monitoring-and-analysing-data/exporting-to-excel.md)
   * [Integrating with Kobo Toolbox \(if required\)](integrations/kobotoolbox.md)
   * [Understanding the transfer types](disbursing-and-withdrawing/transfer-types.md)
 * Using the Sempo Mobile App, in particular
@@ -77,7 +77,7 @@ In this stage, we will work together to:
 * [Manage transfers](disbursing-and-withdrawing/managing-transfers.md)
 * [Disburse funds to beneficiaries](disbursing-and-withdrawing/disbursing-funds.md)
 * Conduct [vendor withdrawals and reimbursements](disbursing-and-withdrawing/vendor-reimbursement-1.md)
-* [Analyse participant and transfer data](analytics-and-meal/analysing-beneficiary-and-vendor-data.md)
+* [Analyse participant and transfer data](monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md)
 
 Where possible, we recommend planning for a week-long "mini-pilot" or week where a small number of beneficiaries have a shopping week at certain vendors. This can allow for testing and adaptation of our solution as required to your context.
 

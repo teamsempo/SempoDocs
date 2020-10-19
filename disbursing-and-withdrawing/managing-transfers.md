@@ -1,4 +1,4 @@
-# Managing transfers
+# Viewing, approving or rejecting transfers
 
 By selecting the transfers tab on the left, you are able to see the full history of transactions, including payments, disbursements and withdrawals, which can be filtered.
 

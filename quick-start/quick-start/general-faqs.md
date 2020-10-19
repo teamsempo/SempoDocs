@@ -16,13 +16,13 @@
 
 {% page-ref page="../../enrolling-vendors/how-to-register-participants.md" %}
 
-{% page-ref page="../../analytics-and-meal/managing-beneficiaries.md" %}
+{% page-ref page="../../monitoring-and-analysing-data/managing-beneficiaries.md" %}
 
 {% page-ref page="../../disbursing-and-withdrawing/managing-transfers.md" %}
 
 ### How do I analyse what transfers are happening, and what participants are spending their money on?
 
-{% page-ref page="../../analytics-and-meal/analysing-beneficiary-and-vendor-data.md" %}
+{% page-ref page="../../monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md" %}
 
 
 

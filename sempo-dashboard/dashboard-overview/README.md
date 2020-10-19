@@ -20,5 +20,5 @@ You will use the Sempo Dashboard to register your program participants, disburse
 
 ## Analysing data
 
-{% page-ref page="../../analytics-and-meal/analysing-beneficiary-and-vendor-data.md" %}
+{% page-ref page="../../monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md" %}
 

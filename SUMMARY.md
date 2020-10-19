@@ -51,15 +51,15 @@
 ## Disbursing and Withdrawing
 
 * [Overview of transfer types](disbursing-and-withdrawing/transfer-types.md)
-* [Managing transfers](disbursing-and-withdrawing/managing-transfers.md)
+* [Viewing, approving or rejecting transfers](disbursing-and-withdrawing/managing-transfers.md)
 * [Disbursing to beneficiaries](disbursing-and-withdrawing/disbursing-funds.md)
 * [Vendor withdrawals and reimbursement](disbursing-and-withdrawing/vendor-reimbursement-1.md)
 
-## Analytics and MEAL
+## Monitoring and Analysing Data
 
-* [Viewing, filtering and editing participant accounts](analytics-and-meal/managing-beneficiaries.md)
-* [Analysing participant and transfer data](analytics-and-meal/analysing-beneficiary-and-vendor-data.md)
-* [Exporting data to excel](analytics-and-meal/exporting-to-excel.md)
+* [Viewing, filtering and editing participant accounts](monitoring-and-analysing-data/managing-beneficiaries.md)
+* [Analysing participant and transfer data](monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md)
+* [Exporting data to excel](monitoring-and-analysing-data/exporting-to-excel.md)
 
 ## Integrations
 
