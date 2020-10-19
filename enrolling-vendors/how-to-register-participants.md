@@ -1,12 +1,10 @@
----
-description: >-
-  Participants of a program are your beneficiaries (of cash transfers) and
-  vendors (who will be able to receive payments from your beneficiaries).
----
-
 # Overview of registering participants
 
-At the start of your engagement with Sempo, you should discuss with Sempo what your preference is for registering participants of your program. 
+{% hint style="info" %}
+This section is for NGOs and Field Partners of Sempo who will be registering and training vendors and beneficiaries of cash transfer programs.
+{% endhint %}
+
+At the start of an engagement with Sempo, you should discuss with Sempo what your preference is for registering participants of your program. 
 
 There are four ways to register participants:
 
