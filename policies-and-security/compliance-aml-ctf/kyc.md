@@ -122,6 +122,10 @@ If Sempo identifies that a customer is high-risk, we will let you know as soon a
 * income or assets of the customer; or
 * beneficial ownership of funds
 
+{% hint style="info" %}
+If no government-issued Photo ID will be available, please reach out to us at compliance@withsempo.com. We may be able to accept referee statements, government correspondence or other types of self-attestations depending upon the laws of the country.
+{% endhint %}
+
 ## What is our advice for Partners when collecting data for KYC from program participants?
 
 When collecting information for KYC purposes, we encourage our Partners to ensure they:
