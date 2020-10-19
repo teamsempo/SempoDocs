@@ -67,7 +67,7 @@ Sempo will train our Partners in:
 * Delivering [vendor registration and training](../enrolling-vendors/quick-overview-of-enrolling-vendors/)
 * Delivering [beneficiary registration and training ](../enrolling-vendors/overview-of-registering-beneficiaries/) 
 
-Sempo will then complete ["Know Your Customer" \(KYC\) checks](../policies-and-security/compliance-aml-ctf/kyc.md) of your program participants, in compliance with relevant global standards and laws.
+Sempo will then complete ["Know Your Customer" \(KYC\) checks](../policies-and-security/kyc.md) of your program participants, in compliance with relevant global standards and laws.
 
 ## C. Distribution and Monitoring 
 

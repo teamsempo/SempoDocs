@@ -65,13 +65,11 @@
 
 ## Policies & Security
 
-* [Compliance Processes](policies-and-security/compliance-aml-ctf/README.md)
-  * [Know Your Customer \(KYC\) checks](policies-and-security/compliance-aml-ctf/kyc.md)
-  * [Security FAQs](policies-and-security/compliance-aml-ctf/faqs.md)
+* [Know Your Customer \(KYC\)](policies-and-security/kyc.md)
+* [Security FAQs](policies-and-security/faqs.md)
 * [Sempo's AML/CTF Policy](https://withsempo.com/legal/aml-policy/)
 * [Privacy Policy](https://withsempo.com/legal/privacy-policy/)
 * [Platform Terms](https://withsempo.com/legal/platform-terms/)
-* [Pricing](policies-and-security/pricing-1.md)
 
 ## Help & Feedback
 

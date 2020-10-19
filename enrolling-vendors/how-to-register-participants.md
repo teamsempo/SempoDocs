@@ -7,7 +7,7 @@ description: >-
 # Ways to register participants
 
 {% hint style="info" %}
-In addition to collecting data for registering someone as a participant in your program, you will also need to collect data to enable Sempo to complete legally mandated[ "Know Your Customer"](../policies-and-security/compliance-aml-ctf/kyc.md) checks. A participant can be registered, but not able to cash out, if they have not had their KYC check completed yet.
+In addition to collecting data for registering someone as a participant in your program, you will also need to collect data to enable Sempo to complete legally mandated[ "Know Your Customer"](../policies-and-security/kyc.md) checks. A participant can be registered, but not able to cash out, if they have not had their KYC check completed yet.
 {% endhint %}
 
 There are four ways to register participants:

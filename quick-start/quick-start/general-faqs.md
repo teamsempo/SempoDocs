@@ -30,7 +30,7 @@
 
 {% page-ref page="../../mobile-app/mobile-app-faqs.md" %}
 
-{% page-ref page="../../policies-and-security/compliance-aml-ctf/faqs.md" %}
+{% page-ref page="../../policies-and-security/faqs.md" %}
 
 
 

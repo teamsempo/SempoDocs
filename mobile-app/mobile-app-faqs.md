@@ -87,7 +87,7 @@ How much money you can send depends on your weekly and monthly account limits. T
 
 For more details please see Sempo account limits.
 
-{% page-ref page="../policies-and-security/compliance-aml-ctf/faqs.md" %}
+{% page-ref page="../policies-and-security/faqs.md" %}
 
 
 

@@ -2,7 +2,7 @@
 
 ## R**eview and understand what information you need to collect on your beneficiaries**
 
-Please review Sempo's guide on [KYC checks](../../policies-and-security/compliance-aml-ctf/kyc.md). If you are going to be providing beneficiaries with the ability to "cash out" into local fiat currency, then Sempo will need to undertake "Know Your Customer" KYC checks.
+Please review Sempo's guide on [KYC checks](../../policies-and-security/kyc.md). If you are going to be providing beneficiaries with the ability to "cash out" into local fiat currency, then Sempo will need to undertake "Know Your Customer" KYC checks.
 
 If your organisation has decided not to provide beneficiaries with the option to "cash out", then Sempo only needs to collect  
 
