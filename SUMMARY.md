@@ -40,22 +40,22 @@
 * [Vendor registration and training](enrolling-vendors/quick-overview-of-enrolling-vendors/README.md)
   * [Set up your vendor data collection process with Sempo](enrolling-vendors/quick-overview-of-enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
   * [Prepare your vendor registration and training session](enrolling-vendors/quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
-  * [Deliver your vendor registration and training session \(template materials\)](enrolling-vendors/quick-overview-of-enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
+  * [Deliver vendor registration and training session](enrolling-vendors/quick-overview-of-enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
   * [After registration, share vendor data with Sempo and sync to Dashboard](enrolling-vendors/quick-overview-of-enrolling-vendors/after-vendor-registration-share-the-required-information-to-sempo.md)
 * [Beneficiaries registration and training](enrolling-vendors/overview-of-registering-beneficiaries/README.md)
   * [Set up your beneficiary data collection process with Sempo](enrolling-vendors/overview-of-registering-beneficiaries/decide-your-beneficiary-data-collection-mechanism.md)
   * [Prepare beneficiary registration and training session](enrolling-vendors/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/README.md)
     * [Adding Sempo Cards to Your Platform](enrolling-vendors/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/adding-sempo-cards-to-your-platform.md)
-  * [Deliver your beneficiary registration and training session](enrolling-vendors/overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
-  * [After registration, sync beneficiary data to the Sempo and Dashboard](enrolling-vendors/overview-of-registering-beneficiaries/after-registration-sync-beneficiary-data-to-the-sempo-dashboard.md)
+  * [Deliver beneficiary registration and training session](enrolling-vendors/overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
+  * [After registration, sync beneficiary data to  Dashboard](enrolling-vendors/overview-of-registering-beneficiaries/after-registration-sync-beneficiary-data-to-the-sempo-dashboard.md)
 * [Viewing, filtering and editing participant accounts](enrolling-vendors/managing-beneficiaries.md)
 
-## Disbursing and Reimbursing
+## Disbursing and Withdrawing
 
-* [Managing transfers](disbursing-and-reimbursing/managing-transfers/README.md)
-  * [Transfer types](disbursing-and-reimbursing/managing-transfers/transfer-types.md)
-* [Disbursing to beneficiaries](disbursing-and-reimbursing/disbursing-funds.md)
-* [Vendor reimbursement](disbursing-and-reimbursing/vendor-reimbursement-1.md)
+* [Overview of transfer types](disbursing-and-withdrawing/transfer-types.md)
+* [Managing transfers](disbursing-and-withdrawing/managing-transfers.md)
+* [Disbursing to beneficiaries](disbursing-and-withdrawing/disbursing-funds.md)
+* [Vendor reimbursement](disbursing-and-withdrawing/vendor-reimbursement-1.md)
 
 ## Analytics and MEAL
 

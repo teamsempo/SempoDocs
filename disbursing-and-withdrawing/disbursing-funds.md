@@ -9,7 +9,7 @@ If you prefer, Sempo can also assist with making transfers to your beneficiaries
 {% endhint %}
 
 {% hint style="success" %}
-Superadmins can approve transfers by following the [Managing Transfers](managing-transfers/#approving-transfers) guide.
+Superadmins can approve transfers by following the [Managing Transfers](managing-transfers.md#approving-transfers) guide.
 {% endhint %}
 
 ## Disbursing funds to an individual

@@ -10,7 +10,7 @@ This process may be delayed if Sempo needs to ask you to collect more informatio
 
 ## **Sync data on vendors to the Sempo Dashboard**
 
-Sempo's partners can always upload and sync data about vendors and program participants on the Sempo Dashboard directly. 
+Sempo's partners can always upload and sync data about vendors and program participants on the Sempo Dashboard directly.
 
 Sempo can also assist you if you have any questions or concerns about the syncing process.
 

@@ -1,4 +1,4 @@
-# Deliver your beneficiary registration and training session
+# Deliver beneficiary registration and training session
 
 After you have[ prepared](prepare-beneficiary-data-collection-mechanism/) for your beneficiary registration and training session, you will deliver your session. We advise the agenda for the session could address: 
 

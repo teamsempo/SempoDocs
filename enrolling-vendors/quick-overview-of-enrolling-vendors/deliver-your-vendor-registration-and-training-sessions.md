@@ -1,4 +1,4 @@
-# Deliver your vendor registration and training session \(template materials\)
+# Deliver vendor registration and training session
 
 After you have [prepared for your vendor registration and training session](plan-your-vendor-in-person-registration-and-training-session.md), you will deliver your session. We advise the agenda for the session could address: 
 
