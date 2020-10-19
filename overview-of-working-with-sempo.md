@@ -83,7 +83,7 @@ Where possible, we recommend planning for a week-long "mini-pilot" or week where
 
 ## D. Reporting and Preparing for Extension
 
-We can work with you to analyse and report on program data. 
+We can work with you to analyse and report on participant and transfer data collected via our Platform. 
 
 Sempo can:
 
@@ -91,4 +91,6 @@ Sempo can:
 * Deliver a retrospective workshop to reflect on feedback
 * Develop a learnings report 
 * Assist with donor reports and fundraising strategies for scale-ups.
+
+Please note: we also encourage our partners to conduct on-the-ground monitoring to ensure that the program has not resulted in adverse effects, such as beneficiaries being taken advantage of by vendors, or domestic violence due to the distribution. Please conduct us at team@withsempo.com to discuss ways we can help you.
 
