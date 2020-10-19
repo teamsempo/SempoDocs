@@ -9,10 +9,7 @@
   * [What does Sempo provide?](quick-start/quick-start/sempo-products-explained.md)
   * [How Sempo's payments work \(5 min video\)](quick-start/quick-start/sempo-payments-overview.md)
   * [Quick FAQs](quick-start/quick-start/general-faqs.md)
-
----
-
-* [Working with Sempo](overview-of-working-with-sempo.md)
+* [Working with Sempo](quick-start/overview-of-working-with-sempo.md)
 
 ## Using the Sempo Dashboard <a id="sempo-dashboard"></a>
 
