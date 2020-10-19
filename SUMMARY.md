@@ -47,7 +47,6 @@
   * [Prepare beneficiary registration and training session](enrolling-vendors/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/README.md)
     * [Adding Sempo Cards to Your Platform](enrolling-vendors/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/adding-sempo-cards-to-your-platform.md)
   * [Deliver beneficiary registration and training session](enrolling-vendors/overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
-  * [After registration, sync beneficiary data to  Dashboard](enrolling-vendors/overview-of-registering-beneficiaries/after-registration-sync-beneficiary-data-to-the-sempo-dashboard.md)
 
 ## Disbursing and Withdrawing
 

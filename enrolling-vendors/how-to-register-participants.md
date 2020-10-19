@@ -1,10 +1,14 @@
+---
+description: >-
+  This section is for NGOs and Field Partners of Sempo who will be registering
+  and training vendors and beneficiaries of cash transfer programs.
+---
+
 # Overview of registering participants
 
 {% hint style="info" %}
-This section is for NGOs and Field Partners of Sempo who will be registering and training vendors and beneficiaries of cash transfer programs.
+In addition to registering a participant, Sempo will also need to perform "Know Your Customer" checks for some participants. See further [KYC checks.](../policies-and-security/compliance-aml-ctf/kyc.md)
 {% endhint %}
-
-At the start of an engagement with Sempo, you should discuss with Sempo what your preference is for registering participants of your program. 
 
 There are four ways to register participants:
 

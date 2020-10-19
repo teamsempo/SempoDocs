@@ -38,7 +38,21 @@ Sempo cannot procure hardware for you or deliver training until contracts are fi
 
 ## B. Project Design, Training and Onboarding 
 
+We will train you in:
 
+* Using the Sempo Mobile App, in particular
+  * [Installing the app](mobile-app/installing-android-devices-with-the-sempo-app.md)
+  * [Navigating the app](mobile-app/app-navigation.md)
+  * [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
+  * [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
+
+We then support our Partners in:
+
+* Defining the [best process for registering participants](enrolling-vendors/how-to-register-participants.md)
+* Delivering [vendor registration and training](enrolling-vendors/quick-overview-of-enrolling-vendors/)
+* Delivering [beneficiary registration and training ](enrolling-vendors/overview-of-registering-beneficiaries/)
+
+Sempo then
 
 ## C. Distribution and Monitoring 
 
