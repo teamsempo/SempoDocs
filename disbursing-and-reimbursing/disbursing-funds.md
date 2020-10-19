@@ -48,5 +48,5 @@ You can combine [Filtering](../enrolling-vendors/managing-beneficiaries/filterin
 
 ![Step 4](../.gitbook/assets/screen-shot-2020-09-08-at-12.04.13-pm.png)
 
-{% page-ref page="../introduction-to-sempo/quick-start/sempo-payments-overview.md" %}
+{% page-ref page="../quick-start/quick-start/sempo-payments-overview.md" %}
 

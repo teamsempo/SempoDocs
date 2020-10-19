@@ -2,15 +2,19 @@
 
 * [Welcome to Sempo!](README.md)
 
-## Introduction to Sempo
+## Quick start
 
-* [Quick Start to Sempo](introduction-to-sempo/quick-start/README.md)
-  * [What is Sempo?](introduction-to-sempo/quick-start/what-is-sempo.md)
-  * [What does Sempo provide?](introduction-to-sempo/quick-start/sempo-products-explained/README.md)
-    * [Using Sempo's text-based messaging option](introduction-to-sempo/quick-start/sempo-products-explained/using-sempos-ussd-payments.md)
-  * [How Sempo's payments work \(5 min video\)](introduction-to-sempo/quick-start/sempo-payments-overview.md)
-  * [Using Sempo's contactless cards as a beneficiary](introduction-to-sempo/quick-start/using-sempos-contactless-cards.md)
-  * [Quick FAQs](introduction-to-sempo/quick-start/general-faqs.md)
+* [Overview of Sempo](quick-start/quick-start/README.md)
+  * [What is Sempo?](quick-start/quick-start/what-is-sempo.md)
+  * [What does Sempo provide?](quick-start/quick-start/sempo-products-explained/README.md)
+    * [Using Sempo's text-based messaging option](quick-start/quick-start/sempo-products-explained/using-sempos-ussd-payments.md)
+  * [How Sempo's payments work \(5 min video\)](quick-start/quick-start/sempo-payments-overview.md)
+  * [Using Sempo's contactless cards as a beneficiary](quick-start/quick-start/using-sempos-contactless-cards.md)
+  * [Quick FAQs](quick-start/quick-start/general-faqs.md)
+
+---
+
+* [Overview of working with Sempo](overview-of-working-with-sempo.md)
 
 ## Accessing the Dashboard <a id="sempo-dashboard"></a>
 
@@ -22,12 +26,12 @@
 * [Inviting someone to access the Sempo Dashboard](sempo-dashboard/accessing-the-dashboard-1.md)
 * [Resolving login issues](sempo-dashboard/common-login-errors.md)
 
-## Sempo Mobile App <a id="mobile-app"></a>
+## Using the Sempo Mobile App <a id="mobile-app"></a>
 
 * [Installing the Sempo app](mobile-app/installing-android-devices-with-the-sempo-app.md)
 * [Navigating the Sempo app](mobile-app/app-navigation.md)
-* [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
 * [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
+* [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
 * [Sempo App FAQs](mobile-app/mobile-app-faqs.md)
 
 ## Vendor and Beneficiary registration and training <a id="enrolling-vendors"></a>

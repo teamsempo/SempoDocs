@@ -10,7 +10,7 @@ You will use the Sempo Dashboard to register your program participants, disburse
 
 ![How to access customer support](../../.gitbook/assets/nav.png)
 
-{% page-ref page="../../introduction-to-sempo/quick-start/sempo-payments-overview.md" %}
+{% page-ref page="../../quick-start/quick-start/sempo-payments-overview.md" %}
 
 ### Tiers: managing access
 
