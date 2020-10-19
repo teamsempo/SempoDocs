@@ -1,4 +1,4 @@
-# Overview of transfer types
+# Transfer types
 
 {% hint style="info" %}
 This page explains the different types of transfers that you may see on the Sempo Dashboard and transfer page.

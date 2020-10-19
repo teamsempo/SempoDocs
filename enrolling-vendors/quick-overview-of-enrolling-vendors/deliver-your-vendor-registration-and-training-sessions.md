@@ -61,6 +61,8 @@ An example of how you can explain how to make payments to vendors is below:
 >
 > _If you do not have an internet connection, the payment will be listed as “pending” until you are able to connect to the internet. This is OK - the payment will be saved on your phone. Once you’re online, pull down the screen to refresh the screen._
 
+{% page-ref page="../../mobile-app/using-the-app-as-a-vendor.md" %}
+
 ## **Explain the vendor reimbursement process and schedule to the Vendors**
 
 We recommend explaining the vendor reimbursement process several times to vendors, until they are very comfortable and understand what is involved. An example of what you could say is:

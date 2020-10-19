@@ -50,7 +50,7 @@
 
 ## Disbursing and Withdrawing
 
-* [Overview of transfer types](disbursing-and-withdrawing/transfer-types.md)
+* [Transfer types](disbursing-and-withdrawing/transfer-types.md)
 * [Viewing, approving or rejecting transfers](disbursing-and-withdrawing/managing-transfers.md)
 * [Disbursing to beneficiaries](disbursing-and-withdrawing/disbursing-funds.md)
 * [Vendor withdrawals and reimbursement](disbursing-and-withdrawing/vendor-reimbursement-1.md)
