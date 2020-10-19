@@ -6,17 +6,15 @@
 
 * [Overview of Sempo](quick-start/quick-start/README.md)
   * [What is Sempo?](quick-start/quick-start/what-is-sempo.md)
-  * [What does Sempo provide?](quick-start/quick-start/sempo-products-explained/README.md)
-    * [Using Sempo's text-based messaging option](quick-start/quick-start/sempo-products-explained/using-sempos-ussd-payments.md)
+  * [What does Sempo provide?](quick-start/quick-start/sempo-products-explained.md)
   * [How Sempo's payments work \(5 min video\)](quick-start/quick-start/sempo-payments-overview.md)
-  * [Using Sempo's contactless cards as a beneficiary](quick-start/quick-start/using-sempos-contactless-cards.md)
   * [Quick FAQs](quick-start/quick-start/general-faqs.md)
 
 ---
 
 * [Working with Sempo](overview-of-working-with-sempo.md)
 
-## Accessing the Dashboard <a id="sempo-dashboard"></a>
+## Using the Sempo Dashboard <a id="sempo-dashboard"></a>
 
 * [Dashboard overview](sempo-dashboard/dashboard-overview/README.md)
   * [Admin access tiers](sempo-dashboard/dashboard-overview/access-tiers.md)
@@ -26,12 +24,13 @@
 * [Inviting someone to access the Sempo Dashboard](sempo-dashboard/accessing-the-dashboard-1.md)
 * [Resolving login issues](sempo-dashboard/common-login-errors.md)
 
-## Using the Sempo Mobile App <a id="mobile-app"></a>
+## Using the Sempo App and Cards <a id="mobile-app"></a>
 
 * [Installing the Sempo app](mobile-app/installing-android-devices-with-the-sempo-app.md)
 * [Navigating the Sempo app](mobile-app/app-navigation.md)
 * [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
 * [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
+* [Using Sempo's contactless cards as a beneficiary](mobile-app/using-sempos-contactless-cards.md)
 * [Sempo App FAQs](mobile-app/mobile-app-faqs.md)
 
 ## Vendor and Beneficiary registration and training <a id="enrolling-vendors"></a>
@@ -48,14 +47,14 @@
     * [Adding Sempo Cards to Your Platform](enrolling-vendors/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/adding-sempo-cards-to-your-platform.md)
   * [Deliver beneficiary registration and training session](enrolling-vendors/overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
 
-## Disbursing and Withdrawing
+## Disbursing and Withdrawing for Program Participants <a id="disbursing-and-withdrawing"></a>
 
 * [Transfer types](disbursing-and-withdrawing/transfer-types.md)
 * [Viewing, approving or rejecting transfers](disbursing-and-withdrawing/managing-transfers.md)
 * [Disbursing to beneficiaries](disbursing-and-withdrawing/disbursing-funds.md)
 * [Vendor withdrawals and reimbursement](disbursing-and-withdrawing/vendor-reimbursement-1.md)
 
-## Monitoring and Analysing Data
+## Monitoring and Analysing Program Data <a id="monitoring-and-analysing-data"></a>
 
 * [Viewing, filtering and editing participant accounts](monitoring-and-analysing-data/managing-beneficiaries.md)
 * [Analysing participant and transfer data](monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md)

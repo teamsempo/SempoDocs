@@ -8,7 +8,7 @@
 * Inclusive payment modalities for beneficiaries and vendors to access cash
 * Expertise to deploy cash programs: operational, technical, and best-practice financial compliance
 
-{% page-ref page="sempo-products-explained/" %}
+{% page-ref page="sempo-products-explained.md" %}
 
 Our clients include Oxfam, Mercy Corps, Red Cross and other international NGOs. If you'd like to learn more, reach out to us [team@withsempo.com](mailto:team@withsempo.com).
 

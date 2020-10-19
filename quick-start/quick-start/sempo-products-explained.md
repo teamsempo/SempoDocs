@@ -10,7 +10,7 @@ Sempo can provide three types of payment options:
 
 At this time, we only support Android devices. 
 
-![Sempo&apos;s payment options](../../../.gitbook/assets/image%20%281%29.png)
+![Sempo&apos;s payment options](../../.gitbook/assets/image%20%281%29.png)
 
 When you order a batch of contactless "tap to pay" cards, we can make sure they are synced to your particular dashboard for use immediately. \(During enrolment of your beneficiaries, you or your Field Partner will be able to sync a particular card to each particular beneficiary.\) 
 
@@ -22,7 +22,7 @@ You will then be able to use the Sempo Administrative Dashboard to register your
 
 The Sempo Dashboard can be accessed via Desktop computer or by Mobile.
 
-![Sempo Dashboard](../../../.gitbook/assets/1edoqgoylyzpih2kbpcknkpdevuofyx3e182kdv57c77vqvhi.png)
+![Sempo Dashboard](../../.gitbook/assets/1edoqgoylyzpih2kbpcknkpdevuofyx3e182kdv57c77vqvhi.png)
 
 {% hint style="success" %}
 The Sempo Platform connects to a public blockchain. This makes financial reporting very easy for our partners.
