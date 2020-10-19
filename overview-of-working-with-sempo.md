@@ -38,44 +38,57 @@ Sempo cannot procure hardware for you or deliver training until contracts are fi
 
 ## B. Project Design, Training and Onboarding 
 
-We will train you in:
+During this stage, you will be engaged in design of your cash transfer program, in particular:
 
+* Setting targeting criteria for participants 
+* Identifying and selecting participants \(beneficiaries/households and vendors\)
+* Training your personnel in CTP and MEAL fundamentals
+* Engaging donors and raising community awareness
+* Finalising your hardware order with Sempo
+
+Sempo will train our Partners in:
+
+* Using the Sempo Dashboard, in particular:
+  * Understanding the [access tiers](sempo-dashboard/dashboard-overview/access-tiers.md) of the Dashboard
+  * [Signing up for accessing](sempo-dashboard/how-to-log-in/) the Dashboard
+  * [Inviting someone to access the Dashboard](sempo-dashboard/accessing-the-dashboard-1.md)
+  * [Viewing, filtering and editing participant account](analytics-and-meal/managing-beneficiaries.md)
+  * [Analysing participant and transfer data](analytics-and-meal/analysing-beneficiary-and-vendor-data.md)
+  * [Exporting data to excel](analytics-and-meal/exporting-to-excel.md)
+  * [Integrating with Kobo Toolbox \(if required\)](integrations/kobotoolbox.md)
+  * [Understanding the transfer types](disbursing-and-withdrawing/transfer-types.md)
 * Using the Sempo Mobile App, in particular
   * [Installing the app](mobile-app/installing-android-devices-with-the-sempo-app.md)
   * [Navigating the app](mobile-app/app-navigation.md)
   * [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
   * [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
-
-We then support our Partners in:
-
-* Defining the [best process for registering participants](enrolling-vendors/how-to-register-participants.md)
+* Preparing the [best process for registering participants](enrolling-vendors/how-to-register-participants.md)
 * Delivering [vendor registration and training](enrolling-vendors/quick-overview-of-enrolling-vendors/)
-* Delivering [beneficiary registration and training ](enrolling-vendors/overview-of-registering-beneficiaries/)
+* Delivering [beneficiary registration and training ](enrolling-vendors/overview-of-registering-beneficiaries/) 
 
-Sempo then
+Sempo will then complete ["Know Your Customer" \(KYC\) checks](policies-and-security/compliance-aml-ctf/kyc.md) of your program participants, in compliance with relevant global standards and laws.
 
 ## C. Distribution and Monitoring 
 
+After your program participants are registered, we are ready to begin disbursing funds to beneficiaries and withdrawing/reimbursing vendors!
 
+In this stage, we will work together to:
 
-See:
+* [Manage transfers](disbursing-and-withdrawing/managing-transfers.md)
+* [Disburse funds to beneficiaries](disbursing-and-withdrawing/disbursing-funds.md)
+* Conduct [vendor withdrawals and reimbursements](disbursing-and-withdrawing/vendor-reimbursement-1.md)
+* [Analyse participant and transfer data](analytics-and-meal/analysing-beneficiary-and-vendor-data.md)
 
-* Disbursing to Beneficiaries
-* Vendor Withdrawals and Reimbursement
-
-
+Where possible, we recommend planning for a week-long "mini-pilot" or week where a small number of beneficiaries have a shopping week at certain vendors. This can allow for testing and adaptation of our solution as required to your context.
 
 ## D. Reporting and Preparing for Extension
 
+We can work with you to analyse and report on program data. 
 
+Sempo can:
 
- 
-
-
-
-
-
-
-
-
+* Deliver an end-point survey for feedback from partners 
+* Deliver a retrospective workshop to reflect on feedback
+* Develop a learnings report 
+* Assist with donor reports and fundraising strategies for scale-ups.
 
