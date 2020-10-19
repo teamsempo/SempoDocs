@@ -14,7 +14,7 @@
 
 ---
 
-* [Overview of working with Sempo](overview-of-working-with-sempo.md)
+* [Working with Sempo](overview-of-working-with-sempo.md)
 
 ## Accessing the Dashboard <a id="sempo-dashboard"></a>
 
@@ -48,17 +48,17 @@
     * [Adding Sempo Cards to Your Platform](enrolling-vendors/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/adding-sempo-cards-to-your-platform.md)
   * [Deliver beneficiary registration and training session](enrolling-vendors/overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
   * [After registration, sync beneficiary data to  Dashboard](enrolling-vendors/overview-of-registering-beneficiaries/after-registration-sync-beneficiary-data-to-the-sempo-dashboard.md)
-* [Viewing, filtering and editing participant accounts](enrolling-vendors/managing-beneficiaries.md)
 
 ## Disbursing and Withdrawing
 
 * [Overview of transfer types](disbursing-and-withdrawing/transfer-types.md)
 * [Managing transfers](disbursing-and-withdrawing/managing-transfers.md)
 * [Disbursing to beneficiaries](disbursing-and-withdrawing/disbursing-funds.md)
-* [Vendor reimbursement](disbursing-and-withdrawing/vendor-reimbursement-1.md)
+* [Vendor withdrawals and reimbursement](disbursing-and-withdrawing/vendor-reimbursement-1.md)
 
 ## Analytics and MEAL
 
+* [Viewing, filtering and editing participant accounts](analytics-and-meal/managing-beneficiaries.md)
 * [Analysing participant and transfer data](analytics-and-meal/analysing-beneficiary-and-vendor-data.md)
 * [Exporting data to excel](analytics-and-meal/exporting-to-excel.md)
 

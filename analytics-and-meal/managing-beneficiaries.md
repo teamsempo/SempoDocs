@@ -18,7 +18,7 @@ Key features of this page are:
 * You can search for names
 * You can see when accounts were created, and how much remaining balance is left
 * You can add new user accounts
-* You can also [export participant data into a CSV file.](../analytics-and-meal/exporting-to-excel.md)
+* You can also [export participant data into a CSV file.](exporting-to-excel.md)
 
 **Note:** Vendor and beneficiary pages look virtually the same, but may include some different information \(such as store name\). 
 

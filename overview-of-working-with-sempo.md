@@ -1,13 +1,13 @@
-# Overview of working with Sempo
+# Working with Sempo
 
-## Phases of engagement with Sempo
+## Phases of working with Sempo
 
-There are four key phases to engagements with Sempo:
+There are four key phases for working with Sempo:
 
 * A. Scoping and Contracting
 * B. Design, Training and Onboarding
-* C. Distribution and Monitoring
-* D.Reporting and Preparing for Extension
+* C. Cash Distribution and Monitoring
+* D. Reporting and Preparing for Extension
 
 ![](.gitbook/assets/image%20%2812%29.png)
 
@@ -32,15 +32,26 @@ We also recommend that our Partners:
 
 For further guidance, we recommend reviewing Mercy Corps' [Cash Transfer Implementation Guide. ](https://www.mercycorps.org/sites/default/files/2019-11/CashTransferImplementationGuide.pdf)
 
-## B. Design, Training and Onboarding 
+{% hint style="warning" %}
+Sempo cannot procure hardware for you or deliver training until contracts are finalised.
+{% endhint %}
+
+## B. Project Design, Training and Onboarding 
 
 
 
-## Distribution and Monitoring 
+## C. Distribution and Monitoring 
 
 
 
-## Reporting and Preparing for Extension
+See:
+
+* Disbursing to Beneficiaries
+* Vendor Withdrawals and Reimbursement
+
+
+
+## D. Reporting and Preparing for Extension
 
 
 

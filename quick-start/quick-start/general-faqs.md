@@ -16,7 +16,7 @@
 
 {% page-ref page="../../enrolling-vendors/how-to-register-participants.md" %}
 
-{% page-ref page="../../enrolling-vendors/managing-beneficiaries.md" %}
+{% page-ref page="../../analytics-and-meal/managing-beneficiaries.md" %}
 
 {% page-ref page="../../disbursing-and-withdrawing/managing-transfers.md" %}
 
