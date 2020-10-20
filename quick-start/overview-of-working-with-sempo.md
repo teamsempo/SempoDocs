@@ -57,11 +57,13 @@ During the initial kick-off meeting with Sempo for project design, we will discu
 |  | What is the end date of disbursements, in each location? |
 | **Hardware** | How will beneficiaries receive disbursements? \(e.g. by card, by card AND app\) |
 |  | How many cards would you like to order for beneficiaries? \(We recommend ordering an additional 10% for safe-keeping\). |
+|  | If cards, do you want these cards to be branded cards, or unbranded cards with QR code stickers? |
 |  | How many NFC-enabled smartphones would you like to order for vendors? \(We recommend ordering an additional 5% for safe-keeping\).  |
 |  | When do you need hardware to be delivered by? \(We recommend affording a 4-6 week turnaround period to adjust for international shipping and quality assurance measures\) |
 | **Internet connection** | Will vendors be able to connect their mobile phones to the internet at least once every 1-2 days? |
 |  | Will you be needing to procure SIMs to provide internet connection to vendors? |
-| **Tools** | What tools and processes do you plan on using for participant interviewing, selecting and onboarding \(e.g. KoboToolbox, CSV\)? |
+| **Processes and Tools** | What processes and tools do you plan to use for pre-program interviewing of participants \(e.g. KoboToolbox, Commcare\)? |
+|  | Sempo can support [four ways to register participants. ](https://docs.withsempo.com/enrolling-vendors/how-to-register-participants)What way do you plan to use for registering participants? \(e.g. KoboToolbox, CSV\)? |
 | **Identity verification for KYC** | Will vendors have access to current government-issued Photo ID, for the purposes of[ Know Your Customer \(KYC\) checks?](../policies-and-security/kyc.md) |
 |  | Will vendors have access to proof of bank account ownership, for the purposes of [Know Your Customer \(KYC\) checks?](../policies-and-security/kyc.md) |
 |  | Do you expect many vendors to need to cash out more than $500 per week or $1000 AUD per month? \([They will need further verification\)](../policies-and-security/kyc.md) |
@@ -78,6 +80,8 @@ During the initial kick-off meeting with Sempo for project design, we will discu
 |  | What is the preferred way for us to store data that we share with each other in compliance with privacy laws? \(We suggest GDrive\) |
 |  | What is your preferred cadence for meeting with us? \(We suggest weekly 45 min meetings during set-up\) |
 
+In reality, a lot of these features may change during the course of our engagement. But we find it helpful to discuss this list of characteristics at the start of the project and on an ongoing basis, to manage expectations.
+
 ### Training Agenda
 
 Sempo will then organise trainings with you and your Field Partners to ensure you are comfortable with: 
@@ -90,15 +94,15 @@ Sempo will then organise trainings with you and your Field Partners to ensure yo
   * [Analysing participant and transfer data](../monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md)
   * [Exporting data to excel](../monitoring-and-analysing-data/exporting-to-excel.md)
   * [Integrating with Kobo Toolbox \(if required\)](../integrations/kobotoolbox.md)
-  * [Understanding the transfer types](../disbursing-and-withdrawing/transfer-types.md)
+  * [Understanding the transfer types](../transferring-cash-to-participants/transfer-types.md)
 * Using the Sempo Mobile App, in particular
   * [Installing the app](../mobile-app/installing-android-devices-with-the-sempo-app.md)
   * [Navigating the app](../mobile-app/app-navigation.md)
   * [Using the app as a vendor](../mobile-app/using-the-app-as-a-vendor.md)
   * [Using the app as a beneficiary](../mobile-app/using-the-app-as-a-beneficiary.md)
-* Preparing the [best process for registering participants](../enrolling-vendors/how-to-register-participants.md), so you can:
-  * Deliver [vendor registration and training](../enrolling-vendors/quick-overview-of-enrolling-vendors/)
-  * Deliver [beneficiary registration and training ](../enrolling-vendors/overview-of-registering-beneficiaries/) 
+* Preparing the [best process for registering participants](../registering-vendors-and-beneficiaries/how-to-register-participants.md), so you can:
+  * Deliver [vendor registration and training](../registering-vendors-and-beneficiaries/quick-overview-of-enrolling-vendors/)
+  * Deliver [beneficiary registration and training ](../registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/) 
 
 Sempo can also deliver training for your financial accounting partners, if required. 
 
@@ -114,9 +118,9 @@ After your program participants are registered, we are ready to begin disbursing
 
 In this stage, we will work together to:
 
-* [Manage transfers](../disbursing-and-withdrawing/managing-transfers.md)
-* [Disburse funds to beneficiaries](../disbursing-and-withdrawing/disbursing-funds.md)
-* Conduct [vendor withdrawals and reimbursements](../disbursing-and-withdrawing/vendor-reimbursement-1.md)
+* [Manage transfers](../transferring-cash-to-participants/managing-transfers.md)
+* [Disburse funds to beneficiaries](../transferring-cash-to-participants/disbursing-funds.md)
+* Conduct [vendor withdrawals and reimbursements](../transferring-cash-to-participants/vendor-reimbursement-1.md)
 * [Analyse participant and transfer data](../monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md)
 
 Where possible, we recommend planning for a week-long "mini-pilot" or week where a small number of beneficiaries have a shopping week at certain vendors. This can allow for testing and adaptation of our solution as required to your context.

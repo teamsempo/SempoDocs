@@ -30,26 +30,26 @@
 * [Using Sempo's contactless cards as a beneficiary](mobile-app/using-sempos-contactless-cards.md)
 * [Sempo App FAQs](mobile-app/mobile-app-faqs.md)
 
-## Vendor and Beneficiary registration and training <a id="enrolling-vendors"></a>
+## Registering Vendors and Beneficiaries
 
-* [Ways to register participants](enrolling-vendors/how-to-register-participants.md)
-* [Vendor registration and training](enrolling-vendors/quick-overview-of-enrolling-vendors/README.md)
-  * [Set up your vendor data collection process with Sempo](enrolling-vendors/quick-overview-of-enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
-  * [Prepare your vendor registration and training session](enrolling-vendors/quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
-  * [Deliver vendor registration and training session](enrolling-vendors/quick-overview-of-enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
-  * [After registration, share vendor data with Sempo and sync to Dashboard](enrolling-vendors/quick-overview-of-enrolling-vendors/after-vendor-registration-share-the-required-information-to-sempo.md)
-* [Beneficiaries registration and training](enrolling-vendors/overview-of-registering-beneficiaries/README.md)
-  * [Set up your beneficiary data collection process with Sempo](enrolling-vendors/overview-of-registering-beneficiaries/decide-your-beneficiary-data-collection-mechanism.md)
-  * [Prepare beneficiary registration and training session](enrolling-vendors/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/README.md)
-    * [Adding Sempo Cards to Your Platform](enrolling-vendors/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/adding-sempo-cards-to-your-platform.md)
-  * [Deliver beneficiary registration and training session](enrolling-vendors/overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
+* [Ways to register participants](registering-vendors-and-beneficiaries/how-to-register-participants.md)
+* [Vendor registration and training](registering-vendors-and-beneficiaries/quick-overview-of-enrolling-vendors/README.md)
+  * [Set up your vendor data collection process with Sempo](registering-vendors-and-beneficiaries/quick-overview-of-enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
+  * [Prepare your vendor registration and training session](registering-vendors-and-beneficiaries/quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
+  * [Deliver vendor registration and training session](registering-vendors-and-beneficiaries/quick-overview-of-enrolling-vendors/deliver-your-vendor-registration-and-training-sessions.md)
+  * [After registration, share vendor data with Sempo and sync to Dashboard](registering-vendors-and-beneficiaries/quick-overview-of-enrolling-vendors/after-vendor-registration-share-the-required-information-to-sempo.md)
+* [Beneficiaries registration and training](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/README.md)
+  * [Set up your beneficiary data collection process with Sempo](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/decide-your-beneficiary-data-collection-mechanism.md)
+  * [Prepare beneficiary registration and training session](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/README.md)
+    * [Adding Sempo Cards to Your Platform](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism/adding-sempo-cards-to-your-platform.md)
+  * [Deliver beneficiary registration and training session](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
 
-## Disbursing and Withdrawing for Program Participants <a id="disbursing-and-withdrawing"></a>
+## Transferring Cash to Participants
 
-* [Transfer types](disbursing-and-withdrawing/transfer-types.md)
-* [Viewing, approving or rejecting transfers](disbursing-and-withdrawing/managing-transfers.md)
-* [Disbursing to beneficiaries](disbursing-and-withdrawing/disbursing-funds.md)
-* [Vendor withdrawals and reimbursement](disbursing-and-withdrawing/vendor-reimbursement-1.md)
+* [Transfer types](transferring-cash-to-participants/transfer-types.md)
+* [Viewing, approving or rejecting transfers](transferring-cash-to-participants/managing-transfers.md)
+* [Disbursing to beneficiaries](transferring-cash-to-participants/disbursing-funds.md)
+* [Vendor withdrawals and reimbursement](transferring-cash-to-participants/vendor-reimbursement-1.md)
 
 ## Monitoring and Analysing Program Data <a id="monitoring-and-analysing-data"></a>
 

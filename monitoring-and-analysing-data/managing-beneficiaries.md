@@ -42,5 +42,5 @@ You can register multiple users \(e.g. family members, cashiers\) under one acco
 
 ![](../.gitbook/assets/screen-shot-2020-09-11-at-6.20.22-am.png)
 
-{% page-ref page="../disbursing-and-withdrawing/disbursing-funds.md" %}
+{% page-ref page="../transferring-cash-to-participants/disbursing-funds.md" %}
 
