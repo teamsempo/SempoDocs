@@ -4,13 +4,13 @@ description: >-
   and training vendors and beneficiaries of cash transfer programs.
 ---
 
-# Ways to register participants
+# Ways to register participants with Sempo
 
 {% hint style="info" %}
-In addition to collecting data for registering someone as a participant in your program, you will also need to collect data to enable Sempo to complete legally mandated[ "Know Your Customer"](../policies-and-security/kyc.md) checks. A participant can be registered, but not able to cash out, if they have not had their KYC check completed yet.
+In addition to collecting data for registering someone as a participant in your program, you may also need to collect data to enable your organisation or Sempo to complete legally mandated[ "Know Your Customer"](../policies-and-security/kyc.md) checks. A participant can be registered, but not able to cash out, if they have not had their KYC check completed yet.
 {% endhint %}
 
-There are four ways to register participants:
+Once you have identified participants for your program, you will be wanting to register them as participants. Sempo enables four ways to register participants:
 
 1. Sempo Dashboard 
 2. Kobo Toolbox
@@ -49,13 +49,16 @@ The new recipients can now be viewed from the Accounts page!
 
 ## 2. Kobo Toolbox
 
-Registration via an-in person interview
+If you collect information via a KoboToolbox form, Sempo can sync the data from this form automatically. You can either:
 
-1. Collect vendor information -  company name, key contact name, phone number, bank details and location 
-2. Agree to and sign Credit Payout Cycle Agreement and update on the Account Page
-3. Upload of data on the Sempo platform via spreadsheet or KoboToolbox
-4. If required, an android phone is to be provided to vendor for duration of pilot
-5. Provide in-person training on use of app/ Vendor How-to- distribute brochure
+* Sync the upload of your KoboToolbox form with Sempo via our [Integration](../integrations/kobotoolbox.md#linking-a-form-to-sempo)
+* Email us the CSV of the data, and we can upload the data for you \(see 3. Spreadsheet Upload\)
+
+See further:
+
+{% page-ref page="overview-of-registering-beneficiaries/" %}
+
+{% page-ref page="quick-overview-of-enrolling-vendors/" %}
 
 {% page-ref page="../integrations/kobotoolbox.md" %}
 

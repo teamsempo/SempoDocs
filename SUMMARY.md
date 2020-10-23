@@ -32,7 +32,8 @@
 
 ## Registering Vendors and Beneficiaries
 
-* [Ways to register participants](registering-vendors-and-beneficiaries/how-to-register-participants.md)
+* [Identification and pre-registration](registering-vendors-and-beneficiaries/identification-and-pre-registration.md)
+* [Ways to register participants with Sempo](registering-vendors-and-beneficiaries/how-to-register-participants.md)
 * [Vendor registration and training](registering-vendors-and-beneficiaries/quick-overview-of-enrolling-vendors/README.md)
   * [Set up your vendor data collection process with Sempo](registering-vendors-and-beneficiaries/quick-overview-of-enrolling-vendors/set-up-a-vendor-data-collection-mechanism.md)
   * [Prepare your vendor registration and training session](registering-vendors-and-beneficiaries/quick-overview-of-enrolling-vendors/plan-your-vendor-in-person-registration-and-training-session.md)
