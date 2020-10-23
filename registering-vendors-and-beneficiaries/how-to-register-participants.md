@@ -17,30 +17,30 @@ Once you have identified participants for your program, you will be wanting to r
 3. Manually adding on the Sempo Dashboard 
 4. Self Sign Up by Participants \(if enabled\)
 
-Please discuss with us which method you would prefer, so we can help you deliver this process during participant registration and training.
+Please discuss with us which method you would prefer, so we can help you deliver this process.
 
 ## 1. Kobo Toolbox
 
-If you collect information via a KoboToolbox form, Sempo can sync the data from this form automatically. You can either:
+If you collect information via a KoboToolbox form, Sempo can sync the data collected by these forms automatically to the Sempo Dashboard. You can either:
 
-* Sync the upload of your KoboToolbox form with Sempo via our [Integration](../integrations/kobotoolbox.md#linking-a-form-to-sempo)
-* Email us the CSV of the data, and we can upload the data for you \(see 3. Spreadsheet Upload\)
+* Sync the upload of your KoboToolbox form with Sempo via our [Integration](../integrations/kobotoolbox.md#linking-a-form-to-sempo) \(ask team@withsempo.com if required!\); or 
+* Email us the CSV of the data, and we can upload the data for you
+
+
 
 See further:
+
+{% page-ref page="../integrations/kobotoolbox.md" %}
 
 {% page-ref page="overview-of-registering-beneficiaries/" %}
 
 {% page-ref page="quick-overview-of-enrolling-vendors/" %}
 
-{% page-ref page="../integrations/kobotoolbox.md" %}
-
 ## 2. Spreadsheet Upload 
 
-{% hint style="info" %}
-Please ask Sempo to activate the spreadsheet upload functionality by emailing us at team@withsempo.com.  
-{% endhint %}
+You may decide to collect details on participants by filling out a spreadsheet \(e.g. CSV or Excel file\). 
 
-If you wish to enroll recipients from a spreadsheet, follow the below steps
+If you wish to enroll participants whose details are stored in a spreadsheet, follow the below steps
 
 * **Step 1:** Go to the “Accounts’’ tab
 * **Step 2:** Select Add New Account, as described above.
@@ -55,6 +55,10 @@ Spreadsheets must contain columns with:
 Custom fields such as age and gender can also be added, and used to filter users.
 
 Follow the steps described on the screen.
+
+{% hint style="info" %}
+We can deactivate this functionality to avoid risk and complexity. Please ask Sempo to reactivate this by emailing us at team@withsempo.com.  
+{% endhint %}
 
 ## 3. Sempo Dashboard
 
