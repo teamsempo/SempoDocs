@@ -7,19 +7,56 @@ description: >-
 # Ways to register participants with Sempo
 
 {% hint style="info" %}
-In addition to collecting data for registering someone as a participant in your program, you may also need to collect data to enable your organisation or Sempo to complete legally mandated[ "Know Your Customer"](../policies-and-security/kyc.md) checks. A participant can be registered, but not able to cash out, if they have not had their KYC check completed yet.
+In addition to collecting data for registering someone as a participant in your program, you may also need to collect data to enable your organisation or Sempo to complete legally mandated[ "Know Your Customer"](../policies-and-security/kyc.md) checks. A participant can be registered but may not be able to receive or transact with funds if their KYC is incomplete.
 {% endhint %}
 
 Once you have identified participants for your program, you will be wanting to register them as participants. Sempo enables four ways to register participants:
 
-1. Sempo Dashboard 
-2. Kobo Toolbox
-3. Spreadsheet Upload
-4. Self Sign Up \(if enabled\)
+1. Kobo Toolbox
+2. Spreadsheet Upload 
+3. Manually adding on the Sempo Dashboard 
+4. Self Sign Up by Participants \(if enabled\)
 
 Please discuss with us which method you would prefer, so we can help you deliver this process during participant registration and training.
 
-## 1.  Sempo Dashboard
+## 1. Kobo Toolbox
+
+If you collect information via a KoboToolbox form, Sempo can sync the data from this form automatically. You can either:
+
+* Sync the upload of your KoboToolbox form with Sempo via our [Integration](../integrations/kobotoolbox.md#linking-a-form-to-sempo)
+* Email us the CSV of the data, and we can upload the data for you \(see 3. Spreadsheet Upload\)
+
+See further:
+
+{% page-ref page="overview-of-registering-beneficiaries/" %}
+
+{% page-ref page="quick-overview-of-enrolling-vendors/" %}
+
+{% page-ref page="../integrations/kobotoolbox.md" %}
+
+## 2. Spreadsheet Upload 
+
+{% hint style="info" %}
+Please ask Sempo to activate the spreadsheet upload functionality by emailing us at team@withsempo.com.  
+{% endhint %}
+
+If you wish to enroll recipients from a spreadsheet, follow the below steps
+
+* **Step 1:** Go to the “Accounts’’ tab
+* **Step 2:** Select Add New Account, as described above.
+* **Step 3:** This time, click on “upload spreadsheet”
+
+Spreadsheets must contain columns with: 
+
+* recipient's first names, 
+* recipients last names and; 
+* either their phone number or transfer card id.
+
+Custom fields such as age and gender can also be added, and used to filter users.
+
+Follow the steps described on the screen.
+
+## 3. Sempo Dashboard
 
 **Step 1:** From the Sempo Dashboard, click on Accounts in the side-bar, and then “+ Add New” in the top right hand corner.
 
@@ -47,40 +84,7 @@ Note: The initial disbursement amount will be set to the default disbursement am
 
 The new recipients can now be viewed from the Accounts page!
 
-## 2. Kobo Toolbox
-
-If you collect information via a KoboToolbox form, Sempo can sync the data from this form automatically. You can either:
-
-* Sync the upload of your KoboToolbox form with Sempo via our [Integration](../integrations/kobotoolbox.md#linking-a-form-to-sempo)
-* Email us the CSV of the data, and we can upload the data for you \(see 3. Spreadsheet Upload\)
-
-See further:
-
-{% page-ref page="overview-of-registering-beneficiaries/" %}
-
-{% page-ref page="quick-overview-of-enrolling-vendors/" %}
-
-{% page-ref page="../integrations/kobotoolbox.md" %}
-
-## 3. Spreadsheet Upload
-
-If you wish to enroll recipients from a spreadsheet, follow the below steps
-
-* **Step 1:** From the “Accounts’’ tab
-* **Step 2:** Select Add New Account, as described above.
-* **Step 3:** This time, click on “upload spreadsheet”
-
-Spreadsheets must contain columns with: 
-
-* recipient's first names, 
-* recipients last names and; 
-* either their phone number or transfer card id.
-
-Custom fields such as age and gender can also be added, and used to filter users.
-
-Follow the steps described on the screen.
-
-## 4. Self Sign Up
+## 4. Self Sign Up \(if enabled\)
 
 If self sign up is enabled, the account will automatically be created. See the following guides:
 
