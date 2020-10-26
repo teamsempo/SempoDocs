@@ -119,7 +119,7 @@ Here is an example of what you can say to explain the process to your staff:
 > The KoboToolbox registration form will only have three questions for you to complete for each beneficiary:
 >
 > 1. Is the beneficiary's name on the "Registration List"? \(Yes/No\)
-> 2. Please scan the beneficiary's QR Code on the Registration List. \(You will need to take a clear photo of the code.\)
+> 2. Please scan the beneficiary's QR Code on the Registration List. 
 > 3. Please take a card and scan the QR code on the card. 
 >
 > Then you will give the card to the beneficiary and submit the KoboToolbox form. 
