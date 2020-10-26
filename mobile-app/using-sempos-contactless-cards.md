@@ -1,13 +1,7 @@
 # Using Sempo's contactless cards as a beneficiary
 
-{% hint style="info" %}
-**For NGOs**, get in contact with Sempo to print your **custom branded** cards [team@withsempo.com](mailto:team@withsempo.com)
-{% endhint %}
-
-{% hint style="warning" %}
-**For vendors**, see our [guide on how to accept payments](using-the-app-as-a-vendor.md#how-to-accept-payments).
-
-![Credit: Keith Parsons / Oxfam Aus](../.gitbook/assets/screen-shot-2020-09-11-at-7.22.05-am.png)
+{% hint style="success" %}
+For guidance on how to register and train beneficiaries, please see below [beneficiary registration and training pages.](../registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/)
 {% endhint %}
 
 ![Example Cards](../.gitbook/assets/teal-oxfam-cards-final.png)
@@ -28,5 +22,9 @@
 {% hint style="info" %}
 You can [check your balance](using-the-app-as-a-vendor.md#how-to-check-balance) with a **Community Focal Person** or **any vendor.**  
 ![](../.gitbook/assets/screen-shot-2020-09-11-at-7.21.58-am.png)
+{% endhint %}
+
+{% hint style="info" %}
+**For NGOs**, get in contact with Sempo to print your **custom branded** cards [team@withsempo.com](mailto:team@withsempo.com)
 {% endhint %}
 

@@ -1,6 +1,10 @@
 # Using the app as a vendor
 
-## How to use the app?
+{% hint style="info" %}
+For our NGO Partners, Sempo provides guidance on how to [register and train vendors in our vendor registration and training pages.](../registering-vendors-and-beneficiaries/quick-overview-of-enrolling-vendors/)
+{% endhint %}
+
+## How can a vendor use the app?
 
 1. **Open** by clicking on the Sempo icon ![](../.gitbook/assets/screen-shot-2020-09-10-at-4.37.24-pm.png) 
 2. **Login** by entering your phone number and the PIN code that you received.  \(You will have received your PIN either in a welcome SMS, or it will be the last four digits of your phone number. Please check with the NGO or Field Partners to confirm.\) Click **Login** to proceed.

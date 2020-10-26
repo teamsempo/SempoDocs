@@ -1,5 +1,9 @@
 # Using the app as a beneficiary
 
+{% hint style="success" %}
+For guidance on how to register and train beneficiaries, please see below [beneficiary registration and training pages.](../registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/)
+{% endhint %}
+
 {% hint style="info" %}
 Note: Please check with your Program Manager whether the beneficiaries in your program will be using the Sempo app to make payments, text-based messaging or only contactless cards.  
 {% endhint %}
