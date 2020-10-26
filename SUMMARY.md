@@ -11,7 +11,7 @@
   * [Quick FAQs](quick-start/quick-start/general-faqs.md)
 * [Working with Sempo](quick-start/overview-of-working-with-sempo.md)
 
-## Using the Sempo Dashboard <a id="sempo-dashboard"></a>
+## Overview of Sempo Dashboard <a id="sempo-dashboard"></a>
 
 * [Dashboard overview](sempo-dashboard/dashboard-overview/README.md)
   * [Admin access tiers](sempo-dashboard/dashboard-overview/access-tiers.md)
@@ -21,7 +21,7 @@
 * [Inviting someone to access the Dashboard](sempo-dashboard/accessing-the-dashboard-1.md)
 * [Resolving login issues](sempo-dashboard/common-login-errors.md)
 
-## Using the Sempo App and Cards <a id="mobile-app"></a>
+## Overview of Sempo App and Cards <a id="mobile-app"></a>
 
 * [Installing the Sempo app](mobile-app/installing-android-devices-with-the-sempo-app.md)
 * [Navigating the Sempo app](mobile-app/app-navigation.md)
