@@ -10,6 +10,10 @@ In addition, you may want to collect information for tracking and analytics purp
 * Reason for vulnerability \(e.g. widow/widower, disability\)
 * Residential location
 
+{% hint style="success" %}
+When your organisation has confirmed what is important for you to collect and analyse, please tell Sempo! We can show you how to use our [Analytics Dashboard](../../monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md) to report on what is important to you.
+{% endhint %}
+
 ## Agree with Sempo on your ideal data collection mechanism \(e.g. a form, or KoboToolbox Survey\) and process for uploading data to the Dashboard
 
 Sempo can enable registration of participants in four ways \(see [Registering Participants of your Program](../how-to-register-participants.md)\).
