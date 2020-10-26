@@ -4,13 +4,13 @@ description: >-
   and training vendors and beneficiaries of cash transfer programs.
 ---
 
-# Overview of ways to register participants on the Sempo Dashboard
+# Overview of ways to register participants
 
 Once you have identified participants for your program, you will be wanting to register them as participants. Sempo enables four ways to register participants so that their details appears on the Sempo Dashboard
 
 1. Kobo Toolbox
 2. Spreadsheet Upload 
-3. Manually adding on the Sempo Dashboard 
+3. Manually adding participants to the Sempo Dashboard 
 4. Self Sign Up by Participants \(if enabled\)
 
 Please discuss with us which method you would prefer, so we can help you deliver this process.

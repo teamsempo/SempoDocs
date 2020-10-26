@@ -4,13 +4,11 @@ During the set-up of your program, there will be many design questions that we w
 
 In particular, before you register people are participants in a cash transfer program, you will need to:
 
-1. Develop selection criteria for your beneficiaries
-2. Develop selection criteria for your vendors
-3. Agree on how much you will be disbursing to beneficiaries, and when
-4. Decide on how vendors will be "cashed out" \(e.g. weekly, by transfers to their bank accounts\)
-5. Decide how you will be interviewing these participants
-6. Decide whether you will be conducting baselining 
-7. Decide on your monitoring and evaluating framework
+1. Develop selection criteria for your beneficiaries and vendors
+2. Agree on how much you will be disbursing to beneficiaries, and when
+3. Decide on how vendors will be "cashed out" \(e.g. weekly, by transfers to their bank accounts or other means\)
+4. Decide how you will be contacting participants
+5. Decide on your monitoring and evaluating framework, and any baselining you want to do before the program commences
 
 Please reach out to us at team@withsempo.com if we can assist. 
 

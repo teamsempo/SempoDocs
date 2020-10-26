@@ -1,4 +1,4 @@
-# Beneficiaries registration and training
+# Beneficiary registration and training
 
 ## Overview of registering and training beneficiaries
 

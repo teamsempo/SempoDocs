@@ -10,7 +10,9 @@ Sempo can help our partners organise in-person registration and training session
 4. Ensuring that some phone hardware has been prepared and delivered to the location before the session, for trainers to use
 5. Printing guides for Field Partners \(if required\)
 6. Designing and printing guides \(if required\) 
-7. Designing COVID-19 and other health and safety measures  
+7. Printing a list of all pre-identified beneficiaries \(if applicable\)
+8. Printing registration slips for beneficiaries \(if required\)
+9. Designing COVID-19 and other health and safety measures  
 
 For the topics that will need to be covered, see next section.
 

@@ -2,9 +2,13 @@
 
 ## R**eview and understand what information you need to collect on your beneficiaries**
 
-Please review Sempo's guide on [KYC checks](../../policies-and-security/kyc.md). If you are going to be providing beneficiaries with the ability to "cash out" into local fiat currency, then Sempo will need to undertake "Know Your Customer" KYC checks.
+If you are going to be providing beneficiaries with the ability to "cash out" into local fiat currency, then Sempo or your organisation may need to undertake "Know Your Customer" KYC checks. Please review Sempo's guide on [KYC checks](../../policies-and-security/kyc.md).
 
-If your organisation has decided not to provide beneficiaries with the option to "cash out", then Sempo only needs to collect  
+In addition, you may want to collect information for tracking and analytics purposes on beneficiaries, such as:
+
+* Age group
+* Reason for vulnerability \(e.g. widow/widower, disability\)
+* Residential location
 
 ## Agree with Sempo on your ideal data collection mechanism \(e.g. a form, or KoboToolbox Survey\) and process for uploading data to the Dashboard
 
