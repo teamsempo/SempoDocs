@@ -1,6 +1,6 @@
 # Deliver beneficiary registration and training session
 
-After you have[ prepared](prepare-beneficiary-data-collection-mechanism/) for your beneficiary registration and training session, you will deliver your session. We advise the agenda for the session could address: 
+After you have[ prepared](prepare-beneficiary-data-collection-mechanism.md) for your beneficiary registration and training session, you will deliver your session. We advise the agenda for the session could address: 
 
 1. Welcome and introductions \(approx. 30 mins, as a group\)
 2. Interviews to collect data and distribute card \(1-5 minutes per beneficiary, 1:1\) 
@@ -64,5 +64,5 @@ Here are some example answers you can give to potential beneficiary questions:
 * **Q: I’ve lost my card. What should I do?** 
   * Answer: Contact our organisation \(or Field Partner\) immediately. We will be able to disable your  account from within the Sempo Dashboard, or ask Sempo for assistance. 
 * **Q: I need to ask for a REFUND from a vendor. How do I do this?**
-  * Answer: Contact our organisation \(or our Field Partners\) with your name, Sempo card number, the vendor's full name, the exact amount that needs to be refunded and the reason for refund. Our organisation can work with Sempo to resolve your issue. 
+  * Answer: Contact our organisation \(or our Field Partners\) with your name,  card number, the vendor's full name/phone number, the exact amount that needs to be refunded and the reason for refund. Our organisation can work with Sempo to resolve your issue. 
 

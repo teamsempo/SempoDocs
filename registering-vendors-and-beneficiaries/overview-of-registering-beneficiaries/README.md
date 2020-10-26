@@ -15,7 +15,7 @@ To deliver a successful beneficiary registration and training experience, Sempo 
 
 {% page-ref page="decide-your-beneficiary-data-collection-mechanism.md" %}
 
-{% page-ref page="prepare-beneficiary-data-collection-mechanism/" %}
+{% page-ref page="prepare-beneficiary-data-collection-mechanism.md" %}
 
 {% page-ref page="deliver-your-beneficiary-registration-and-training-session.md" %}
 
