@@ -6,6 +6,8 @@
 
 {% hint style="warning" %}
 **For vendors**, see our [guide on how to accept payments](using-the-app-as-a-vendor.md#how-to-accept-payments).
+
+![Credit: Keith Parsons / Oxfam Aus](../.gitbook/assets/screen-shot-2020-09-11-at-7.22.05-am.png)
 {% endhint %}
 
 ![Example Cards](../.gitbook/assets/teal-oxfam-cards-final.png)
@@ -14,8 +16,6 @@
 
 1. Go Shopping! **Look for vendors** that support Sempo.
 2. Once **you're ready to pay**, the **vendor will enter the amount and the category of your purchase** into the app on their phone.
-
-![Credit: Keith Parsons / Oxfam Aus](../.gitbook/assets/screen-shot-2020-09-11-at-7.22.05-am.png)
 
 3. To pay just **tap your card** anywhere on the vendor's phone. Hold it still for 5 seconds.
 
