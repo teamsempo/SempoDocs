@@ -1,15 +1,15 @@
 # Sempo App FAQs
 
-## Online vs Offline Functionality?
+## How does the App work Online vs Offline?
 
 **Online Payments** are the _default payment_ method. Transactions sync in real-time with the dashboard and blockchain.
 
 **Offline Payments** are the _fallback payment_ method. Transactions occur on the Vendor device and increment the card balance to prevent the beneficiary double-spending funds across multiple vendors. Once the Vendor has internet, the transaction will sync with the dashboard and the blockchain.
 
-## The Transfer is Failing?
+## What should I do if the transfer is failing?
 
 {% hint style="warning" %}
-Remember, you can always LIVE CHAT with the Sempo team if you are having difficulty, or if these suggestions don't resolve your issue.
+Remember, you can always LIVE CHAT with the Sempo team if you are having difficulty by clicking on the chat button on the bottom of this page, or emailing us at help@withsempo.com
 {% endhint %}
 
 **Try this:**
