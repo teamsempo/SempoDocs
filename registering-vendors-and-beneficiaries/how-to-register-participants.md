@@ -4,13 +4,9 @@ description: >-
   and training vendors and beneficiaries of cash transfer programs.
 ---
 
-# Ways to register participants with Sempo
+# Overview of ways to register participants on the Sempo Dashboard
 
-{% hint style="info" %}
-In addition to collecting data for registering someone as a participant in your program, you may also need to collect data to enable your organisation or Sempo to complete legally mandated[ "Know Your Customer"](../policies-and-security/kyc.md) checks. A participant can be registered but may not be able to receive or transact with funds if their KYC is incomplete.
-{% endhint %}
-
-Once you have identified participants for your program, you will be wanting to register them as participants. Sempo enables four ways to register participants:
+Once you have identified participants for your program, you will be wanting to register them as participants. Sempo enables four ways to register participants so that their details appears on the Sempo Dashboard
 
 1. Kobo Toolbox
 2. Spreadsheet Upload 
@@ -90,11 +86,17 @@ The new recipients can now be viewed from the Accounts page!
 
 ## 4. Self Sign Up \(if enabled\)
 
-If self sign up is enabled, the account will automatically be created. See the following guides:
+If you prefer to allow your program participants to self-sign up, Sempo can enable this. We can also help you distribute information to your program participants about how to sign up.
+
+Please see the following guides:
 
 {% page-ref page="../mobile-app/using-the-app-as-a-beneficiary.md" %}
 
 {% page-ref page="../mobile-app/using-the-app-as-a-vendor.md" %}
+
+{% hint style="info" %}
+In addition to collecting data for registering someone as a participant in your program, you may also need to collect data to enable your organisation or Sempo to complete legally mandated[ "Know Your Customer"](../policies-and-security/kyc.md) checks. A participant can be registered but may not be able to receive or transact with funds if their KYC is incomplete.
+{% endhint %}
 
 
 
