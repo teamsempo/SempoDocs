@@ -1,7 +1,7 @@
 # Add cards to your Platform
 
 {% hint style="info" %}
-Sometimes you will have purchased cards \(e.g. emergency stock\) before you knew what instance of a Sempo Platform you wanted to add them to. This page explains how to add these cards to a Sempo Platform, if they have not already been added to a certain Platform.
+Sometimes you will have purchased cards \(e.g. emergency stock\) before you knew what instance of a Sempo Platform you wanted to add them to. This page explains how to add these cards to a Sempo Platform.
 {% endhint %}
 
 Before a beneficiary of your program can use a contactless card, you will need to: 
