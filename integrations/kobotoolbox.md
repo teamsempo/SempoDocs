@@ -1,6 +1,6 @@
 # KoboToolbox
 
-## yWhat is Kobo Toolbox?
+## What is Kobo Toolbox?
 
 * Kobo Toolbox is a data collection tool specially designed for Humanitarian Work
 * It allows for creation of sophisticated forms

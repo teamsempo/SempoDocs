@@ -42,7 +42,7 @@
 * [Beneficiaries registration and training](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/README.md)
   * [Set up your beneficiary data collection process with Sempo](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/decide-your-beneficiary-data-collection-mechanism.md)
   * [Add Sempo cards to your Platform](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/adding-sempo-cards-to-your-platform.md)
-  * [Tell Sempo your preferred process for adding a card to a beneficiary account](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/tell-sempo-your-preferred-process-for-adding-a-card-to-a-beneficiary-account.md)
+  * [Set up your process for adding cards to beneficiary accounts](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/tell-sempo-your-preferred-process-for-adding-a-card-to-a-beneficiary-account.md)
   * [Prepare your beneficiary registration and training session](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism.md)
   * [Deliver beneficiary registration and training session](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
 

@@ -1,4 +1,4 @@
-# Tell Sempo your preferred process for adding a card to a beneficiary account
+# Set up your process for adding cards to beneficiary accounts
 
 {% hint style="info" %}
 There are many ways that you can add cards to a beneficiary account. Please talk with us about which way you would prefer, so we can help you prepare for registration day. 
@@ -127,9 +127,15 @@ Here is an example of what you can say to explain the process to your staff:
 
 ## Option 3: Add a card to a new beneficiary account via Sempo Dashboard
 
+Please see ["Ways to Register Participants with Sempo &gt; 3. Sempo Dashboard". ](../how-to-register-participants.md#3-sempo-dashboard)
+
+{% page-ref page="../how-to-register-participants.md" %}
+
 ## Option 4: Add a card or change card to a pre-existing __beneficiary account via Sempo Dashboard
 
+Similar to Option 3, please see ["Ways to Register Participants with Sempo &gt; 3. Sempo Dashboard". ](../how-to-register-participants.md#3-sempo-dashboard)
 
+The only difference will be that instead of creating a new account, you will be navigating to the relevant beneficiary's account, clicking on their name and then editing their details. 
 
 ## \(Not recommended\) Option 5: Bulk-create a group of beneficiaries accounts on the Sempo Dashboard and assign specific cards to these beneficiaries 
 
