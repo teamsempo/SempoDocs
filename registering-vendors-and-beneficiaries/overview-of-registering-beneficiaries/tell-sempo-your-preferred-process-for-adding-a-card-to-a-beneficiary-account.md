@@ -122,7 +122,7 @@ Here is an example of what you can say to explain the process to your staff:
 > 2. Please scan the beneficiary's QR Code on the Registration List. 
 > 3. Please take a card and scan the QR code on the card. 
 >
-> Then you will give the card to the beneficiary and submit the KoboToolbox form. 
+> Then you will give the card to the beneficiary and submit the KoboToolbox form. \(If you have a registration slip to give them, please give the form to them at this stage.\)
 >
 > Repeat this for each beneficiary.  
 >
