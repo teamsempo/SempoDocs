@@ -9,8 +9,9 @@ Sempo can help our partners organise in-person registration and training session
 3. Ensuring there will be WiFi \(or mobile phone hotspots\)
 4. Ensuring all phone hardware has been prepared and delivered to the location before the session
 5. Printing guides for Field Partners \(if required\)
-6. Designing and printing guides for vendors \(if required\) 
-7. Designing COVID-19 and other health and safety measures  
+6. Printing vendor contracts \(if required
+7. Designing and printing guides for vendors \(if required\) 
+8. Designing COVID-19 and other health and safety measures  
 
 For the topics that will need to be covered with vendors, see next section.
 

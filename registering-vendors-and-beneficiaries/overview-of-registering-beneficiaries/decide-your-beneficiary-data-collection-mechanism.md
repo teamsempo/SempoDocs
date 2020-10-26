@@ -1,4 +1,4 @@
-# Set up your beneficiary data collection process with Sempo
+# Understand your preferred beneficiary data collection process
 
 ## R**eview and understand what information you need to collect on your beneficiaries**
 
