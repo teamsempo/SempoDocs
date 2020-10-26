@@ -1,10 +1,10 @@
 # Set up your process for adding cards to beneficiary accounts
 
-{% hint style="info" %}
-There are many ways that you can add cards to a beneficiary account. Please talk with us about which way you would prefer, so we can help you prepare for registration day. 
+{% hint style="success" %}
+Your team has many options for how to add cards to beneficiary accounts. Please talk to us at team@withsempo.com to discuss your preferred option
 {% endhint %}
 
-Sempo provides a range of ways for you to add cards to beneficiary accounts. 
+Sempo offers five ways for our partners to add cards to beneficiary accounts, for those beneficiaries to use to make purchases.  
 
 <table>
   <thead>
@@ -20,7 +20,7 @@ Sempo provides a range of ways for you to add cards to beneficiary accounts.
       <td style="text-align:left">
         <ul>
           <li>Your team wants to use KoboToolbox on registration day to collect information
-            about beneficiaries</li>
+            about beneficiaries and register them on the Sempo Dashboard</li>
           <li>Your team wants to create a beneficiary&apos;s account <em>and </em>add
             a card to that beneficiary&apos;s account at the same time</li>
           <li>Sempo has helped you <a href="../../integrations/kobotoolbox.md">integrate your KoboToolbox forms with your Sempo Dashboard</a>
@@ -33,11 +33,13 @@ Sempo provides a range of ways for you to add cards to beneficiary accounts.
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Your team wants to use KoboToolbox</li>
+          <li>Your team wants to use KoboToolbox on registration day</li>
           <li>Your team has <em>already </em>been using KoboToolbox to collect information
             about beneficiaries</li>
           <li>On registration day, your team wants to add a card to a beneficiary&apos;s
             account and then hand it to the beneficiary</li>
+          <li>Your team wants to make sure that all pre-collected information on beneficiaries
+            is not lost</li>
           <li>Sempo has helped you <a href="../../integrations/kobotoolbox.md">integrate your KoboToolbox forms with your Sempo Dashboard</a>
           </li>
         </ul>
@@ -48,20 +50,23 @@ Sempo provides a range of ways for you to add cards to beneficiary accounts.
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Your team wants to use the Sempo Dashboard</li>
+          <li>Your team wants to use the Sempo Dashboard for registration of beneficiaries</li>
           <li>Your team wants to create a beneficiary account at the same time as they
             want to add a card to that beneficiary&apos;s account</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Option 4: Add a card to a pre-existing beneficiary account visa the Sempo Dashboard</b>
+      <td style="text-align:left"><b>Option 4: Add a card to a pre-existing beneficiary account via the Sempo Dashboard</b>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Your team wants to use the Sempo Dashboard for registration</li>
-          <li>Your team wants to change or add a card to a pre-existing beneficiary
-            account</li>
+          <li>
+            <p>Your team wants to use the Sempo Dashboard to add a card to a pre-existing
+              beneficiary account</p>
+            <p>OR</p>
+          </li>
+          <li>Your team wants to change a beneficiary&apos;s assigned card</li>
         </ul>
       </td>
     </tr>
