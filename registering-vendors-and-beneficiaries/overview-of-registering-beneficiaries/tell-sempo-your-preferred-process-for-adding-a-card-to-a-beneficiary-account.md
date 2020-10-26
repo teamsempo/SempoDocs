@@ -1,10 +1,92 @@
 # Set up your process for adding cards to beneficiary accounts
 
-{% hint style="success" %}
-Your team has many options for how to add cards to beneficiary accounts. Please talk to us at team@withsempo.com to discuss your preferred option
-{% endhint %}
+You will have four options for how to add cards to beneficiary accounts, depending upon whether: your team wants to use KoboToolbox vs the Sempo Dashboard for registration; and whether you want to add cards when creating _new_ beneficiary account vs adding cards to a  _pre-existing_ account.
 
-Sempo offers five ways for our partners to add cards to beneficiary accounts, for those beneficiaries to use to make purchases.  
+If your team prefers to use KoboToolbox for registration, we can help you:
+
+* Option 1: Add a card while creating a _new_ beneficiary account on registration day via KoboToolbox
+* Option 2: Add a card to a _pre-existing_ beneficiary account on registration day via KoboToolbox
+
+If you want to use the Sempo Dashboard for registration, we can help you:
+
+* Option 3: Add a card to a _new_ beneficiary account on registration day via the Dashboard 
+* Option 4: Add a card to a _pre-existing_ beneficiary account on registration day via the Dashboard
+
+We do not recommend, but can also enable you to bulk-assign cards to beneficiaries \(Option 5\). 
+
+## Using KoboToolbox
+
+### Option 1: Add a card while creating a _new_ beneficiary account on registration day via KoboToolbox 
+
+If your team is familiar with using KoboToolbox survey forms, we recommend using a single KoboToolbox form to collect all beneficiary data and also add a card to their account during registration day.
+
+Before your beneficiary registration day, please:
+
+1. Agree with your team what [data you want to collect on beneficiaries and how](decide-your-beneficiary-data-collection-mechanism.md)
+2. Confirm that [your stack of cards is added to your Platform \(Sempo can pre-add your cards if requested\)](adding-sempo-cards-to-your-platform.md)
+3. Set up a KoboToolbox Form for your staff to use when surveying each beneficiary, which includes a question "Please take a card and scan the QR code on the card. \(Example form provided here.\)
+4. Confirm with Sempo that you have [integrated KoboToolbox ](../../integrations/kobotoolbox.md)with the Sempo Dashboard, so that your forms will automatically sync to Sempo.
+5. Explain to your team how to use the KoboToolbox form 
+
+#### Explanation 
+
+Here is an example of what you can say to explain the process to your staff:
+
+> On registration day, you will use a KoboToolbox survey form to take all relevant information from a beneficiary, before scanning the QR code on any card \(that has not yet been added to someone's account\). Then you will hand that card to the beneficiary and confirm that they are registered in the program.
+>
+> Sempo can integrate with [KoboToolbox](../../integrations/kobotoolbox.md), so that when you submit each KoboToolbox form, this information gets automatically added to the Sempo Dashboard.
+
+### Option 2: Add a card to a _pre-existing_ beneficiary account on registration day via KoboToolbox 
+
+If you have already collected information about beneficiaries during pre-registration, you may  want to add a specific card to the beneficiary's account during registration. If your organisation is familiar with KoboToolbox, this option is best.
+
+Before your beneficiary registration day, please
+
+1. Confirm with Sempo if all beneficiaries on the Dashboard will need cards assigned to their accounts \(or which group of them will need cards assigned\)
+2. Ask Sempo to create a "Registration List" of beneficiaries, with a unique QR code assigned to each beneficiary \("Registration List"\)
+3. Then print off copies of this "Registration List" for each member of your team who will be helping add a card to a beneficiary account  
+4. Set up a KoboToolbox Form for your staff to use and deploy it. \(Sempo can provide a template form upon request.\)
+5. Explain to your staff how to use the "Registration List" and KoboToolbox Form to add a card to a beneficiary account before handing that card to the beneficiary 
+
+#### Explanation 
+
+Here is an example of what you can say to explain the process to your staff:
+
+> On registration day, to add a card to a beneficiary's account on Sempo, all you need to do is have access to a printed "Registration List", the KoboToolbox registration form, a stack of cards, and the beneficiaries!
+>
+> The "Registration List" will have a list of all beneficiaries that require cards, and a unique QR code next to their names. 
+>
+> The KoboToolbox registration form will only have three questions for you to complete for each beneficiary:
+>
+> 1. Is the beneficiary's name on the "Registration List"? \(Yes/No\)
+> 2. Please scan the beneficiary's QR Code on the Registration List. 
+> 3. Please take a card and scan the QR code on the card. 
+>
+> Then you will give the card to the beneficiary and submit the KoboToolbox form. \(If you have a registration slip to give them, please give the form to them at this stage.\)
+>
+> Repeat this for each beneficiary.  
+>
+> Because Sempo integrates with [KoboToolbox](../../integrations/kobotoolbox.md), when you submit each KoboToolbox form, each card will be automatically linked to that beneficiary's account.
+
+## Using Sempo Dashboard
+
+### Option 3: Add a card to a new beneficiary account via Sempo Dashboard
+
+Please see ["Ways to Register Participants with Sempo &gt; 3. Sempo Dashboard". ](../how-to-register-participants.md#3-sempo-dashboard)
+
+{% page-ref page="../how-to-register-participants.md" %}
+
+### Option 4: Add a card or change card to a pre-existing __beneficiary account via Sempo Dashboard
+
+Please see ["Ways to Register Participants with Sempo &gt; 3. Sempo Dashboard". ](../how-to-register-participants.md#3-sempo-dashboard)However, instead of creating a new account, you will be navigating to the relevant beneficiary's account, clicking on their name and then editing their details. 
+
+### \(Not recommended\) Option 5: Bulk-assign cards to  beneficiaries 
+
+We do not recommend this option, because it can be very hard to find the exact card for each individual and pass it to them during registration.
+
+However, if you would like to try this option \(e.g. because you will be organising alphabetised envelopes for beneficiaries and putting their cards into it\), please contact us at team@withsempo.com to discuss. We can upload a spreadsheet of beneficiary and card details, at your request.  
+
+## When to use each option?
 
 <table>
   <thead>
@@ -71,7 +153,7 @@ Sempo offers five ways for our partners to add cards to beneficiary accounts, fo
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Option 5: Bulk-add beneficiaries to the Sempo Dashboard and assign cards to these beneficiaries </b>
+      <td style="text-align:left"><b>Option 5: Bulk-assign cards to beneficiaries </b>
       </td>
       <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;</p>
@@ -84,67 +166,4 @@ Sempo offers five ways for our partners to add cards to beneficiary accounts, fo
     </tr>
   </tbody>
 </table>
-
-## Option 1: Add a card while creating a new beneficiary account via KoboToolbox
-
-If your team is familiar with using KoboToolbox survey forms, you may want to use KoboToolbox in the field. 
-
-Before your beneficiary registration day, please:
-
-1. Agree with your team what [data you want to collect on beneficiaries and how](decide-your-beneficiary-data-collection-mechanism.md)
-2. Confirm that your stack of cards is added to your Platform \(Sempo can pre-add your cards if requested\)
-3. Set up a KoboToolbox Form for your staff to use when surveying each beneficiary, which includes a question "Please take a card and scan the QR code on the card. 
-4. Confirm with Sempo that you have [integrated KoboToolbox ](../../integrations/kobotoolbox.md)with the Sempo Dashboard, so that your forms will automatically sync to Sempo.
-
-## Option 2: Add a card to a pre-existing beneficiary account via KoboToolbox 
-
-If you have already collected information about beneficiaries during pre-registration, you may  want to add a specific card to the beneficiary's account during registration. If your organisation is familiar with KoboToolbox, this option is best.
-
-Before your beneficiary registration day, please
-
-1. Confirm with Sempo if all beneficiaries on the Dashboard will need cards assigned to their accounts \(or which group of them will need cards assigned\)
-2. Ask Sempo to create a "Registration List" of beneficiaries, with a unique QR code assigned to each beneficiary \("Registration List"\)
-3. Then print off copies of this "Registration List" for each member of your team who will be helping add a card to a beneficiary account  
-4. Set up a KoboToolbox Form for your staff to use and deploy it. \(Sempo's example form is here; XLSX here\) 
-5. Explain to your staff how to use the "Registration List" and KoboToolbox Form to add a card to a beneficiary account before handing that card to the beneficiary 
-
-#### Explanation 
-
-Here is an example of what you can say to explain the process to your staff:
-
-> On registration day, to add a card to a beneficiary's account on Sempo, all you need to do is have access to a printed "Registration List", the KoboToolbox registration form, a stack of cards, and the beneficiaries!
->
-> The "Registration List" will have a list of all beneficiaries that require cards, and a unique QR code next to their names. 
->
-> The KoboToolbox registration form will only have three questions for you to complete for each beneficiary:
->
-> 1. Is the beneficiary's name on the "Registration List"? \(Yes/No\)
-> 2. Please scan the beneficiary's QR Code on the Registration List. 
-> 3. Please take a card and scan the QR code on the card. 
->
-> Then you will give the card to the beneficiary and submit the KoboToolbox form. \(If you have a registration slip to give them, please give the form to them at this stage.\)
->
-> Repeat this for each beneficiary.  
->
-> Because Sempo integrates with [KoboToolbox](../../integrations/kobotoolbox.md), when you submit each KoboToolbox form, each card will be automatically linked to that beneficiary's account.
-
-
-
-## Option 3: Add a card to a new beneficiary account via Sempo Dashboard
-
-Please see ["Ways to Register Participants with Sempo &gt; 3. Sempo Dashboard". ](../how-to-register-participants.md#3-sempo-dashboard)
-
-{% page-ref page="../how-to-register-participants.md" %}
-
-## Option 4: Add a card or change card to a pre-existing __beneficiary account via Sempo Dashboard
-
-Similar to Option 3, please see ["Ways to Register Participants with Sempo &gt; 3. Sempo Dashboard". ](../how-to-register-participants.md#3-sempo-dashboard)
-
-The only difference will be that instead of creating a new account, you will be navigating to the relevant beneficiary's account, clicking on their name and then editing their details. 
-
-## \(Not recommended\) Option 5: Bulk-create a group of beneficiaries accounts on the Sempo Dashboard and assign specific cards to these beneficiaries 
-
-We do not recommend this option, because it is will be logistically very hard to find the exact card for each individual and pass it to them during registration.
-
-However, if you would like to try this option \(e.g. because you will be organising alphabetised envelopes for beneficiaries and putting their cards into it\), please contact us at team@withsempo.com to discuss. We can upload a CSV of the beneficiaries details and the card IDs to the Sempo Dashboard, at your request.  
 
