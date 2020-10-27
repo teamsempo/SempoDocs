@@ -1,8 +1,17 @@
-# Resolving login issues
+# Logging into the Dashboard
+
+## Logging into the Sempo Dashboard
 
 {% hint style="info" %}
-If you haven't received an invitation email to sign up for Sempo, please ask your organisation's admin to re-send an invitation to you. Check your junk mails. 
+You can only log into the Sempo Dashboard once you have signed up for your account. Please ask your organisation to invite you, check your inbox and spam, and please see[ "Signing up for Dashboard Access".](how-to-log-in/)
 {% endhint %}
+
+To log in, please:
+
+1. Open an Internet browser and navigate to the webpage of your instance of the Sempo Dashboard. Ask your organisation or Sempo to confirm that URL address if you are unsure. \(It may be "\[your organisation or country region\].withsempo.com"\). 
+2. Log in using your email and the password that you used to sign up.
+
+If you are a superadmin or admin, you may also need to use [two-factor authentication](how-to-log-in/) for security reasons before you can log into the Sempo App.
 
 ## What to do if you encounter issues logging in
 
@@ -56,8 +65,6 @@ If you haven't received an invitation email to sign up for Sempo, please ask you
     </tr>
   </tbody>
 </table>
-
-
 
 {% hint style="warning" %}
 If you still need help, please reach out to [help@withsempo.com](mailto:help@withsempo.com) or your Sempo account manager.
