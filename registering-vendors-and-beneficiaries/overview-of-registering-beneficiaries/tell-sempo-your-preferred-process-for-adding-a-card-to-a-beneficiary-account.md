@@ -12,7 +12,7 @@ If you want to use the Sempo Dashboard for registration, we can help you:
 * Option 3: Add a card to a _new_ beneficiary account on registration day via the Dashboard 
 * Option 4: Add a card to a _pre-existing_ beneficiary account on registration day via the Dashboard
 
-We do not recommend, but can also enable you to bulk-assign cards to beneficiaries \(Option 5\). 
+Finally, we can also bulk-assign cards to beneficiaries \(Option 5\). f you prefer this method, you will need to have a method of storing and handing out specific cards to beneficiaries on registration day.
 
 ## Using KoboToolbox
 
