@@ -5,7 +5,7 @@ You will have four options for how to add cards to beneficiary accounts, dependi
 If your team prefers to use KoboToolbox for registration, we can help you:
 
 * Option 1: Add a card while creating a _new_ beneficiary account on registration day via KoboToolbox
-* Option 2: Add a card to a _pre-existing_ beneficiary account on registration day via KoboToolbox
+* Option 2: Add a card to a _pre-existing_ beneficiary account on registration day via KoboToolbox \(if you have already created accounts during pre-registration interviews\)
 
 If you want to use the Sempo Dashboard for registration, we can help you:
 
