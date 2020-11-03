@@ -10,7 +10,7 @@ If you are going to join the Sempo Dashboard as a [subadmin or enroller](../dash
 You will now have access to the Dashboard!
 
 {% hint style="info" %}
-If you have not received your invitation email, please ask your organisation's admin to[ resend an invite](../accessing-the-dashboard-1.md), and check your spam inbox.
+If you have not received your invitation email, please ask your organisation's admin to[ resend an invite](../accessing-the-dashboard-1/), and check your spam inbox.
 {% endhint %}
 
 ## Signing up as a superadmin or admin
@@ -40,7 +40,7 @@ To install an authenticator app:
 
 After you have installed a 2FA such as Google Authenticator, please:
 
-1. Check that your existing organisation or Sempo \(help@withsempo.com\) has [invited](../accessing-the-dashboard-1.md) you to join as a superadmin or admin. You will have received an invitation link in your email inbox.
+1. Check that your existing organisation or Sempo \(help@withsempo.com\) has [invited](../accessing-the-dashboard-1/) you to join as a superadmin or admin. You will have received an invitation link in your email inbox.
 2. Click on the invitation link to sign up with your email address. You will need to enter a password with a mix of characters and numbers. 
 3. A QR code will then appear on your computer screen with the sign "Two-Step Authentication Required".
 

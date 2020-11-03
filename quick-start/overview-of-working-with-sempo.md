@@ -89,7 +89,7 @@ Sempo will then organise trainings with you and your Field Partners to ensure yo
 * Using the Sempo Dashboard, in particular:
   * Understanding the [access tiers](../sempo-dashboard/dashboard-overview/access-tiers.md) of the Dashboard
   * [Signing up for accessing](../sempo-dashboard/how-to-log-in/) the Dashboard
-  * [Inviting someone to access the Dashboard](../sempo-dashboard/accessing-the-dashboard-1.md)
+  * [Inviting someone to access the Dashboard](../sempo-dashboard/accessing-the-dashboard-1/)
   * [Viewing, filtering and editing participant account](../monitoring-and-analysing-data/managing-beneficiaries.md)
   * [Analysing participant and transfer data](../monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md)
   * [Exporting data to excel](../monitoring-and-analysing-data/exporting-to-excel.md)

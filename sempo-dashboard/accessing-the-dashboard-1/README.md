@@ -8,19 +8,19 @@ description: >-
 # Inviting someone to access the Dashboard
 
 {% hint style="warning" %}
-**To get access to the dashboard ask your platform administrator to invite you and then** [**sign up**.](how-to-log-in/) If you need help, please reach out to [help@withsempo.com](mailto:help@withsempo.com).
+**To get access to the dashboard ask your platform administrator to invite you and then** [**sign up**.](../how-to-log-in/) If you need help, please reach out to [help@withsempo.com](mailto:help@withsempo.com).
 {% endhint %}
 
 Superadmins and admins can invite others to join the Sempo Dashboard. To invite others, please:
 
 1. Navigate to the Settings Page 
 2. Select ‘+ New User’
-3. Enter the New User's email address, and choose their tier. \(See [Access Tiers](dashboard-overview/access-tiers.md) for guidance if you don't know which tier to invite them to.\)
+3. Enter the New User's email address, and choose their tier. \(See [Access Tiers](../dashboard-overview/access-tiers.md) for guidance if you don't know which tier to invite them to.\)
 4. If a user doesn't get an email, try resending it and ask them to check their spam inbox.
 
-![Step 1 &amp; 2 Settings Page/Invite User](../.gitbook/assets/screen-shot-2020-09-10-at-1.46.33-pm.png)
+![Step 1 &amp; 2 Settings Page/Invite User](../../.gitbook/assets/screen-shot-2020-09-10-at-1.46.33-pm.png)
 
-![Step 3 Invite User Screen](../.gitbook/assets/screen-shot-2020-09-10-at-1.45.47-pm.png)
+![Step 3 Invite User Screen](../../.gitbook/assets/screen-shot-2020-09-10-at-1.45.47-pm.png)
 
 ![Step 4 Manage Invite Action](https://lh4.googleusercontent.com/QlFbneza6eEHw-MB3NF62AlOKH6EcdpxdkZHjvbPfl-1GbGm8aUaov3fTx--RLaNQ2AW4OwUUwZOEXVyEpxwAAKRL96ol6zvnkZW2eYj6Ds0SGImBBqBNMkL_kY9z6-RKCKiaOY)
 

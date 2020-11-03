@@ -16,7 +16,7 @@ You will use the Sempo Dashboard to register your program participants, disburse
 
 {% page-ref page="access-tiers.md" %}
 
-{% page-ref page="../accessing-the-dashboard-1.md" %}
+{% page-ref page="../accessing-the-dashboard-1/" %}
 
 ## Analysing data
 

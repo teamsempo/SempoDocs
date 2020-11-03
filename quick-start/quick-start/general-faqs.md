@@ -10,7 +10,7 @@
 
 ### How do I invite my colleagues to access the Sempo Dashboard?
 
-{% page-ref page="../../sempo-dashboard/accessing-the-dashboard-1.md" %}
+{% page-ref page="../../sempo-dashboard/accessing-the-dashboard-1/" %}
 
 ### How do I enrol and manage participants \(beneficiaries and vendors\) in a cash transfer program?
 
