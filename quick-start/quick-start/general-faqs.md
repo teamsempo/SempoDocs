@@ -18,7 +18,7 @@
 
 {% page-ref page="../../monitoring-and-analysing-data/managing-beneficiaries.md" %}
 
-{% page-ref page="../../transferring-cash-to-participants/managing-transfers.md" %}
+{% page-ref page="../../beneficiary-disbursements/managing-transfers.md" %}
 
 ### How do I analyse what transfers are happening, and what participants are spending their money on?
 

@@ -94,7 +94,7 @@ Sempo will then organise trainings with you and your Field Partners to ensure yo
   * [Analysing participant and transfer data](../monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md)
   * [Exporting data to excel](../monitoring-and-analysing-data/exporting-to-excel.md)
   * [Integrating with Kobo Toolbox \(if required\)](../integrations/kobotoolbox.md)
-  * [Understanding the transfer types](../transferring-cash-to-participants/transfer-types.md)
+  * [Understanding the transfer types](../beneficiary-disbursements/transfer-types.md)
 * Using the Sempo Mobile App, in particular
   * [Installing the app](../mobile-app/installing-android-devices-with-the-sempo-app.md)
   * [Navigating the app](../mobile-app/app-navigation.md)
@@ -118,9 +118,9 @@ After your program participants are registered, we are ready to begin disbursing
 
 In this stage, we will work together to:
 
-* [Manage transfers](../transferring-cash-to-participants/managing-transfers.md)
-* [Disburse funds to beneficiaries](../transferring-cash-to-participants/disbursing-funds.md)
-* Conduct [vendor withdrawals and reimbursements](../transferring-cash-to-participants/vendor-reimbursement-1.md)
+* [Manage transfers](../beneficiary-disbursements/managing-transfers.md)
+* [Disburse funds to beneficiaries](../beneficiary-disbursements/disbursing-funds.md)
+* Conduct [vendor withdrawals and reimbursements](../vendor-reimbursements/vendor-reimbursement-1.md)
 * [Analyse participant and transfer data](../monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md)
 
 Where possible, we recommend planning for a week-long "mini-pilot" or week where a small number of beneficiaries have a shopping week at certain vendors. This can allow for testing and adaptation of our solution as required to your context.

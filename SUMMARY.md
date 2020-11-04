@@ -11,7 +11,7 @@
   * [Quick FAQs](quick-start/quick-start/general-faqs.md)
 * [Working with Sempo](quick-start/overview-of-working-with-sempo.md)
 
-## Overview of Sempo Dashboard <a id="sempo-dashboard"></a>
+## Using the Sempo Dashboard <a id="sempo-dashboard"></a>
 
 * [Dashboard overview](sempo-dashboard/dashboard-overview/README.md)
   * [Admin access tiers](sempo-dashboard/dashboard-overview/access-tiers.md)
@@ -22,13 +22,13 @@
   * [Changing a User's Access Tier](sempo-dashboard/accessing-the-dashboard-1/changing-a-users-access-tier.md)
 * [Logging into the Dashboard](sempo-dashboard/common-login-errors.md)
 
-## Overview of Sempo App and Cards <a id="mobile-app"></a>
+## Using the Sempo App and Cards <a id="mobile-app"></a>
 
 * [Installing the Sempo app](mobile-app/installing-android-devices-with-the-sempo-app.md)
 * [Navigating the Sempo app](mobile-app/app-navigation.md)
 * [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
 * [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
-* [Using Sempo's contactless cards as a beneficiary](mobile-app/using-sempos-contactless-cards.md)
+* [Using cards as a beneficiary](mobile-app/using-sempos-contactless-cards.md)
 * [Sempo App FAQs](mobile-app/mobile-app-faqs.md)
 
 ## Registering Vendors and Beneficiaries
@@ -47,12 +47,15 @@
   * [Prepare your beneficiary registration and training session](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism.md)
   * [Deliver beneficiary registration and training session](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
 
-## Transferring Cash to Participants
+## Beneficiary Disbursements
 
-* [Transfer types](transferring-cash-to-participants/transfer-types.md)
-* [Viewing, approving or rejecting transfers](transferring-cash-to-participants/managing-transfers.md)
-* [Disbursing to beneficiaries](transferring-cash-to-participants/disbursing-funds.md)
-* [Vendor withdrawals and reimbursement](transferring-cash-to-participants/vendor-reimbursement-1.md)
+* [Transfer types](beneficiary-disbursements/transfer-types.md)
+* [Viewing, approving or rejecting transfers](beneficiary-disbursements/managing-transfers.md)
+* [Disbursing to beneficiaries](beneficiary-disbursements/disbursing-funds.md)
+
+## Vendor Reimbursements
+
+* [Vendor withdrawals and reimbursement](vendor-reimbursements/vendor-reimbursement-1.md)
 
 ## Monitoring and Analysing Program Data <a id="monitoring-and-analysing-data"></a>
 

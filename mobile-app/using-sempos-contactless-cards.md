@@ -1,4 +1,4 @@
-# Using Sempo's contactless cards as a beneficiary
+# Using cards as a beneficiary
 
 {% hint style="success" %}
 For guidance on how to register and train beneficiaries, please see below [beneficiary registration and training pages.](../registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/)
