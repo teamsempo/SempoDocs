@@ -4,11 +4,11 @@ After you have [prepared for your vendor registration and training session](plan
 
 1. Welcome and introductions \(approx. 30 mins, as a group\)
 2. In-person interviews with each vendor to collect data \(5 minutes per vendor, 1 on 1\)
-3. Vendors all sign Vendor Agreements \(on the use and care for phone and card provided\) \(5 minutes, 1 on 1\)
-4. Vendors are given mobile phones and instructions for how to use it to receive payments \(20 minutes, small-groups\)
-5. Vendors practice making payments \(20 minutes, recommended for 1 on 1\)
-6. Explanation of Vendor Reimbursement Process and Q&As \(15 minutes, in a group\)
-7. Q&A and explanation of how Vendors should manage any issues as they arise \(15 minutes, as a group\) 
+3. Vendors are given mobile phones and instructions for how to use it to receive payments \(20 minutes, small-groups\)
+4. Vendors practice making payments \(20 minutes, recommended for 1 on 1\)
+5. Explanation of Vendor Reimbursement Process and Q&As \(15 minutes, in a group\)
+6. Q&A and explanation of how Vendors should manage any issues as they arise \(15 minutes, as a group\) 
+7. Vendors all sign Vendor Agreements \(on the use and care for phone and card provided\) \(5 minutes, 1 on 1\)
 
 ## Welcome vendors 
 
@@ -37,9 +37,7 @@ Below is an example script you can use and tailor when introducing vendors to th
 
 Please use the vendor data collection mechanism that your organisation's lead \(or superadmin\) has designed and implemented with Sempo.
 
-## **Give the vendors Vendor Agreements to sign and gather them**
-
-Please provide a copy of the Vendor agreement for them to sign.
+## \*\*\*\*
 
 ## **Give the Vendors their Mobile Phone, and help them log into the Sempo App for the first time**
 
@@ -99,4 +97,8 @@ Here are some example answers you can give to potential vendor questions:
   * Answer: You can select multiple purchase categories, to cover the multiple types of items that they purchase
 * **Q: What are the two other options that I see when I open my Sempo Wallet to the transactions page? When would I use the QR Code or send money to someone else?**
   * Answer: The QR code is a code that you could use to accept payment from another vendor or person with the Sempo app on an Android phone. The paper plane /arrow icon indicates the way that you could send a payment as a vendor to another person with the Sempo App.
+
+## **Give the vendors Vendor Agreements to sign and gather them**
+
+Please provide a copy of the Vendor Agreement for them to sign. Explain the key terms and responsibilities, before getting their signatures.
 

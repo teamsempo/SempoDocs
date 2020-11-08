@@ -4,14 +4,15 @@
 
 Sempo can help our partners organise in-person registration and training session for vendors. Steps for our partners to follow will include: 
 
-1. Booking a suitable location
-2. Contacting vendors, and providing details about the[ information that they will need to bring to the session](../../policies-and-security/kyc.md#what-data-points-does-sempo-typically-require-to-complete-kyc-checks) \(e.g. Photo ID, proof of bank account ownership\)
-3. Ensuring there will be WiFi \(or mobile phone hotspots\)
-4. Ensuring all phone hardware has been prepared and delivered to the location before the session
-5. Printing guides for Field Partners \(if required\)
-6. Printing vendor contracts \(if required
-7. Designing and printing guides for vendors \(if required\) 
-8. Designing COVID-19 and other health and safety measures  
+1. Setting the objectives and agenda
+2. Booking a suitable location
+3. Contacting vendors, and providing details about the[ information that they will need to bring to the session](../../policies-and-security/kyc.md#what-data-points-does-sempo-typically-require-to-complete-kyc-checks) \(e.g. Photo ID, proof of bank account ownership\)
+4. Ensuring there will be WiFi \(or mobile phone hotspots\)
+5. Ensuring all phone hardware has been prepared and delivered to the location before the session
+6. Printing guides for Field Partners \(if required\)
+7. Printing vendor contracts \(if required
+8. Designing and printing guides for vendors \(if required\) 
+9. Designing COVID-19 and other health and safety measures  
 
 For the topics that will need to be covered with vendors, see next section.
 
