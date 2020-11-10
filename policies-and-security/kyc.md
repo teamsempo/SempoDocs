@@ -14,7 +14,7 @@ By working with Sempo to satisfy AML/CTF and KYC regulations, our partners can b
 
 We implement strict velocity exchange limits, ensuring that the rapid exchange of a large amount of currency is impossible for a single individual or small group of individuals. In addition, there are transaction limits in place to manage our risk, and ensure only fully verified users have access to the full service and can "cash out" into local fiat currency.
 
-![Numbers are in Australian Dollars \(AUD\)](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 This means:
 
