@@ -26,6 +26,7 @@
 
 * [Installing the Sempo app](mobile-app/installing-android-devices-with-the-sempo-app.md)
 * [Navigating the Sempo app](mobile-app/app-navigation.md)
+* [Updating the Sempo App](mobile-app/updating-the-sempo-app.md)
 * [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
 * [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
 * [Using cards as a beneficiary](mobile-app/using-sempos-contactless-cards.md)
