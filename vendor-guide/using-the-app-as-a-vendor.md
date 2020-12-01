@@ -55,10 +55,10 @@ _Do you need cash sooner than the agreed pay cycle?_
 
 ## How to give a refund
 
-If a vendor needs to refund a customer \(eg. if they accidentally overcharged\), the vendor needs to:
+If you need to give a refund, please:
 
-1. Notify the organisation managing the cash transfer program of the name of the customer, and the exact amount owed. 
-2. The organisation and/or Sempo can perform a reclamation of the amount from the vendor, and then disburse the owed amount to the customer
+1. Contact the organisation that registered you for this cash transfer program. Tell them the name of the customer, and the exact amount owed. 
+2. The organisation can then reverse the transfer.
 
 ## Exporting vendor data
 
