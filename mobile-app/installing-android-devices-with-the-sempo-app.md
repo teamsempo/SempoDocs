@@ -1,9 +1,5 @@
 # Installing the Sempo app
 
-{% hint style="info" %}
-This is the guide for **beneficiaries and vendors** of the Sempo platform.
-{% endhint %}
-
 **Step 1:** Go to the Android App store and download the Sempo App
 
 {% embed url="https://play.google.com/store/apps/details?id=com.sempo&hl=en\_AU" %}

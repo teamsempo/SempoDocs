@@ -1,16 +1,12 @@
-# Using the app as a vendor
+# How to use the Sempo App as a Vendor
 
-{% hint style="info" %}
-For our NGO Partners, Sempo provides guidance on how to [register and train vendors in our vendor registration and training pages.](../registering-vendors-and-beneficiaries/quick-overview-of-enrolling-vendors/)
-{% endhint %}
-
-## How can a vendor use the app?
+## How can I open the app?
 
 1. **Open** by clicking on the Sempo icon ![](../.gitbook/assets/screen-shot-2020-09-10-at-4.37.24-pm.png) 
 2. **Login** by entering your phone number and the PIN code that you received.  \(You will have received your PIN either in a welcome SMS, or it will be the last four digits of your phone number. Please check with the NGO or Field Partners to confirm.\) Click **Login** to proceed.
 3. **Passcode.** Next time you open the app you will be asked to enter your **Passcode.** Choose a code that is easy to remember and secure. Don't tell anyone.
 
-{% page-ref page="app-navigation.md" %}
+{% page-ref page="../mobile-app/app-navigation.md" %}
 
 ## How to accept payments?
 
@@ -22,7 +18,7 @@ For our NGO Partners, Sempo provides guidance on how to [register and train vend
 4. **Enter the total amount** that you wish to charge the customer. Then click **Charge**. ![](../.gitbook/assets/charge.png) 
 5. **Select categories** of all products/services being purchased. If unsure, select "Other". Then click **Next.**  ![](../.gitbook/assets/categories.png) 
 6. On the next screen, below the QR code, tap **Touch to Pay Card**. 
-7. Ask the beneficiary to **Hold their card** on the back of your phone for 5 seconds. \(_Note: Where you have to hold your card will depend on your phone model.\)_![](../.gitbook/assets/tap-card.png) 
+7. Ask the beneficiary to **Hold their card** on the back of your phone for 5 seconds.  \(_Note: Where you have to hold your card will depend on your phone model.\)_![](../.gitbook/assets/tap-card.png) 
 8. A **confirmation** screen will appear once the transaction is completed. ![](../.gitbook/assets/confirmation.png) 
 
 In the case of **no internet connection**, the balance will update once the connection is restored. Simply go to your wallet screen ![](../.gitbook/assets/wallet.png) and touch the balance field and pull it down to refresh.
@@ -31,7 +27,7 @@ In the case of **no internet connection**, the balance will update once the conn
 For the Kogan Agora XI phone, you need to hold the card against the middle of the back of the phone. 
 {% endhint %}
 
-{% page-ref page="mobile-app-faqs.md" %}
+{% page-ref page="../mobile-app/mobile-app-faqs.md" %}
 
 ## How to check a customer's balance?
 
@@ -76,4 +72,20 @@ If a vendor needs to refund a customer \(eg. if they accidentally overcharged\),
 
 1. Go to the settings page and click "Export Data"
 2. Enter an email address and click the button. You will receive an email with a spreadsheet link \(expires in 24 hours\). This contains all transfers on the account with data. Specifically: Transfer Amount, Created, Resolved Date, Transfer Type, Transfer Use, Transfer Status.
+
+## How to update the App
+
+**1. When you have access to the internet, click on the "Play Store App"**
+
+![](../.gitbook/assets/image%20%2827%29.png)
+
+**2. Search for 'Sempo' at the top of Play Store**
+
+![](../.gitbook/assets/image%20%2829%29.png)
+
+**3. When you see the Sempo App appear, click on Update. If you are prompted for a username and password, please use any google account details.**
+
+![](../.gitbook/assets/image%20%2828%29.png)
+
+Note: If "Update" is not available but you see an "Open" button, that means you have access to the latest version of the app!
 
