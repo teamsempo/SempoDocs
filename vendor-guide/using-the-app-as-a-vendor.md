@@ -1,4 +1,4 @@
-# Using the app as a vendor
+# How to use the Sempo App as a Vendor
 
 {% hint style="info" %}
 For our NGO Partners, Sempo provides guidance on how to [register and train vendors in our vendor registration and training pages.](../registering-vendors-and-beneficiaries/quick-overview-of-enrolling-vendors/)
@@ -10,7 +10,7 @@ For our NGO Partners, Sempo provides guidance on how to [register and train vend
 2. **Login** by entering your phone number and the PIN code that you received.  \(You will have received your PIN either in a welcome SMS, or it will be the last four digits of your phone number. Please check with the NGO or Field Partners to confirm.\) Click **Login** to proceed.
 3. **Passcode.** Next time you open the app you will be asked to enter your **Passcode.** Choose a code that is easy to remember and secure. Don't tell anyone.
 
-{% page-ref page="app-navigation.md" %}
+{% page-ref page="../mobile-app/app-navigation.md" %}
 
 ## How to accept payments?
 
@@ -31,7 +31,7 @@ In the case of **no internet connection**, the balance will update once the conn
 For the Kogan Agora XI phone, you need to hold the card against the middle of the back of the phone. 
 {% endhint %}
 
-{% page-ref page="mobile-app-faqs.md" %}
+{% page-ref page="../mobile-app/mobile-app-faqs.md" %}
 
 ## How to check a customer's balance?
 

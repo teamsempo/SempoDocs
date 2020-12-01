@@ -11,6 +11,12 @@
   * [Quick FAQs](quick-start/quick-start/general-faqs.md)
 * [Working with Sempo](quick-start/overview-of-working-with-sempo.md)
 
+## Vendor Guide
+
+* [How to use the Sempo App as a Vendor](vendor-guide/using-the-app-as-a-vendor.md)
+* [Solving Problems with the App](vendor-guide/solving-problems-with-the-app.md)
+* [Payment Schedule Advice](vendor-guide/payment-schedule-advice.md)
+
 ## Using the Sempo Dashboard <a id="sempo-dashboard"></a>
 
 * [Dashboard overview](sempo-dashboard/dashboard-overview/README.md)
@@ -27,7 +33,6 @@
 * [Installing the Sempo app](mobile-app/installing-android-devices-with-the-sempo-app.md)
 * [Navigating the Sempo app](mobile-app/app-navigation.md)
 * [Updating the Sempo App](mobile-app/updating-the-sempo-app.md)
-* [Using the app as a vendor](mobile-app/using-the-app-as-a-vendor.md)
 * [Using the app as a beneficiary](mobile-app/using-the-app-as-a-beneficiary.md)
 * [Using cards as a beneficiary](mobile-app/using-sempos-contactless-cards.md)
 * [Sempo App FAQs](mobile-app/mobile-app-faqs.md)
@@ -48,13 +53,13 @@
   * [Prepare your beneficiary registration and training session](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism.md)
   * [Deliver beneficiary registration and training session](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
 
-## Beneficiary Disbursements
+## Disbursing to Beneficiaries <a id="beneficiary-disbursements"></a>
 
 * [Transfer types](beneficiary-disbursements/transfer-types.md)
 * [Viewing, approving or rejecting transfers](beneficiary-disbursements/managing-transfers.md)
 * [Disbursing to beneficiaries](beneficiary-disbursements/disbursing-funds.md)
 
-## Vendor Reimbursements
+## Reimbursing Vendors <a id="vendor-reimbursements"></a>
 
 * [Vendor withdrawals and reimbursement](vendor-reimbursements/vendor-reimbursement-1.md)
 
