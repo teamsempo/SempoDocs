@@ -14,8 +14,8 @@
 ## Vendor Guide
 
 * [How to use the Sempo App as a Vendor](vendor-guide/using-the-app-as-a-vendor.md)
-* [Solving Problems with the App](vendor-guide/solving-problems-with-the-app.md)
-* [Payment Schedule Advice](vendor-guide/payment-schedule-advice.md)
+* [Resolver los problemas con la aplicación](vendor-guide/solving-problems-with-the-app.md)
+* [Preguntas y Respuestas Para Comerciantes Sobre el Ciclo de Pago](vendor-guide/payment-schedule-advice.md)
 
 ## Using the Sempo Dashboard <a id="sempo-dashboard"></a>
 

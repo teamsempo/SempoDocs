@@ -1,26 +1,17 @@
----
-description: This is payment advice for vendors of cash transfer programs.
----
+# Preguntas y Respuestas Para Comerciantes Sobre el Ciclo de Pago
 
-# Payment Schedule Advice
+¡Gracias por participar en este proyecto que busca apoyar a su comunidad! Mediante esta ayuda económica y su participación, apoyamos a las familias para que puedan acceder a alimentos variados y de calidad, y mejorar la alimentación en los hogares.   
 
-Thank you for participating in this project that seeks to support your community! Through this economic aid and your participation, we support families so that they can have access to varied and quality food, and improve the nutrition of their homes. 
 
-**Where will you deposit the money from my sales?** 
-
-The money accumulated from your sales will be deposited in the bank account you nominated.
-
-**How do I know that my money will actually reach my account?**
-
-One week before starting the project, we will do a test transfer to make sure the bank details are correct. 
-
-**How often will my sales money be deposited?** 
-
-If you are a vendor in Venezuela, your money will be deposited two times a week \(on Mondays and Thursdays\).
-
-If you are a vendor in PNG or Vanuatu, your money will be deposited once a week. 
-
-**How do I know how much will be deposited?**
-
-The Sempo payment system will withdraw the accumulated sales from your mobile phone Sempo account and send it to the bank. You can check your balance on your mobile phone and know how much you will be paid on each payday. 
+1. ¿En dónde van a depositar el dinero de mis ventas? El dinero acumulado de sus ventas será depositado en la cuenta bancaria que usted informó. 
+2. ¿En qué moneda van a depositar mis ganancias?   Depende de la cuenta bancaria que usted haya proporcionado. 
+3. ¿Cómo sé que mi dinero realmente va a llegar a mi cuenta? Una semana antes de comenzar el proyecto, haremos una prueba de transferencia para asegurarnos de que los datos bancarios son correctos. 
+4. ¿Cada cuánto me van a depositar el dinero de mis ventas? Haremos dos depósitos a la semana, los lunes y los jueves. 
+5. ¿Cómo se cuánto me deben depositar? Al final del día domingo y del día miércoles, el sistema de pago Sempo va a retirar las ventas acumuladas en su teléfono celular y lo va a enviar al banco. Usted puede verificar su balance en el teléfono celular y saber cuánto le van a pagar en cada día de pago. 
+6. ¿Por qué el saldo aparece en dólares? Este proyecto trabaja con la moneda dólar para evitar que el dinero de las compradoras y de los comerciantes se devalúe. Manteniendo sus ganancias en dólares, evitamos que se deprecie semana a semana.  
+7. ¿A qué tasa debo cobrar a los clientes y por qué? Para mantener el dinero en dólares, usamos una cartera digital. Esa cartera digital pertenece a la plataforma AirTM y por esto fijamos la tasa de cambio AirTM para la venta.  
+8. ¿Dónde puedo consultar esa tasa de cambio a diario? Entrando en la web [https://rates.airtm.io](https://rates.airtm.io) o preguntando al equipo de coordinación del proyecto. Tenemos pensado abrir un grupo de WhatsApp para coordinarnos. 
+9. ¿A qué tasa me van a pagar el dinero de mis ventas? A la tasa de AirTM de ese día de pago \(3-4 días después de la venta\).  
+10. ¿Por qué esta tasa es más baja que las tasas del tipo monitor dólar?  La tasa AirTM se basa en un mercado online, y depende de la oferta y demanda de los clientes que usan esa plataforma para comprar y vender dinero. La plataforma ofrece la ventaja de que es segura \(se mitiga el riesgo de fraude\) y ofrece a sus usuarios disponibilidad de dinero para hacer cambios de moneda los 7 días de la semana, las 24 horas. Si estás interesado/a, podemos ayudarte a abrir tu propia cuenta o billetera online en el futuro, para que tu dinero esté siempre en dólares, hasta que decidas cambiarlo a Bolívares.  
+11. ¿Cómo estoy seguro/a de que al final de mes no voy a haber perdido dinero?  El equipo estará monitoreando constantemente la tasa de cambio y los pagos durante todo el mes, para asegurar que usted recibe el pago de sus ventas de forma justa. En la prueba piloto realizada en Zulia, hasta ahora, los comerciantes no han pedido dinero, pero sí han aumentado sus ventas.
 

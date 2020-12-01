@@ -1,17 +1,22 @@
----
-description: This is our troubleshooting guide
----
+# Resolver los problemas con la aplicación
 
-# Solving Problems with the App
+### **Cuando el beneficiario intenta pagar, veo "Tocado demasiado rápido"**
 
-Here are our top tips to solving problems that may emerge when using the Sempo App.
+* El Beneficiario no mantuvo la tarjeta en el teléfono el tiempo suficiente.
+*  Presiona el "Inténtalo de nuevo", e intenta el pago de nuevo. 
+* Asegúrese de que el beneficiario mantenga la tarjeta en el teléfono hasta que el pago se complete. 
+* IMPORTANTE: Si ve "Touched too Fast", intente no salir de la pantalla de pago sin intentarlo de nuevo. Si sale, la tarjeta del beneficiario podría terminar con el saldo equivocado. Sólo salga si ha intentado pagar con el beneficiario sosteniendo la tarjeta durante mucho tiempo.
 
-### **When the Beneficiary tries to pay, I see "Touched too fast".**
+### Cuando el beneficiario intenta pagar, veo "Error de autenticación de la tarjeta"
 
-* The Beneficiary did not hold the card to the phone for long enough.
-* Press the "Try Again", and try the payment again.
-* Make sure the Beneficiary holds the card to the phone until the payment completes.
-* IMPORTANT: If you see "Touched too Fast", try not to exit the payment screen without trying again. If you exit, the beneficiary card might finish with the wrong balance. Only exit if you have tried to pay with the beneficiary holding the card for a long time.
+* La aplicación Sempo podría necesitar más información sobre esta tarjeta.
+*  Vuelva a la pantalla de inicio y actualice tirando hacia abajo de la lista de pagos. 
+* Asegúrate de esperar unos minutos para que la información se cargue completamente. 
+* Después de esperar unos minutos, intenta hacer el pago de nuevo. Si todavía ves "Error de autenticación de la tarjeta", puede que haya algo mal en la tarjeta. Por favor, ponte en contacto con Oxfam. Cuando el beneficiario intenta pagar, veo "Nueva tarjeta encontrada". La aplicación Sempo ha descubierto una nueva tarjeta. Ya ha cargado más información sobre esta tarjeta. Puede intentar hacer el pago de nuevo inmediatamente.
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
+
+
 
 ### **When the Beneficiary tries to pay, I see "Card Authentication Error".**
 
