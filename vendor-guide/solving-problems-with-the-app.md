@@ -1,10 +1,10 @@
 ---
-description: This is our troubleshooting guide
+description: >-
+  Here are our top tips to solving problems that may emerge when using the Sempo
+  App.
 ---
 
 # Solving Problems with the App
-
-Here are our top tips to solving problems that may emerge when using the Sempo App.
 
 ### **When the Beneficiary tries to pay, I see "Touched too fast".**
 
