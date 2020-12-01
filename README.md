@@ -1,20 +1,16 @@
-# Welcome to Sempo!
+# ¡Bienvenido a Sempo!
 
-## About Sempo
+## Sobre Sempo 
 
-[Sempo](https://withsempo.com/ngo-cash-transfers/) is an end-to-end cash transfer platform for NGOs to rapidly and efficiently deploy humanitarian programs. We're used by global NGOs such as Oxfam, Mercy Corps and the Red Cross to run cash and voucher assistance programs.
+Sempo es una plataforma de transferencia de efectivo de extremo a extremo para que las ONG desplieguen rápida y eficientemente programas humanitarios. Somos utilizados por ONGs globales como Oxfam, Mercy Corps y la Cruz Roja para llevar a cabo programas de asistencia de dinero en efectivo y vales.
 
-{% page-ref page="quick-start/quick-start/what-is-sempo.md" %}
+## Inicio rápido 
 
-## Quick Start
-
-If Sempo has already set up your Platform for you, here are 4 steps to getting started.
+Si Sempo ya ha configurado su plataforma para usted, aquí tiene 4 pasos para empezar.
 
 {% page-ref page="quick-start/quick-start/sempo-payments-overview.md" %}
 
-## Contents
-
-## General FAQs
+## Continedos
 
 {% page-ref page="quick-start/quick-start/general-faqs.md" %}
 

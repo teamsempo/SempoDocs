@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Sempo!](README.md)
+* [¡Bienvenido a Sempo!](README.md)
 
 ## Quick start
 
