@@ -33,14 +33,8 @@ For the Kogan Agora XI phone, you need to hold the card against the middle of th
 
 1. Open the Sempo App and select **Transaction Mode**![](../.gitbook/assets/1awqxppuohxec1qye0-c16alhcxvsdepdrnekeugjgq.png) 
 2. There are three icons at the top of the screen. Touch the **left icon with the QR scanner symbol**.  ****![](../.gitbook/assets/1b97ab-dobk8d9zysir3hztnqzgtbkw8zjowfe1o6qw%20%281%29.png) 
-3. **Scan the QR Code** on the back of the customer's card.  ![](../.gitbook/assets/teal-oxfam-cards-final-copy.png) 
-4. **Show the balance of the card** to the customer.
-
-{% hint style="success" %}
-**Tips to ensuring your phone can scan the QR Code!**  
-1. Clean your phone camera lens   
-2. Hold the phone still when scanning
-{% endhint %}
+3. **Hold the customer's** card to the back of the phone.  ![](../.gitbook/assets/teal-oxfam-cards-final-copy.png) 
+4. **The balance will appear on your phone. Show the balance of the card** to the customer.
 
 ## How to cash out from another vendor?
 
