@@ -13,7 +13,7 @@
 
 ## Vendor Guide
 
-* [How to use the Sempo App as a Vendor](vendor-guide/using-the-app-as-a-vendor.md)
+* [Cómo usar la aplicación Sempo como proveedor](vendor-guide/using-the-app-as-a-vendor.md)
 * [Resolver los problemas con la aplicación](vendor-guide/solving-problems-with-the-app.md)
 * [Preguntas y Respuestas Para Comerciantes Sobre el Ciclo de Pago](vendor-guide/payment-schedule-advice.md)
 

@@ -1,14 +1,13 @@
-# How to use the Sempo App as a Vendor
+# Cómo usar la aplicación Sempo como proveedor
 
-## How can I open the app?
+## ¿Cómo puedo abrir la aplicación? 
 
-1. **Open** by clicking on the Sempo icon ![](../.gitbook/assets/screen-shot-2020-09-10-at-4.37.24-pm.png) 
-2. **Login** by entering your phone number and the PIN code that you received.  \(You will have received your PIN either in a welcome SMS, or it will be the last four digits of your phone number. Please check with the NGO or Field Partners to confirm.\) Click **Login** to proceed.
-3. **Passcode.** Next time you open the app you will be asked to enter your **Passcode.** Choose a code that is easy to remember and secure. Don't tell anyone.
+1. **Abrirla** haciendo clic en el icono de Sempo ![](../.gitbook/assets/screen-shot-2020-09-10-at-4.37.24-pm.png) 
+2. **Entra** al sistema introduciendo tu número de teléfono y tu código **PIN**. \(La primera vez que inicie sesión, su PIN serán los últimos cuatro dígitos de su número de teléfono. La próxima vez que abras la aplicación se te pedirá que introduzcas tu código de acceso. Elija un código que sea fácil de recordar y seguro. No se lo digas a nadie.\). Haga clic en Iniciar sesión para continuar.
 
 {% page-ref page="../mobile-app/app-navigation.md" %}
 
-## How to accept payments?
+## ¿Cómo acepto los pagos con la aplicación Sempo?
 
 {% embed url="https://www.youtube.com/watch?v=8\_JGUpLww9c" %}
 
