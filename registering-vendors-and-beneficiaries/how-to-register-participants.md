@@ -92,7 +92,7 @@ Please see the following guides:
 
 {% page-ref page="../mobile-app/using-the-app-as-a-beneficiary.md" %}
 
-{% page-ref page="../vendor-guide/using-the-app-as-a-vendor.md" %}
+{% page-ref page="../vendor-guide/vendor-guide/using-the-app-as-a-vendor.md" %}
 
 {% hint style="info" %}
 In addition to collecting data for registering someone as a participant in your program, you may also need to collect data to enable your organisation or Sempo to complete legally mandated[ "Know Your Customer"](../policies-and-security/kyc.md) checks. A participant can be registered but may not be able to receive or transact with funds if their KYC is incomplete.
