@@ -20,7 +20,7 @@ For guidance on how to register and train beneficiaries, please see below [benef
 ![Credit: Keith Parsons / Oxfam Aus](../.gitbook/assets/screen-shot-2020-09-11-at-7.22.24-am.png)
 
 {% hint style="info" %}
-You can [check your balance](../vendor-guide/guia-para-los-vendedores/using-the-app-as-a-vendor.md#how-to-check-balance) with a **Community Focal Person** or **any vendor.**  
+You can [check your balance](../vendor-guide/vendor-guide/using-the-app-as-a-vendor.md#how-to-check-balance) with a **Community Focal Person** or **any vendor.**  
 ![](../.gitbook/assets/screen-shot-2020-09-11-at-7.21.58-am.png)
 {% endhint %}
 
