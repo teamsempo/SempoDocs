@@ -6,7 +6,7 @@ This page explains the different types of transfers that you may see on the Semp
 
 ## **What are the different types of transfers?**
 
-* **Payment** - a transfer between [beneficiary and vendor](../mobile-app/using-the-app-as-a-beneficiary.md), or [vendor to vendor](../vendor-guide/using-the-app-as-a-vendor.md#how-to-cash-out-another-vendor)
+* **Payment** - a transfer between [beneficiary and vendor](../mobile-app/using-the-app-as-a-beneficiary.md), or [vendor to vendor](../vendor-guide/guia-para-los-vendedores/using-the-app-as-a-vendor.md#how-to-cash-out-another-vendor)
 * **Disbursement** - a transfer between NGO/Sempo and a beneficiary
 * **Reclamation -** a transfer when NGO/Sempo takes back or “reclaims” value from a beneficiary or vendor, because too much money has been incorrectly disbursed to them. \(While this isn’t technically a reversal of a transfer, it delivers the same effect.\) 
 * **Withdrawal -** a withdrawal of funds from a vendor, occuring at the same time as a transfer from a third party to the vendor, which will enable the vendor to “cash out” their credits into their preferred/local currency

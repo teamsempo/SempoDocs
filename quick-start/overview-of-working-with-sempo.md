@@ -98,7 +98,7 @@ Sempo will then organise trainings with you and your Field Partners to ensure yo
 * Using the Sempo Mobile App, in particular
   * [Installing the app](../mobile-app/installing-android-devices-with-the-sempo-app.md)
   * [Navigating the app](../mobile-app/app-navigation.md)
-  * [Using the app as a vendor](../vendor-guide/using-the-app-as-a-vendor.md)
+  * [Using the app as a vendor](../vendor-guide/guia-para-los-vendedores/using-the-app-as-a-vendor.md)
   * [Using the app as a beneficiary](../mobile-app/using-the-app-as-a-beneficiary.md)
 * Preparing the [best process for registering participants](../registering-vendors-and-beneficiaries/how-to-register-participants.md), so you can:
   * Deliver [vendor registration and training](../registering-vendors-and-beneficiaries/quick-overview-of-enrolling-vendors/)
