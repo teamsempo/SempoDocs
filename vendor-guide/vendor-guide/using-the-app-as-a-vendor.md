@@ -5,8 +5,6 @@
 1. **Abrirla** haciendo clic en el icono de Sempo ![](../../.gitbook/assets/screen-shot-2020-09-10-at-4.37.24-pm.png) 
 2. **Entra** al sistema introduciendo tu número de teléfono y tu código **PIN**. \(La primera vez que inicie sesión, su PIN serán los últimos cuatro dígitos de su número de teléfono. La próxima vez que abras la aplicación se te pedirá que introduzcas tu código de acceso. Elija un código que sea fácil de recordar y seguro. No se lo digas a nadie.\). Haga clic en Iniciar sesión para continuar.
 
-{% page-ref page="../../mobile-app/app-navigation.md" %}
-
 ## ¿Cómo acepto los pagos con la aplicación Sempo?
 
 {% embed url="https://www.youtube.com/watch?v=8\_JGUpLww9c" %}
@@ -47,19 +45,21 @@ Para el teléfono Kogan Agora XI, tienes que sostener la tarjeta contra el centr
 1. Vaya a la página de configuración y haga clic en "Exportar datos" 
 2. Introduce una dirección de correo electrónico y haz clic en el botón. Recibirás un correo electrónico con un enlace a una hoja de cálculo \(caduca en 24 horas\). Este contiene todas las transferencias de la cuenta con datos. Específicamente: Monto de la transferencia, Creado, Fecha resuelta, Tipo de transferencia, Uso de la transferencia, Estado de la transferencia.
 
-## How to update the App
+## Cómo actualizar la aplicación
 
-**1. When you have access to the internet, click on the "Play Store App"**
+**1.Cuando tengas acceso a Internet, haz clic en "Play Store App"**
 
 ![](../../.gitbook/assets/image%20%2827%29.png)
 
-**2. Search for 'Sempo' at the top of Play Store**
+**2. Busca "Sempo" en la parte superior del Play Store**
 
 ![](../../.gitbook/assets/image%20%2829%29.png)
 
-**3. When you see the Sempo App appear, click on Update. If you are prompted for a username and password, please use any google account details.**
+**3. Cuando veas aparecer la aplicación de Sempo, haz clic en Actualizar. Si se te pide un nombre de usuario y una contraseña, utiliza los datos de cualquier cuenta de Google.**
+
+
 
 ![](../../.gitbook/assets/image%20%2828%29.png)
 
-Note: If "Update" is not available but you see an "Open" button, that means you have access to the latest version of the app!
+Nota: Si "Actualizar" no está disponible pero ves un botón "Abrir", significa que tienes acceso a la última versión de la aplicación.
 
