@@ -1,9 +1,9 @@
-# Overview of Sempo
+# Visión general de Sempo
 
-Welcome to the Sempo platform! This training guide will take you step-by-step through the process of using Sempo's Platform for setting up and delivering a cash transfer program.
+¡Bienvenido a la plataforma Sempo! Esta guía de entrenamiento te llevará paso a paso a través del proceso de usar la Plataforma Sempo para establecer y entregar un programa de transferencia de dinero.
 
 {% hint style="info" %}
-You can always reach us at via Live Chat on the app or via email [help@withsempo.com](mailto:help@withsempo.com).
+Siempre puedes contactarnos a través del Chat en Vivo de la aplicación o por correo electrónico help@withsempo.com.
 {% endhint %}
 
 

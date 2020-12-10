@@ -11,24 +11,24 @@
 
 {% embed url="https://www.youtube.com/watch?v=8\_JGUpLww9c" %}
 
-1. Search for and open the Sempo app ![](../../.gitbook/assets/screen-shot-2020-09-10-at-4.37.24-pm.png) 
-2. Down the bottom right of the Sempo App, tap to select **Transaction Mode** ![](../../.gitbook/assets/1awqxppuohxec1qye0-c16alhcxvsdepdrnekeugjgq.png) 
-3. On the top of the screen there are three icons. Touch the icon on the right with the **cards**, ****to receive a payment by  card![](../../.gitbook/assets/screen-shot-2020-09-10-at-4.37.16-pm.png) 
-4. **Enter the total amount** that you wish to charge the customer. Then click **Charge**. ![](../../.gitbook/assets/charge.png) 
-5. **Select categories** of all products/services being purchased. If unsure, select "Other". Then click **Next.**  ![](../../.gitbook/assets/categories.png) 
-6. On the next screen, below the QR code, tap **Touch to Pay Card**. 
-7. Ask the beneficiary to **Hold their card** on the back of your phone for 5 seconds.  \(_Note: Where you have to hold your card will depend on your phone model.\)_![](../../.gitbook/assets/tap-card.png) 
-8. A **confirmation** screen will appear once the transaction is completed. ![](../../.gitbook/assets/confirmation.png) 
+1. Busca y abre la aplicación **Sempo** ![](../../.gitbook/assets/screen-shot-2020-09-10-at-4.37.24-pm.png) 
+2. Abajo en la parte inferior derecha de la aplicación de Sempo, toca para seleccionar **el modo de transacción** ![](../../.gitbook/assets/1awqxppuohxec1qye0-c16alhcxvsdepdrnekeugjgq.png) 
+3. En la parte superior de la pantalla hay tres iconos. Toca el icono de la derecha con las tarjetas, para recibir un pago con tarjeta![](../../.gitbook/assets/screen-shot-2020-09-10-at-4.37.16-pm.png) 
+4. Introduzca el importe total que desea cobrar al cliente. Luego haga clic en **Cargar**.  ![](../../.gitbook/assets/charge.png) 
+5. **Seleccione las categorías** de todos los productos/servicios que se compran. Si no está seguro, seleccione "Otros". Luego haga clic en "Siguiente".  ****![](../../.gitbook/assets/categories.png) 
+6. En la siguiente pantalla, debajo del código QR, toque Toque para pagar la tarjeta. 
+7. Pídele al beneficiario que sostenga su tarjeta en la parte trasera de tu teléfono por 5 segundos. _\(Nota: El lugar donde debe sostener su tarjeta dependerá del modelo de su teléfono\)._![](../../.gitbook/assets/tap-card.png)  
+8. Una vez completada la transacción, aparecerá una pantalla de confirmación.![](../../.gitbook/assets/confirmation.png) 
 
-In the case of **no internet connection**, the balance will update once the connection is restored. Simply go to your wallet screen ![](../../.gitbook/assets/wallet.png) and touch the balance field and pull it down to refresh.
+En caso de no tener conexión a Internet, el saldo se actualizará una vez que se restablezca la conexión. Simplemente vaya a la pantalla de su cartera ![](../../.gitbook/assets/wallet.png) y tocar el campo de equilibrio y bajarlo para refrescarlo.
 
 {% hint style="info" %}
-For the Kogan Agora XI phone, you need to hold the card against the middle of the back of the phone. 
+Para el teléfono Kogan Agora XI, tienes que sostener la tarjeta contra el centro de la parte trasera del teléfono.
 {% endhint %}
 
 {% page-ref page="../../mobile-app/mobile-app-faqs.md" %}
 
-## How to check a customer's balance?
+## ¿Cómo comprobar el saldo de un cliente?
 
 1. Open the Sempo App and select **Transaction Mode**![](../../.gitbook/assets/1awqxppuohxec1qye0-c16alhcxvsdepdrnekeugjgq.png) 
 2. There are three icons at the top of the screen. Touch the **left icon with the QR scanner symbol**.  ****![](../../.gitbook/assets/1b97ab-dobk8d9zysir3hztnqzgtbkw8zjowfe1o6qw%20%281%29.png) 

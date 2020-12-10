@@ -4,7 +4,7 @@
 
 ## Quick start
 
-* [Overview of Sempo](quick-start/quick-start/README.md)
+* [Visión general de Sempo](quick-start/quick-start/README.md)
   * [What is Sempo?](quick-start/quick-start/what-is-sempo.md)
   * [What does Sempo provide?](quick-start/quick-start/sempo-products-explained.md)
   * [How Sempo's payments work \(5 min video\)](quick-start/quick-start/sempo-payments-overview.md)
