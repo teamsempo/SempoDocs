@@ -11,7 +11,7 @@
   * [Quick FAQs](quick-start/quick-start/general-faqs.md)
 * [Working with Sempo](quick-start/overview-of-working-with-sempo.md)
 
-## Vendor Guide
+## Guía para los vendedores <a id="vendor-guide"></a>
 
 * [Guía para los vendedores](vendor-guide/vendor-guide/README.md)
   * [Cómo usar la aplicación Sempo como proveedor](vendor-guide/vendor-guide/using-the-app-as-a-vendor.md)
