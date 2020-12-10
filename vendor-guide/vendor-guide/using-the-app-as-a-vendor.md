@@ -26,45 +26,26 @@ En caso de no tener conexión a Internet, el saldo se actualizará una vez que s
 Para el teléfono Kogan Agora XI, tienes que sostener la tarjeta contra el centro de la parte trasera del teléfono.
 {% endhint %}
 
-{% page-ref page="../../mobile-app/mobile-app-faqs.md" %}
-
 ## ¿Cómo comprobar el saldo de un cliente?
 
-1. Open the Sempo App and select **Transaction Mode**![](../../.gitbook/assets/1awqxppuohxec1qye0-c16alhcxvsdepdrnekeugjgq.png) 
-2. There are three icons at the top of the screen. Touch the **left icon with the QR scanner symbol**.  ****![](../../.gitbook/assets/1b97ab-dobk8d9zysir3hztnqzgtbkw8zjowfe1o6qw%20%281%29.png) 
-3. **Hold the customer's** card to the back of the phone.  ![](../../.gitbook/assets/teal-oxfam-cards-final-copy.png) 
-4. **The balance will appear on your phone. Show the balance of the card** to the customer.
+1. Abre la aplicación de Sempo y selecciona **el modo de transacción**![](../../.gitbook/assets/1awqxppuohxec1qye0-c16alhcxvsdepdrnekeugjgq.png) 
+2.  Hay tres iconos en la parte superior de la pantalla. Toque el icono izquierdo con el símbolo del escáner QR.   ****![](../../.gitbook/assets/1b97ab-dobk8d9zysir3hztnqzgtbkw8zjowfe1o6qw%20%281%29.png) 
+3. Sostenga la tarjeta del cliente contra la parte posterior del teléfono.
 
-## How to cash out from another vendor?
+![](https://lh6.googleusercontent.com/huv73XxMoUKE39Qlc0fXgoa62i2mNChEkZgSLNtkCunCnT0YmaTAbNkqcfmBUbgYpYoenDQhqLOXj4uBIZ4IUcPfBJz05o8g33PTrVg72nPOqH6WL-o-UupI65VcMOi8b1-iw0Yf)\*\*\*\*
 
-_Do you need cash sooner than the agreed pay cycle?_
+**4.** El saldo aparecerá en su teléfono. Muestre el saldo de la tarjeta al cliente.
 
-1. **Go to another vendor** and check if they can pay the cash out in the amount you asked for.
-2. Open the Sempo app and click the **transact mode** ![](../../.gitbook/assets/1awqxppuohxec1qye0-c16alhcxvsdepdrnekeugjgq.png) 
-3. Use a slider on top of the screen. **Slide it to the middle.** ![](../../.gitbook/assets/middle-slider.png) 
-4. **Enter the amount** you wish to cash out and click **send.**  ![](../../.gitbook/assets/send.png) 
-5. **Show the QR code** to the vendor. The code contains the details of the transaction. ![](../../.gitbook/assets/screen-shot-2020-09-10-at-4.58.10-pm.png) 
+## Cómo dar un reembolso
 
-## How to **cash out another vendor?**
+ Si necesita reembolsar a un cliente, por favor contacte con la Organización. Dígale a la organización el nombre del cliente, y la cantidad exacta que se debe. La organización puede revertir la transferencia.
 
-1. Open the Sempo app and click the **transact mode** ![](../../.gitbook/assets/1awqxppuohxec1qye0-c16alhcxvsdepdrnekeugjgq.png)
-2. Use a slider on top of the screen. **Slide it to the left.** ![](../../.gitbook/assets/1b97ab-dobk8d9zysir3hztnqzgtbkw8zjowfe1o6qw%20%281%29.png) ****Position the code in a way that fits in the square on the screen.
-3. **Payout cash** in the amount you received in your digital wallet. ![](../../.gitbook/assets/screen-shot-2020-09-10-at-5.00.21-pm.png) 
-4. **Register in your books.** Remember to register the pay out in your own books. ![](../../.gitbook/assets/screen-shot-2020-09-10-at-5.01.13-pm.png) 
-
-## How to give a refund
-
-If a vendor needs to refund a customer \(eg. if they accidentally overcharged\), the vendor needs to:
-
-1. Notify the organisation managing the cash transfer program of the name of the customer, and the exact amount owed. 
-2. The organisation and/or Sempo can perform a reclamation of the amount from the vendor, and then disburse the owed amount to the customer
-
-## Exporting vendor data
+## Exportar datos de proveedores 
 
 ![](../../.gitbook/assets/export.png)
 
-1. Go to the settings page and click "Export Data"
-2. Enter an email address and click the button. You will receive an email with a spreadsheet link \(expires in 24 hours\). This contains all transfers on the account with data. Specifically: Transfer Amount, Created, Resolved Date, Transfer Type, Transfer Use, Transfer Status.
+1. Vaya a la página de configuración y haga clic en "Exportar datos" 
+2. Introduce una dirección de correo electrónico y haz clic en el botón. Recibirás un correo electrónico con un enlace a una hoja de cálculo \(caduca en 24 horas\). Este contiene todas las transferencias de la cuenta con datos. Específicamente: Monto de la transferencia, Creado, Fecha resuelta, Tipo de transferencia, Uso de la transferencia, Estado de la transferencia.
 
 ## How to update the App
 
