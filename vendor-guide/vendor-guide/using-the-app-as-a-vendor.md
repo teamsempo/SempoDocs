@@ -7,8 +7,6 @@
 
 ## ¿Cómo acepto los pagos con la aplicación Sempo?
 
-{% embed url="https://www.youtube.com/watch?v=8\_JGUpLww9c" %}
-
 1. Busca y abre la aplicación **Sempo** ![](../../.gitbook/assets/screen-shot-2020-09-10-at-4.37.24-pm.png) 
 2. Abajo en la parte inferior derecha de la aplicación de Sempo, toca para seleccionar **el modo de transacción** ![](../../.gitbook/assets/1awqxppuohxec1qye0-c16alhcxvsdepdrnekeugjgq.png) 
 3. En la parte superior de la pantalla hay tres iconos. Toca el icono de la derecha con las tarjetas, para recibir un pago con tarjeta![](../../.gitbook/assets/screen-shot-2020-09-10-at-4.37.16-pm.png) 
