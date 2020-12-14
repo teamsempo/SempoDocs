@@ -21,7 +21,7 @@
 
 8. Una vez completada la transacción, aparecerá una pantalla de confirmación.![](../../.gitbook/assets/confirmation.png) 
 
-En caso de no tener conexión a Internet, el saldo se actualizará una vez que se restablezca la conexión. Simplemente vaya a la pantalla de su cartera ![](../../.gitbook/assets/wallet.png) y tocar el campo de equilibrio y bajarlo para refrescarlo.
+En caso de no tener conexión a Internet, el saldo se actualizará una vez que se restablezca la conexión. Simplemente vaya a la pantalla de su cartera ![](../../.gitbook/assets/wallet.png)y toca la pantalla y bájala para refrescarla.
 
 {% hint style="info" %}
 Para el teléfono Kogan Agora XI, tienes que sostener la tarjeta contra el centro de la parte trasera del teléfono.
@@ -30,22 +30,22 @@ Para el teléfono Kogan Agora XI, tienes que sostener la tarjeta contra el centr
 ## ¿Cómo comprobar el saldo de un cliente?
 
 1. Abre la aplicación de Sempo y selecciona **el modo de transacción**![](../../.gitbook/assets/1awqxppuohxec1qye0-c16alhcxvsdepdrnekeugjgq.png) 
-2.  Hay tres iconos en la parte superior de la pantalla. Toque el icono izquierdo con el símbolo del escáner QR.   ****![](../../.gitbook/assets/1b97ab-dobk8d9zysir3hztnqzgtbkw8zjowfe1o6qw%20%281%29.png) 
-3. Sostenga la tarjeta del cliente contra la parte posterior del teléfono.
+2. Hay tres iconos en la parte superior de la pantalla. Toca el icono izquierdo con el símbolo del escáner QR   ****![](../../.gitbook/assets/1b97ab-dobk8d9zysir3hztnqzgtbkw8zjowfe1o6qw%20%281%29.png) 
+3. Sostén la tarjeta del cliente contra la parte posterior del teléfono.
 
-![](https://lh6.googleusercontent.com/huv73XxMoUKE39Qlc0fXgoa62i2mNChEkZgSLNtkCunCnT0YmaTAbNkqcfmBUbgYpYoenDQhqLOXj4uBIZ4IUcPfBJz05o8g33PTrVg72nPOqH6WL-o-UupI65VcMOi8b1-iw0Yf)\*\*\*\*
+   ![](https://lh6.googleusercontent.com/huv73XxMoUKE39Qlc0fXgoa62i2mNChEkZgSLNtkCunCnT0YmaTAbNkqcfmBUbgYpYoenDQhqLOXj4uBIZ4IUcPfBJz05o8g33PTrVg72nPOqH6WL-o-UupI65VcMOi8b1-iw0Yf)\*\*\*\*
 
-**4.** El saldo aparecerá en su teléfono. Muestre el saldo de la tarjeta al cliente.
+**4.** El saldo aparecerá en tu teléfono. Muestra el saldo de la tarjeta al cliente.
 
 ## Cómo dar un reembolso
 
- Si necesita reembolsar a un cliente, por favor contacte con la Organización. Dígale a la organización el nombre del cliente, y la cantidad exacta que se debe. La organización puede revertir la transferencia.
+Si necesitas reembolsar a un cliente, por favor contacta con la Organización. Di a la organización el nombre del cliente, y la cantidad exacta que se debe regresar. La organización puede revertir la transferencia.
 
 ## Exportar datos de proveedores 
 
 ![](../../.gitbook/assets/export.png)
 
-1. Vaya a la página de configuración y haga clic en "Exportar datos" 
+1. Ve a la página de configuración y haz clic en "Exportar datos".
 2. Introduce una dirección de correo electrónico y haz clic en el botón. Recibirás un correo electrónico con un enlace a una hoja de cálculo \(caduca en 24 horas\). Este contiene todas las transferencias de la cuenta con datos. Específicamente: Monto de la transferencia, Creado, Fecha resuelta, Tipo de transferencia, Uso de la transferencia, Estado de la transferencia.
 
 ## Cómo actualizar la aplicación
@@ -64,5 +64,5 @@ Para el teléfono Kogan Agora XI, tienes que sostener la tarjeta contra el centr
 
 ![](../../.gitbook/assets/image%20%2828%29.png)
 
-Nota: Si "Actualizar" no está disponible pero ves un botón "Abrir", significa que tienes acceso a la última versión de la aplicación.
+Nota: Si "Actualizar" no está disponible pero ves un botón "Abrir", significa que ya tienes acceso a la última versión de la aplicación.
 
