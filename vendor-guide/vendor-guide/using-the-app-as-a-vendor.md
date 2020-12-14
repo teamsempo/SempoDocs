@@ -37,7 +37,7 @@ Para el teléfono Kogan Agora XI, tienes que sostener la tarjeta contra el centr
 
 **4.** El saldo aparecerá en tu teléfono. Muestra el saldo de la tarjeta al cliente.
 
-## Cómo dar un reembolso
+## **¿Cómo dar un reembolso?**
 
 Si necesitas reembolsar a un cliente, por favor contacta con la Organización. Di a la organización el nombre del cliente, y la cantidad exacta que se debe regresar. La organización puede revertir la transferencia.
 
@@ -48,17 +48,17 @@ Si necesitas reembolsar a un cliente, por favor contacta con la Organización. D
 1. Ve a la página de configuración y haz clic en "Exportar datos".
 2. Introduce una dirección de correo electrónico y haz clic en el botón. Recibirás un correo electrónico con un enlace a una hoja de cálculo \(caduca en 24 horas\). Este contiene todas las transferencias de la cuenta con datos. Específicamente: Monto de la transferencia, Creado, Fecha resuelta, Tipo de transferencia, Uso de la transferencia, Estado de la transferencia.
 
-## Cómo actualizar la aplicación
+## **¿Cómo actualizar la aplicación?**
 
-**1.Cuando tengas acceso a Internet, haz clic en "Play Store App"**
+1.Cuando tengas acceso a Internet, haz clic en "Play Store App"
 
 ![](../../.gitbook/assets/image%20%2827%29.png)
 
-**2. Busca "Sempo" en la parte superior del Play Store**
+2. Busca "Sempo" en la parte superior del Play Store
 
 ![](../../.gitbook/assets/image%20%2829%29.png)
 
-**3. Cuando veas aparecer la aplicación de Sempo, haz clic en Actualizar. Si se te pide un nombre de usuario y una contraseña, utiliza los datos de cualquier cuenta de Google.**
+3. Cuando veas aparecer la aplicación de Sempo, haz clic en Actualizar. Si se te pide un nombre de usuario y una contraseña, utiliza los datos de cualquier cuenta de Google.
 
 
 
