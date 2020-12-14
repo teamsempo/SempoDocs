@@ -2,18 +2,23 @@
 
 ## ¿Cómo puedo abrir la aplicación? 
 
-1. **Abrirla** haciendo clic en el icono de Sempo ![](../../.gitbook/assets/screen-shot-2020-09-10-at-4.37.24-pm.png) 
-2. **Entra** al sistema introduciendo tu número de teléfono y tu código **PIN**. \(La primera vez que inicie sesión, su PIN serán los últimos cuatro dígitos de su número de teléfono. La próxima vez que abras la aplicación se te pedirá que introduzcas tu código de acceso. Elija un código que sea fácil de recordar y seguro. No se lo digas a nadie.\). Haga clic en Iniciar sesión para continuar.
+1. **Abrir** haciendo clic en el icono de Sempo ![](../../.gitbook/assets/screen-shot-2020-09-10-at-4.37.24-pm.png) 
+2. **Entra** al sistema introduciendo tu número de teléfono y tu código **PIN**. \(La primera vez que inicies sesión, sutu PIN serán los últimos cuatro dígitos de stu número de teléfono. La próxima vez que abras la aplicación se te pedirá que introduzcas tu código de acceso. Elija un código que sea fácil de recordar y seguro. No se lo digases a nadie.\). Hagaz clic en Iniciar sesión para continuar.
 
 ## ¿Cómo acepto los pagos con la aplicación Sempo?
 
 1. Busca y abre la aplicación **Sempo** ![](../../.gitbook/assets/screen-shot-2020-09-10-at-4.37.24-pm.png) 
 2. Abajo en la parte inferior derecha de la aplicación de Sempo, toca para seleccionar **el modo de transacción** ![](../../.gitbook/assets/1awqxppuohxec1qye0-c16alhcxvsdepdrnekeugjgq.png) 
 3. En la parte superior de la pantalla hay tres iconos. Toca el icono de la derecha con las tarjetas, para recibir un pago con tarjeta![](../../.gitbook/assets/screen-shot-2020-09-10-at-4.37.16-pm.png) 
-4. Introduzca el importe total que desea cobrar al cliente. Luego haga clic en **Cargar**.  ![](../../.gitbook/assets/charge.png) 
-5. **Seleccione las categorías** de todos los productos/servicios que se compran. Si no está seguro, seleccione "Otros". Luego haga clic en "Siguiente".  ****![](../../.gitbook/assets/categories.png) 
-6. En la siguiente pantalla, debajo del código QR, toque Toque para pagar la tarjeta. 
-7. Pídele al beneficiario que sostenga su tarjeta en la parte trasera de tu teléfono por 5 segundos. _\(Nota: El lugar donde debe sostener su tarjeta dependerá del modelo de su teléfono\)._![](../../.gitbook/assets/tap-card.png)  
+4. Introduce el importe total que deseas cobrar al cliente. Luego haz clic en Cargar. ![](../../.gitbook/assets/charge.png) 
+5. Seleccione las categorías de todos los productos/servicios que se compran. Si no estás seguro, selecciona "Otros". Luego haz clic en "Siguiente".  ****![](../../.gitbook/assets/categories.png) 
+6. En la siguiente pantalla, debajo del código QR, haz clic en Toque para pagar la tarjeta.
+
+7. Pide al comprador que sostenga su tarjeta en la parte trasera de tu teléfono por 5 segundos. \(Nota: El lugar donde debe sostener su tarjeta dependerá del modelo de su teléfono\). 
+
+   ![](../../.gitbook/assets/tap-card.png)  
+ 
+
 8. Una vez completada la transacción, aparecerá una pantalla de confirmación.![](../../.gitbook/assets/confirmation.png) 
 
 En caso de no tener conexión a Internet, el saldo se actualizará una vez que se restablezca la conexión. Simplemente vaya a la pantalla de su cartera ![](../../.gitbook/assets/wallet.png) y tocar el campo de equilibrio y bajarlo para refrescarlo.
