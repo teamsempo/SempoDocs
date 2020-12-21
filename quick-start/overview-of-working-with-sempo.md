@@ -45,13 +45,15 @@ During the initial kick-off meeting with Sempo for project design, we will discu
 
 | **Category** | Question to discuss |
 | :--- | :--- |
+| **Currency**  | What is the currency that we will be distributing to beneficiaries?  |
+|  | Into what currency will we allow vendors to "cash-out"?  |
+| **Cash Out Process**  | How would you prefer that we "cash out" vendors? \(e.g. transferring to their bank accounts\) |
+|  | Frequency of "cashing out" of vendors? \(e.g. weekly, bi-weekly\) |
+|  | Will we enable vendors to cash each other out? If so, how many vendors will be enabled to do this? |
+|  | Will we allow beneficiaries to "cash out"? |
 | **Participants** | How will you be identifying and selecting participants? |
 | \*\*\*\* | What will be the total number of vendors, per location? |
 |  | How much will be disbursed to beneficiaries? How often? \(e.g. $100 USD per month\) |
-|  | What is the currency that we will be "cashing out" vendors into? |
-|  | How would you and vendors prefer that we "cash out" vendors? \(e.g. transferring to their bank accounts\) |
-|  | Frequency of "cashing out" of vendors? \(e.g. weekly, bi-weekly\) |
-|  | Will we enable vendors to cash each other out? If so, how many vendors will be enabled to do this? |
 |  | What vendor incentive will we offer? When? How? \(e.g. $5 USD at start of project, transferred to bank accounts\) |
 | **Timeline** | When are you going to be starting disbursements to beneficiaries, in each location? |
 |  | What is the end date of disbursements, in each location? |
@@ -64,9 +66,9 @@ During the initial kick-off meeting with Sempo for project design, we will discu
 |  | Will you be needing to procure SIMs to provide internet connection to vendors? |
 | **Processes and Tools** | What processes and tools do you plan to use for pre-program interviewing of participants \(e.g. KoboToolbox, Commcare\)? |
 |  | Sempo can support [four ways to register participants. ](https://docs.withsempo.com/enrolling-vendors/how-to-register-participants)What way do you plan to use for registering participants? \(e.g. KoboToolbox, CSV\)? |
-| **Identity verification for KYC** | Will vendors have access to current government-issued Photo ID, for the purposes of[ Know Your Customer \(KYC\) checks?](../policies-and-security/kyc.md) |
-|  | Will vendors have access to proof of bank account ownership, for the purposes of [Know Your Customer \(KYC\) checks?](../policies-and-security/kyc.md) |
-|  | Do you expect many vendors to need to cash out more than $500 per week or $1000 AUD per month? \([They will need further verification\)](../policies-and-security/kyc.md) |
+| **Identity verification for KYC** | Who will be conducting KYC on the vendors? \(e.g. Sempo or another financial services institution\) |
+|  | Are participants likely to have access to the required identity documentation that Sempo needs for[ Know Your Customer \(KYC\) checks?](../policies-and-security/kyc.md) |
+|  | Will your Field Partners or on-the-ground staff have sufficient time and resourcing \(during registration of program participants\) to collect identity documentation from participants to enable Sempo to complete KYC? |
 | **Digital literacy**  | How familiar are you and your team with using Android smartphones?  \(This helps us plan for tailoring training.\) |
 |  | How familiar are your Field Partners with using Android smartphones? \(This helps us plan for tailoring training.\) |
 |  | How familiar are vendors with using smartphones or feature phones? |
@@ -76,9 +78,9 @@ During the initial kick-off meeting with Sempo for project design, we will discu
 |  | What ongoing support will be provided? \(e.g. customer support hotline, town halls\) |
 | **M&E Frameworks** | What metrics and reports do you anticipate you will want and need from the Sempo Analytics Dashboard? \(Sempo will make sure that we train you in using the [analytics dashboard](../monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md) and [exporting the data y](../monitoring-and-analysing-data/exporting-to-excel.md)ou need to help you with your reports.\) |
 |  | What on-the-ground monitoring will you be doing? |
-| **Ways of Working** | What is the preferred meeting tool for us to use? \(e.g. Skype, Zoom\) |
+| **Ways of Working** | Sempo's team is based in Melbourne, Australia. When should we have regular meetings with you? \(We suggest 2 x 30 min or 1 x 60 min meeting\) |
+| \*\*\*\* | What is the preferred meeting tool for us to use? \(e.g. Skype, Zoom\) |
 |  | What is the preferred way for us to store data that we share with each other in compliance with privacy laws? \(We suggest GDrive\) |
-|  | What is your preferred cadence for meeting with us? \(We suggest weekly 45 min meetings during set-up\) |
 
 In reality, a lot of these features may change during the course of our engagement. But we find it helpful to discuss this list of characteristics at the start of the project and on an ongoing basis, to manage expectations.
 
