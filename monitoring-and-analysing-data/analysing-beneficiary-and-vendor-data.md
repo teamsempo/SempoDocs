@@ -6,29 +6,46 @@ It is also important to conduct on-the-ground monitoring to ensure that the prog
 
 ## Analytics Dashboard Overview
 
-![](../.gitbook/assets/image%20%2816%29.png)
-
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 The analytics page includes:
 
 1. A "Master Wallet" that summarises the total amount disbursed, and total amount remaining
-2. A Live Transaction Feed
+2. A Live Transaction Feed \(showing payments in real-time\)
 3. A section to analyse Transfers 
 4. A section to analyse Participants
 
+## Master Wallet
+
+The Master Wallet displays:
+
+* “Current balance” \(being the funds the NGO has in its Sempo Wallet for distribution to participants\)
+* “In Circulation” amount \(all funds that have already been distributed to vendors and beneficiaries on their cards or Apps\), and 
+* “Withdrawn” \(the amount that has been withdrawn from the Sempo Platform, representing the amount of fiat currency transferred to vendors\) 
+
+![Snippet of Master Wallet when amounts are in circulation/withdrawn](https://lh4.googleusercontent.com/-tsqgLxVM8cVhENePiyQDFgvMwWc1sz1E1RAP1313FF0HITcBVgGTXbtgzYJagmcVioLkvE07_aX-XQ_HvHfbd8p4J6jN18vVTfMSG044icf1oyj8Ik8Pqv38-W3YDCuXZS59Dbs)
+
+## Live Feed
+
+The Sempo Dashboard displays real-time payment transactions on the “Live Feed”:
+
+![Demo Dashboard, with Live Feed Expanded and Highlighted in Purple](https://lh5.googleusercontent.com/crMk7cp_78m489XMukfrSqUWC5yXyJzjQn1KOvsJtMPRnX5HV2J3NMtUKJ61-fdJO7Tm1PvSbUEji2CBtdXIn3een8ZugQid4qpoA63MLXKbiwKJV186T9NKqLZlOSvVmoTTCZAO)
+
+This “live feed” of real-time transactions can be minimised by clicking on the arrows on the top right of the Live feed.
+
 ## Analysing Transfers
 
-Within the Transfers section, you can:
+The Transfer section enables powerful analysis of all transaction records, by any custom attribute you upload data on. Within the Transfers section, you can:
 
+* Filter the displayed data by any attributes \(e.g. gender of participant, what the participant spent the funds on “transfer usage”\)
+* Group the data by any attributes \(e.g. transfer usage, participant type etc\). When you group, the segmented data will appear on the charts in this section
 * Select the time period you want to analyse
-* Filter the Data by certain attributes \(e.g. transfer usage, gender, transfer type or participant type\). When you filter, the filtered data will appear on the charts. 
-* Group the data by certain attributes \(e.g. transfer usage, gender, transfer type or participant type etc\). When you group, the segmented data will appear on the charts in this section.
-* Show total Volume of transfers over time. \(Just click "Volume"\)
-* Show the total Transfer Count over time. \(Just click "Transfer Count"\)
-* Show  unique participants over time. \(Just click "Unique Participants"\)
-* Show Average Volume over time. \(Just click "Average Volume"\)
-* Show Average Count over time. \(Just click "Average Count"\)
+* Change the charts to display different desired metrics - in particular: 
+  * Click “Volume” to see the total amount transferred over the selected time period 
+  * Click “Transfer Count” show the total number of transfers over the time period
+  * Click “Unique Participants” to show unique participants over the time period
+  * Click “Average Volume” to see average volume of funds transferred per participant over the time period
+  * Click “Average Count” to see average number of transfers per participant \(over the time period\)
 
 ![](../.gitbook/assets/screen-shot-2020-09-10-at-1.11.12-pm.png)
 
