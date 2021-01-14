@@ -39,22 +39,39 @@ You may decide to collect details on participants by filling out a spreadsheet \
 If you wish to enroll participants whose details are stored in a spreadsheet, follow the below steps
 
 * **Step 1:** Go to the “Accounts’’ tab
-* **Step 2:** Select Add New Account, as described above.
-* **Step 3:** This time, click on “upload spreadsheet”
+
+![](../.gitbook/assets/screen-shot-2021-01-14-at-2.35.42-pm%20%281%29.png)
+
+* **Step 2:** Select "Import", as described above.
+
+![](../.gitbook/assets/screen-shot-2021-01-14-at-2.35.50-pm%20%281%29.png)
+
+* **Step 3:** This time, click on “Upload XLSX/CSV”
+
+![](../.gitbook/assets/screen-shot-2021-01-14-at-2.36.05-pm.png)
+
+* **Step 4:** Click or drag to upload the spreadsheet
+
+![](../.gitbook/assets/screen-shot-2021-01-14-at-2.44.51-pm.png)
+
+* **Step 5:** Follow the prompts by selecting each column that matches.
+
+![](../.gitbook/assets/screen-shot-2021-01-14-at-2.45.23-pm.png)
+
+* **Step 6:** You can add custom columns as required and edit labels. 
+
+![](../.gitbook/assets/screen-shot-2021-01-14-at-2.45.38-pm.png)
+
+* **Step 7:** Finally, select the _first row_ of user data.
 
 Spreadsheets must contain columns with: 
 
 * recipient's first names, 
 * recipients last names and; 
 * either their phone number or transfer card id.
+* account\_types _\(custom\):_ beneficiary, vendor, supervendor, token\_agent, group\_account
 
-Custom fields such as age and gender can also be added, and used to filter users.
-
-Follow the steps described on the screen.
-
-{% hint style="info" %}
-We can deactivate this functionality to avoid risk and complexity. Please ask Sempo to reactivate this by emailing us at team@withsempo.com.  
-{% endhint %}
+Custom fields such as age and gender can also be added, and used to filter users. Default account types are beneficiaries.
 
 ## 3. Sempo Dashboard
 
