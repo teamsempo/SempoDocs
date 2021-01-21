@@ -28,6 +28,7 @@
 * [Inviting someone to access the Dashboard](sempo-dashboard/accessing-the-dashboard-1/README.md)
   * [Changing a User's Access Tier](sempo-dashboard/accessing-the-dashboard-1/changing-a-users-access-tier.md)
 * [Logging into the Dashboard](sempo-dashboard/common-login-errors.md)
+* [Creating New Projects](sempo-dashboard/creating-new-projects.md)
 
 ## Using the Sempo App and Cards <a id="mobile-app"></a>
 
