@@ -50,9 +50,9 @@ For **Vendor KYC** the required fields are:
 
 There are many optional fields. The fields that might be useful are:
 
-* **“Is Vendor”:** \(Checkbox only\) - whether the participant is a Vendor or Beneficiary. Defaults to “false” if not provided.
-* **“Location”:** The text address or town of the participant, for example “Pango”
-* **“GPS”:** The GPS coordinates of the participant, provided using Kobo’s “Point” field.
+* **“is\_vendor”:** \(Checkbox only\) - whether the participant is a Vendor or Beneficiary. Defaults to “false” if not provided.
+* **“location”:** The text address or town of the participant, for example “Pango”
+* **“gps\_location”:** The GPS coordinates of the participant, provided using Kobo’s “Point” field.
 
 ## Linking a form to Sempo
 
