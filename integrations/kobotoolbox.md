@@ -67,7 +67,7 @@ There are many optional fields. The fields that might be useful are:
 3. Find the box titled ‘Kobo Toolbox Credentials’. 
 4. Copy the Username and Password.
 
-![Settings Page](../.gitbook/assets/1fxclektivcrbc2gu__psbridlcgfby0pptrlljcw7q.png)
+![Settings Page](../.gitbook/assets/Screen Shot 2021-02-11 at 4.36.29 PM.png)
 
 ### Step 2 - Connect your Form
 
