@@ -64,10 +64,21 @@ There are many optional fields. The fields that might be useful are:
 
 1. Go to your Sempo deployment \(app.withsempo.com\)
 2. Click ‘Settings’ on the side bar.
-3. Find the box titled ‘Kobo Toolbox Credentials’. 
-4. Copy the Username and Password.
+3. Find the box titled ‘Integration URL’. 
+4. Ensure the "Preproces Inputs", and "Return Raw on Error" boxes are checked.  
+5. Copy the integration URL from the textbox.
 
-![Settings Page](../.gitbook/assets/Screen Shot 2021-02-11 at 4.36.29 PM.png)
+#### Allow Modifications
+
+The Kobo integration can be configured to allow modifications to existing users. If you submit a form that has the same Phone or Card ID as an existing user, it’ll update the existing user’s settings. This is useful for providing more KYC information at a later date
+
+{% hint style="warning" %}
+WARNING: This setting should only be turned on when it’s needed, as it makes it easier to accidently use the same Touch-to-pay card twice on two different users.
+{% endhint %}
+
+To turn this setting on, ensure "Allow User Updates" is checked in step 4, in addition to the other required fields.
+
+![Settings Page](../.gitbook/assets/settings-page.png)
 
 ### Step 2 - Connect your Form
 
@@ -80,16 +91,14 @@ There are many optional fields. The fields that might be useful are:
 
 1. Complete the following fields:
 2. Name: Sempo
-3. Endpoint URL: [https://yourdomain.withsempo.com/api/v1/user/?preprocess=true](https://yourdomain.withsempo.com/api/v1/user/?preprocess=true)
+3. Endpoint URL: **URL Copied from Step 1**
 4. Ensure ‘Enabled’ is CHECKED
 5. Type: JSON
-6. Security: Basic Authorization
-7. Username: your username from Step 2.
-8. Password: your password from Step 2.
-9. Scroll down and click ‘Create’
-10. You have now connected your KoboToolbox form to Sempo!
+6. Security: No Authorization
+7. Scroll down and click ‘Create’
+8. You have now connected your KoboToolbox form to Sempo!
 
-![](../.gitbook/assets/screen-shot-2020-09-10-at-5.25.35-pm.png)
+![](../.gitbook/assets/KoboForm.png)
 
 ## Advanced Kobo Integration Features
 
@@ -116,20 +125,6 @@ This can be manually updated on Sempo to be recognised as just “**Phone**”.
 {% hint style="info" %}
 For now, this needs to be done by a Sempo team member.
 {% endhint %}
-
-### Allow Modifications
-
-The Kobo integration can be configured to allow modifications to existing users. If you submit a form that has the same Phone or Card ID as an existing user, it’ll update the existing user’s settings. This is useful for providing more KYC information at a later date
-
-{% hint style="warning" %}
-WARNING: This setting should only be turned on when it’s needed, as it makes it easier to accidently use the same Touch-to-pay card twice on two different users.
-{% endhint %}
-
-To turn this setting on, add “&allow\_as\_update=true” to the webhook URL. For example: `https://yourdomain.withsempo.com/api/v1/user/?preprocess=true&allow_as_update=true`
-
-### Return raw data on error
-
-Sometimes it can be useful to know what Kobo is actually sending to the system. We now have a setting that will return a message containing exactly what Kobo sent, if there’s an error. To turn this setting on, add “&return\_raw\_on\_error=true” to the webhook URL. For example: `https://yourdomain.withsempo.com/api/v1/user/?preprocess=true&return_raw_on_error=true`
 
 ### Putting it all together
 
