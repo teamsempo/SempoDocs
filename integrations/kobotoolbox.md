@@ -126,7 +126,3 @@ This can be manually updated on Sempo to be recognised as just “**Phone**”.
 For now, this needs to be done by a Sempo team member.
 {% endhint %}
 
-### Putting it all together
-
-You can combine any of the above advanced settings together in a single webhook URL. For example: `https://yourdomain.withsempo.com/api/v1/user/?preprocess=true&allow_as_update=true&return_raw_on_error=true`
-
