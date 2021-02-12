@@ -6,7 +6,7 @@ It is also important to conduct on-the-ground monitoring to ensure that the prog
 
 ## Analytics Dashboard Overview
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2816%29%20%281%29.png)
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
