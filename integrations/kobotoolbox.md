@@ -58,10 +58,6 @@ There are many optional fields. The fields that might be useful are:
 
 ### Step 1 - Get your Kobo Credentials:
 
-{% hint style="info" %}
-**Note:** your sub-domain might be different for your organisation
-{% endhint %}
-
 1. Go to your Sempo deployment \(app.withsempo.com\)
 2. Click ‘Settings’ on the side bar.
 3. Find the box titled ‘Integration URL’. 
@@ -73,7 +69,7 @@ There are many optional fields. The fields that might be useful are:
 The Kobo integration can be configured to allow modifications to existing users. If you submit a form that has the same Phone or Card ID as an existing user, it’ll update the existing user’s settings. This is useful for providing more KYC information at a later date
 
 {% hint style="warning" %}
-WARNING: This setting should only be turned on when it’s needed, as it makes it easier to accidently use the same Touch-to-pay card twice on two different users.
+WARNING: This setting should only be turned on when it’s needed, as it makes it easier to accidentally use the same Touch-to-pay card twice on two different users.
 {% endhint %}
 
 To turn this setting on, ensure "Allow User Updates" is checked in step 4, in addition to the other required fields.
@@ -98,7 +94,7 @@ To turn this setting on, ensure "Allow User Updates" is checked in step 4, in ad
 7. Scroll down and click ‘Create’
 8. You have now connected your KoboToolbox form to Sempo!
 
-![](../.gitbook/assets/KoboForm.png)
+![](https://github.com/teamsempo/SempoDocs/tree/37d2dc402e629a993ecd0df4d070543e264c4f92/.gitbook/assets/KoboForm.png)
 
 ## Advanced Kobo Integration Features
 

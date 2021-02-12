@@ -75,6 +75,7 @@
 
 * [Sempo API \(Beta\)](integrations/sempo-api-beta.md)
 * [KoboToolbox](integrations/kobotoolbox.md)
+* [Commcare](integrations/commcare.md)
 * [Don't see an integration? Contact Us!](mailto:team@withsempo.com)
 
 ## Policies & Security
