@@ -18,6 +18,17 @@ The platform offers four levels of access:
   * Who this tier is for: Donors, finance managers, monitoring and evaluation parties etc.
   * Who view only can invite: no-one.
 
+### Admin Access Matrix
+
+| **Access Tier** | Transfers | **Accounts** | Users | Project | Admin Permissions | Filters | Metrics | Dataset Import | Export | Token | Transfer Usage |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Superadmin | View, Create \(unlimited\), Edit | View, Create, Edit | View, Create, Edit, Delete | View, Create, Edit | View, Create, Edit, Delete | View, Create, Edit, Delete | View | Create | View, Create | View, Create | Create, View |
+| Admin | View, Create \(amount up to project limit\), Edit | View, Create, Edit | View, Edit | View | View, Create | View, Create, Edit | View | Create | View, Create | View, Create | Create, View |
+| Subadmin/Enroller | View\* | View\* | View\* | - | - | - | View\* | - | - | View\* | View\* |
+| View Only | View\* | View\* | View\* | - | - | - | View\* | - | - | View\* | - |
+
+\*View anonymous data only \(no personally identifiable information\)
+
 ### How to change a user's tier
 
 To manage an existing user's administrative permissions, simply navigate to:
