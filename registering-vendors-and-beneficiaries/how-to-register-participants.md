@@ -75,9 +75,9 @@ Custom fields such as age and gender can also be added, and used to filter users
 
 ## 3. Sempo Dashboard
 
-**Step 1:** From the Sempo Dashboard, click on Accounts in the side-bar, and then “+ Add New” in the top right hand corner.
+**Step 1:** From the Sempo Dashboard, click on Accounts in the side-bar, and then “Import” in the top right hand corner.
 
-![](../.gitbook/assets/screen-shot-2020-09-08-at-10.38.42-am.png)
+![](../.gitbook/assets/screen-shot-2021-01-14-at-2.35.42-pm%20%281%29.png)
 
 **Step 2:** Ensure that account type is set to “BENEFICIARY”  \(or what you would like your new participant to be\)
 
