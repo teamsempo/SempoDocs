@@ -79,15 +79,19 @@ Custom fields such as age and gender can also be added, and used to filter users
 
 ![](../.gitbook/assets/screen-shot-2021-01-14-at-2.35.42-pm%20%281%29.png)
 
-**Step 2:** Ensure that account type is set to “BENEFICIARY”  \(or what you would like your new participant to be\)
+**Step 2:** Click "Add Individual Accounts"
+
+![](../.gitbook/assets/screen-shot-2021-02-24-at-1.31.18-pm.png)
+
+**Step 3:** Ensure that account type is set to “BENEFICIARY”  \(or what you would like your new participant to be\)
 
 ![](../.gitbook/assets/screen-shot-2020-09-10-at-2.05.50-pm.png)
 
-**Step 3:** Enter the user’s first name,  last name, and whatever other custom attributes your organisation may be tracking. 
+**Step 4:** Enter the user’s first name,  last name, and whatever other custom attributes your organisation may be tracking. 
 
 If recipients will be logging into the Android app, add their phone number.  Alternatively, if they will be using a transfer card, you can enter the serial number manually, or click on the QR icon to scan a card using your browser’s camera.
 
-**Step 4:** If you wish to disburse funds immediately, enter an amount. Alternatively, leave the value as 0.
+**Step 5:** If you wish to disburse funds immediately, enter an amount. Alternatively, leave the value as 0.
 
 {% hint style="info" %}
 Note: The initial disbursement amount will be set to the default disbursement amount set in the organisation settings \([https://app.withsempo.com/settings/organisation](https://app.withsempo.com/settings/organisation)\)
@@ -95,7 +99,7 @@ Note: The initial disbursement amount will be set to the default disbursement am
 
 ![](../.gitbook/assets/screen-shot-2020-09-08-at-10.42.24-am.png)
 
-**Step 5:** The confirmation screen will show a 4 digit PIN. If participants are using the Android App, tell them this pin, and they can use it along with their phone number to log into the app. Otherwise ignore the pin. This pin will also be sent via SMS to the participant.
+**Step 6:** The confirmation screen will show a 4 digit PIN. If participants are using the Android App, tell them this pin, and they can use it along with their phone number to log into the app. Otherwise ignore the pin. This pin will also be sent via SMS to the participant.
 
 ![](../.gitbook/assets/screen-shot-2020-09-10-at-2.08.23-pm.png)
 
