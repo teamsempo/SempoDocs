@@ -44,3 +44,21 @@ You can register multiple users \(e.g. family members, cashiers\) under one acco
 
 {% page-ref page="../beneficiary-disbursements/disbursing-funds.md" %}
 
+## Disabling Transfer Cards
+
+From the user page, you can disable a transfer card.
+
+{% hint style="danger" %}
+Warning: A card that has been disabled cannot be re-enabled.
+{% endhint %}
+
+1. **Click the "Disable Card" icon**
+
+![](../.gitbook/assets/screen-shot-2021-03-18-at-9.54.47-am.png)
+
+**2. Click "OK". Note you cannot reenable a card.**
+
+![](../.gitbook/assets/screen-shot-2021-03-18-at-9.55.05-am.png)
+
+
+
