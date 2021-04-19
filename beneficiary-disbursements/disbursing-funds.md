@@ -1,7 +1,7 @@
 # Disbursing to beneficiaries
 
 {% hint style="info" %}
-**Note:** Transfers made by an admin will only be _automatically approved_ if the value equals the default amount set on the system. See [Dashboard Settings](../sempo-dashboard/dashboard-overview/dashboard-settings.md). 
+**Note:** Transfers made by an admin will only be _automatically approved_ if the value equals the default amount set on the system and multi-approval is disabled. See [Dashboard Settings](../sempo-dashboard/dashboard-overview/dashboard-settings.md). 
 {% endhint %}
 
 {% hint style="success" %}
@@ -21,6 +21,21 @@ This option is only available for superadmins \(e.g. Project Leads\). Steps are:
 **Step 3:** Set up the default amount to be disbursed 
 
 ![](../.gitbook/assets/image%20%2824%29.png)
+
+## Setting up multi-approval for bulk disbursements
+
+This option is only available for superadmins \(e.g. Project Leads\). Steps are:
+
+**Step 1:** Click your name on the top of the menu  
+**Step 2:** Click Organisation Settings
+
+
+
+![](../.gitbook/assets/image%20%2823%29.png)
+
+**Step 3:** Select "Require Multiple Transfer Approvals" 
+
+![](../.gitbook/assets/screen-shot-2021-04-20-at-6.31.03-am.png)
 
 ## Disbursing funds to an individual
 
@@ -44,23 +59,37 @@ The disbursement will be complete!
 
 * **Step 1:** On the Accounts List Page, select the desired accounts for disbursement
 
-![Step 1](../.gitbook/assets/screen-shot-2020-09-11-at-6.36.01-am.png)
+![](../.gitbook/assets/screen-shot-2021-04-20-at-6.34.22-am.png)
 
 {% hint style="warning" %}
-You can combine [Filtering]() and the "Select all" function \(highlighted above\) to disburse to specific groups of people. For example, all beneficiaries who are between the ages of 25-40, female and living in Port Villa.
+You can combine [Filtering](../monitoring-and-analysing-data/managing-beneficiaries.md#filtering) and the "Select all" function \(highlighted above\) to disburse to specific groups of people. For example, all beneficiaries who are between the ages of 25-40, female and living in Port Villa.
 {% endhint %}
 
 * **Step 2:** Click "New Transfer"
 
-![Step 2](../.gitbook/assets/screen-shot-2020-09-08-at-12.07.33-pm.png)
+![](../.gitbook/assets/screen-shot-2021-04-20-at-6.34.43-am.png)
 
 * **Step 3:** Enter the desired amount. You can also change the transaction type to “Reclamation” or “Balance” \(Sets the user balance\)
 
-![Step 3](../.gitbook/assets/screen-shot-2020-09-08-at-12.04.02-pm.png)
+![](../.gitbook/assets/screen-shot-2021-04-20-at-6.35.18-am%20%281%29.png)
 
-* **Step 4:** Click “OK” to confirm the transfer
+* **Step 4:** Click “Create” to create the bulk transfer
 
-![Step 4](../.gitbook/assets/screen-shot-2020-09-08-at-12.04.13-pm.png)
+![](../.gitbook/assets/screen-shot-2021-04-20-at-6.35.18-am.png)
+
+* **Step 5:** Review the bulk transfer
+
+![](../.gitbook/assets/screen-shot-2021-04-20-at-6.35.41-am.png)
+
+* **Step 6:** Approve the bulk transfer. 
+
+{% hint style="info" %}
+Note: if multi-approval is set, you will need two admins to approve the transfer
+{% endhint %}
+
+![](../.gitbook/assets/screen-shot-2021-04-20-at-6.35.50-am.png)
+
+![](../.gitbook/assets/screen-shot-2021-04-20-at-6.36.02-am.png)
 
 {% hint style="success" %}
 If you prefer, Sempo can also assist with making transfers to your beneficiaries according to your preferred schedule.
