@@ -61,6 +61,7 @@ Sempo conducts a legal and financial feasibility assessment of each country befo
 * Ukraine
 * Yemen
 * Zimbabwe
+* Nepal
 
 For more information please contact [compliance@withsempo.com](mailto:compliance@teamsempo.com)
 
