@@ -11,7 +11,7 @@ For guidance on how to register and train beneficiaries, please see below [benef
 1. Go Shopping! **Look for vendors** that support Sempo.
 2. Once **you're ready to pay**, the **vendor will enter the amount and the category of your purchase** into the app on their phone.
 
-3. To pay just **tap your card** anywhere on the vendor's phone. Hold it still for 5 seconds.
+3\. To pay just **tap your card** anywhere on the vendor's phone. Hold it still for 5 seconds.
 
 ![Credit: Keith Parsons / Oxfam Aus](../.gitbook/assets/screen-shot-2020-09-11-at-7.22.15-am.png)
 
@@ -20,11 +20,10 @@ For guidance on how to register and train beneficiaries, please see below [benef
 ![Credit: Keith Parsons / Oxfam Aus](../.gitbook/assets/screen-shot-2020-09-11-at-7.22.24-am.png)
 
 {% hint style="info" %}
-You can [check your balance](../vendor-guide/vendor-guide/using-the-app-as-a-vendor.md#how-to-check-balance) with a **Community Focal Person** or **any vendor.**  
+You can [check your balance](../vendor-guide/vendor-guide/using-the-app-as-a-vendor.md#how-to-check-balance) with a **Community Focal Person** or **any vendor.**\
 ![](../.gitbook/assets/screen-shot-2020-09-11-at-7.21.58-am.png)
 {% endhint %}
 
 {% hint style="info" %}
 **For NGOs**, get in contact with Sempo to print your **custom branded** cards [team@withsempo.com](mailto:team@withsempo.com)
 {% endhint %}
-

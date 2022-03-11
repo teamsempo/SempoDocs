@@ -7,7 +7,7 @@
 * [Overview of Sempo](quick-start/quick-start/README.md)
   * [What is Sempo?](quick-start/quick-start/what-is-sempo.md)
   * [What does Sempo provide?](quick-start/quick-start/sempo-products-explained.md)
-  * [How Sempo's payments work \(5 min video\)](quick-start/quick-start/sempo-payments-overview.md)
+  * [How Sempo's payments work (5 min video)](quick-start/quick-start/sempo-payments-overview.md)
   * [Quick FAQs](quick-start/quick-start/general-faqs.md)
 * [Working with Sempo](quick-start/overview-of-working-with-sempo.md)
 
@@ -18,7 +18,7 @@
   * [Solving Problems with the App](vendor-guide/vendor-guide/solving-problems-with-the-app.md)
   * [Payment Schedule Advice](vendor-guide/vendor-guide/payment-schedule-advice.md)
 
-## Using the Sempo Dashboard <a id="sempo-dashboard"></a>
+## Using the Sempo Dashboard <a href="#sempo-dashboard" id="sempo-dashboard"></a>
 
 * [Dashboard overview](sempo-dashboard/dashboard-overview/README.md)
   * [Admin access tiers](sempo-dashboard/dashboard-overview/access-tiers.md)
@@ -30,7 +30,7 @@
 * [Logging into the Dashboard](sempo-dashboard/common-login-errors.md)
 * [Creating New Projects](sempo-dashboard/creating-new-projects.md)
 
-## Using the Sempo App and Cards <a id="mobile-app"></a>
+## Using the Sempo App and Cards <a href="#mobile-app" id="mobile-app"></a>
 
 * [Installing the Sempo app](mobile-app/installing-android-devices-with-the-sempo-app.md)
 * [Navigating the Sempo app](mobile-app/app-navigation.md)
@@ -55,17 +55,17 @@
   * [Prepare your beneficiary registration and training session](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/prepare-beneficiary-data-collection-mechanism.md)
   * [Deliver beneficiary registration and training session](registering-vendors-and-beneficiaries/overview-of-registering-beneficiaries/deliver-your-beneficiary-registration-and-training-session.md)
 
-## Disbursing to Beneficiaries <a id="beneficiary-disbursements"></a>
+## Disbursing to Beneficiaries <a href="#beneficiary-disbursements" id="beneficiary-disbursements"></a>
 
 * [Transfer types](beneficiary-disbursements/transfer-types.md)
 * [Viewing, approving or rejecting transfers](beneficiary-disbursements/managing-transfers.md)
 * [Disbursing to beneficiaries](beneficiary-disbursements/disbursing-funds.md)
 
-## Reimbursing Vendors <a id="vendor-reimbursements"></a>
+## Reimbursing Vendors <a href="#vendor-reimbursements" id="vendor-reimbursements"></a>
 
 * [Vendor withdrawals and reimbursement](vendor-reimbursements/vendor-reimbursement-1.md)
 
-## Monitoring and Analysing Program Data <a id="monitoring-and-analysing-data"></a>
+## Monitoring and Analysing Program Data <a href="#monitoring-and-analysing-data" id="monitoring-and-analysing-data"></a>
 
 * [Viewing, filtering and editing participant accounts](monitoring-and-analysing-data/managing-beneficiaries.md)
 * [Analysing participant and transfer data](monitoring-and-analysing-data/analysing-beneficiary-and-vendor-data.md)
@@ -73,14 +73,15 @@
 
 ## Integrations
 
-* [Sempo API \(Beta\)](integrations/sempo-api-beta.md)
+* [Sempo API (Beta)](integrations/sempo-api-beta.md)
 * [KoboToolbox](integrations/kobotoolbox.md)
 * [Commcare](integrations/commcare.md)
+* [SurveyCTO](integrations/surveycto.md)
 * [Don't see an integration? Contact Us!](mailto:team@withsempo.com)
 
 ## Policies & Security
 
-* [Know Your Customer \(KYC\)](policies-and-security/kyc.md)
+* [Know Your Customer (KYC)](policies-and-security/kyc.md)
 * [Security FAQs](policies-and-security/faqs.md)
 * [Sempo's AML/CTF Policy](https://withsempo.com/legal/aml-policy/)
 * [Privacy Policy](https://withsempo.com/legal/privacy-policy/)
@@ -92,4 +93,3 @@
 * [Glossary of Terms](help-and-feedback/definitions.md)
 * [Email Support](mailto:help@withsempo.com)
 * [Reading on Cash Transfer Programming](help-and-feedback/reading-on-cash-transfer-programming.md)
-

@@ -14,7 +14,7 @@ Remember, you can always LIVE CHAT with the Sempo team if you are having difficu
 
 **Try this:**
 
-1. Fresh the App \(if the customer is new to the system, the vendor needs to re-sync with the server\)
+1. Fresh the App (if the customer is new to the system, the vendor needs to re-sync with the server)
 
 **For payments using QR codes**
 
@@ -32,8 +32,8 @@ Remember, you can always LIVE CHAT with the Sempo team if you are having difficu
 
 **Try this:**
 
-1. Fresh the App \(if the customer is new to the system, the vendor needs to re-sync with the server\)
-2. Make sure mobile data is turned on 
+1. Fresh the App (if the customer is new to the system, the vendor needs to re-sync with the server)
+2. Make sure mobile data is turned on&#x20;
 
 ## Forgotten PIN?
 
@@ -54,8 +54,8 @@ Once you have initiated a transfer you can not cancel it. This includes in-store
 If you need to change the amount you sent or refund a customer for an incorrect charge, please initiate a new payment of that amount to the individuals phone number or unique code.
 
 {% hint style="danger" %}
-If you believe a transfer was due to **fraudulent activity** please immediately contact us via the LIVE CHAT or via email [compliance@withsempo.com](mailto:compliance@withsempo.com). We will promptly investigate the issue and provide a refund according to our Terms of Service.   
-  
+If you believe a transfer was due to **fraudulent activity** please immediately contact us via the LIVE CHAT or via email [compliance@withsempo.com](mailto:compliance@withsempo.com). We will promptly investigate the issue and provide a refund according to our Terms of Service. \
+\
 Failure to report a fraudulent activity might cause your account to be suspended.
 {% endhint %}
 
@@ -63,7 +63,7 @@ Failure to report a fraudulent activity might cause your account to be suspended
 
 Sempo automatically reconciles withdrawal requests from Vendors.
 
-The time it will take to reach your account will be between 5 and 7 business days \(excluding Public Holidays\), and may differ based on your financial institution. 
+The time it will take to reach your account will be between 5 and 7 business days (excluding Public Holidays), and may differ based on your financial institution.&#x20;
 
 For questions about a specific withdrawal, please contact us via the in-app LIVE CHAT.
 
@@ -87,9 +87,9 @@ How much money you can send depends on your weekly and monthly account limits. T
 
 For more details please see Sempo account limits.
 
-{% page-ref page="../policies-and-security/faqs.md" %}
-
-
+{% content-ref url="../policies-and-security/faqs.md" %}
+[faqs.md](../policies-and-security/faqs.md)
+{% endcontent-ref %}
 
 
 

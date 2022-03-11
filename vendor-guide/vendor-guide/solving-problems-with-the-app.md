@@ -41,15 +41,17 @@ description: >-
 
 * The Sempo App sometimes needs the internet when logging in, to download critical information. Find a stronger internet connection and try to log in again.
 
-### I’ve received a payment, but I need to make a refund to a beneficiary. 
+### I’ve received a payment, but I need to make a refund to a beneficiary.&#x20;
 
 * Notify Oxfam of the name of the customer, and the exact amount owed.
-* Oxfam will reverse the transaction within the next 24 hours. 
+* Oxfam will reverse the transaction within the next 24 hours.&#x20;
 
 ### I want to export my data to an excel.
 
 * Go to the settings page and click "Export Data"
-* Enter an email address and click the button. You will receive an email with a spreadsheet link \(expires in 24 hours\). This contains all transfers on the account with data. Specifically: Transfer Amount, Created, Resolved Date, Transfer Type, Transfer Use, Transfer Status.  ![](https://lh3.googleusercontent.com/xVAOQ3LbWtgsyuoLP76w06GgcldSjrybuHKZihhF-qI1Tf00AczlQlAngWSpPVGjhvnsX70PlCApkassv4vxiORWrTaqEJgH-Ymg3lm3nn1kg2XetSwNEFx7qICbcXNuEQdChT26)
+* Enter an email address and click the button. You will receive an email with a spreadsheet link (expires in 24 hours). This contains all transfers on the account with data. Specifically: Transfer Amount, Created, Resolved Date, Transfer Type, Transfer Use, Transfer Status.\
+  \
+  ![](https://lh3.googleusercontent.com/xVAOQ3LbWtgsyuoLP76w06GgcldSjrybuHKZihhF-qI1Tf00AczlQlAngWSpPVGjhvnsX70PlCApkassv4vxiORWrTaqEJgH-Ymg3lm3nn1kg2XetSwNEFx7qICbcXNuEQdChT26)
 
 ### I don’t know what my PIN is for logging into the Sempo App on the first occasion.
 
@@ -71,7 +73,6 @@ description: >-
 
 ### I am having some other issue, what should I do?
 
-* Many problems can be solved by restarting the Sempo app. Close and restart the Sempo App, and try again. \(Like most pieces of technology giving it a chance to “refresh” can help!\)
+* Many problems can be solved by restarting the Sempo app. Close and restart the Sempo App, and try again. (Like most pieces of technology giving it a chance to “refresh” can help!)
 
-## 
-
+##
